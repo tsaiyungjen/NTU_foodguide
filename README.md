@@ -10,6 +10,7 @@
 
 - 適合正式部署、多頁應用、自訂 UI 複雜流程
 
+<pre>
 ntu-foodmap/
 ├── backend/ # Python 後端
 │ ├── app.py # 入口點
@@ -29,7 +30,7 @@ ntu-foodmap/
 ├── .gitignore # 忽略的檔案類型
 ├── README.md
 └── run.sh / start.sh # 本地啟動腳本
-
+</pre>
 
 ---
 
@@ -40,6 +41,7 @@ ntu-foodmap/
 - 全 Python 編寫  
 - 可用 [Streamlit Cloud](https://streamlit.io/cloud) 一鍵部署
 
+<pre>
 ntu-food-hunter/
 ├── app/
 │ ├── main.py # 主介面（首頁、搜尋、顯示結果）
@@ -51,6 +53,7 @@ ntu-food-hunter/
 ├── requirements.txt # pip 套件安裝清單
 ├── .gitignore # 忽略 pycache、env 等
 └── README.md
+</pre>
 
 ---
 
