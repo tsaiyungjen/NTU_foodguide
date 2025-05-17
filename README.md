@@ -11,7 +11,7 @@
 - 適合正式部署、多頁應用、自訂 UI 複雜流程
 
 <pre>
-ntu-foodmap/
+ntu-foodmap/    
 ├── backend/ # Python 後端
 │ ├── app.py # 入口點
 │ ├── models/ # ORM 資料模型
