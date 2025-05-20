@@ -7,7 +7,9 @@ from datetime import datetime
 
 st.set_page_config(page_title="NTU Food Hunter", layout="wide")
 
-st.title("🍽️ NTU Food Hunter 台大美食推薦系統")
+st.title("NTU Food Hunter")
+st.subheader("最懂你的台大美食導航🍽️")
+st.caption("由台大學生開發，根據地區、類型、心情推薦你適合的餐廳！")
 
 # 讀取資料
 data_path = "app/data/restaurants.csv"
