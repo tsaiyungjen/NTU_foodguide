@@ -12,19 +12,32 @@ st.title("🍽️ NTU Food Hunter 台大美食推薦系統")
 data_path = "app/data/restaurants.csv"
 filter_obj = RestaurantFilter(data_path)
 
-# 預處理欄位（轉成字串、移除空白、去重）
-df = filter_obj.df.copy()
-df["location_label"] = df["location_label"].astype(str).str.strip()
-df["category_tag"] = df["category_tag"].astype(str).str.strip()
-
-location_options = sorted([loc for loc in df["location_label"].unique() if loc and loc.lower() != 'nan'])
-category_options = sorted([cat for cat in df["category_tag"].unique() if cat and cat.lower() != 'nan'])
-
 # 側邊欄篩選選單
 st.sidebar.header("🔍 篩選條件")
-price_level = st.sidebar.multiselect("價位", options=["$", "$$", "$$$"])
+
+# 價位選單（轉為人類易懂的格式）
+price_mapping = {"1": "平價", "2": "中等", "3": "高價"}
+price_options_raw = filter_obj.df["price_level"].dropna().unique()
+price_options_raw = sorted([str(p).strip() for p in price_options_raw if str(p).strip().isdigit()])
+price_options_display = [price_mapping.get(p, p) for p in price_options_raw]
+price_dict = dict(zip(price_options_display, price_options_raw))
+price_level = st.sidebar.multiselect("價位", options=price_options_display)
+
+# 地區
+location_options = sorted([
+    loc.strip() for loc in filter_obj.df["location_label"].astype(str).dropna().unique()
+    if loc.strip().lower() not in ["nan", ""]
+])
 location = st.sidebar.multiselect("地區", options=location_options)
+
+# 類型
+category_options = sorted([
+    cat.strip() for cat in filter_obj.df["category_tag"].astype(str).dropna().unique()
+    if cat.strip().lower() not in ["nan", ""]
+])
 category = st.sidebar.multiselect("餐廳類型", options=category_options)
+
+# 心情推薦
 mood = st.sidebar.selectbox("心情推薦", ["", "吃點罪惡的", "低熱量清爽健康", "趕時間吃快點", "天氣很熱", "天氣很冷", 
                                      "半夜肚子餓", "聚餐", "讀書辦公", "異國料理探險", "下午茶時光"])
 only_open = st.sidebar.checkbox("只顯示營業中")
@@ -35,7 +48,7 @@ if mood:
 else:
     df = filter_obj.df
     if price_level:
-        df = filter_obj.filter_by_price(price_level)
+        df = filter_obj.filter_by_price([price_dict[p] for p in price_level])
     if location:
         df = filter_obj.filter_by_location(location)
     if category:
