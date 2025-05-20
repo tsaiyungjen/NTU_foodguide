@@ -16,9 +16,9 @@ filter_obj = RestaurantFilter(data_path)
 st.sidebar.header("🔍 篩選條件")
 
 # 價位選單（轉為人類易懂的格式）
-price_mapping = {"1": "平價", "2": "中等", "3": "高價"}
+price_mapping = {"1.0": "平價", "2.0": "中等", "3.0": "高價"}
 price_options_raw = filter_obj.df["price_level"].dropna().unique()
-price_options_raw = sorted([str(p).strip() for p in price_options_raw if str(p).strip().isdigit()])
+price_options_raw = sorted([str(int(float(p))) for p in price_options_raw if str(p).replace('.', '', 1).isdigit()])
 price_options_display = [price_mapping.get(p, p) for p in price_options_raw]
 price_dict = dict(zip(price_options_display, price_options_raw))
 price_level = st.sidebar.multiselect("價位", options=price_options_display)
