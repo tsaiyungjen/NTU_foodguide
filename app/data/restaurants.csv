@@ -557,7 +557,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期三：12:00 - 星期三 20:00
 星期四：12:00 - 星期四 20:00
 星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=11622478104722607896,咖啡廳、甜點、早午餐、飲料,1
+星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=11622478104722607896,"咖啡廳、甜點、早午餐、飲料",1
 73,Melbourne Press Cafe,"No. 11號, Lane 56, Section 3, Xinsheng South Road, Da’an District",4.4,539,25.020478,121.533518,ChIJN1y6RacCaDQRElenCbyeN2w,google,cafe,新月台,"星期日：10:00 - 星期日 19:00
 星期一：10:00 - 星期一 19:00
 星期二：10:00 - 星期二 19:00
@@ -691,7 +691,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 100,山徑拾光 TRAIL COFFEE,"1樓, No. 4號, Lane 48, Wenzhou Street, Da’an District",4.9,161,25.021339,121.532857,ChIJ8QH-FZ2pQjQRjtr1CP5Rmew,google,cafe,新月台,"星期日：13:00 - 星期日 19:00
 星期四：13:00 - 星期四 19:00
 星期五：13:00 - 星期五 19:00
-星期六：13:00 - 星期六 19:00",,https://maps.google.com/?cid=17048748015901596302,咖啡廳，甜點,1
+星期六：13:00 - 星期六 19:00",,https://maps.google.com/?cid=17048748015901596302,"咖啡廳，甜點",1
 101,Rebirth Cafe & Restaurant,"No. 2, Lane 48, Wenzhou Street, Da’an District",4.2,820,25.021369,121.532952,ChIJffQZ6YipQjQRAdV3sCg2bcM,google,cafe,新月台,,2.0,https://maps.google.com/?cid=14081971158244644097,"日式, 咖啡廳, 宵夜, 甜點, 打卡店",1
 105,Half coffee,"1樓, No. 4號, Alley 4, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",4.8,414,25.015986,121.532084,ChIJ5Z5CjJqpQjQRP9hMKOKix_k,google,cafe,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 18:00
 星期一：10:00 - 星期一 18:00
@@ -764,7 +764,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期三：11:30 - 星期三 19:30
 星期四：11:30 - 星期四 19:30
 星期五：11:30 - 星期五 19:30
-星期六：11:30 - 星期六 19:30",,https://maps.google.com/?cid=7734987960028415353,甜點,1
+星期六：11:30 - 星期六 19:30",,https://maps.google.com/?cid=7734987960028415353,"甜點",1
 124,貝琪比利時鬆餅,"No. 72-5號, Section 3, Xinsheng South Road, Da’an District",5.0,6,25.019487,121.533526,ChIJjYE1PwCpQjQRHQo9yHrEAiY,google,bakery,"公館捷運站1號出口,新月台","星期日：15:00 - 星期日 19:00
 星期二：15:00 - 星期二 19:00
 星期三：15:00 - 星期三 19:00
@@ -854,7 +854,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期三：11:00 - 星期三 22:00
 星期四：11:00 - 星期四 22:00
 星期五：11:00 - 星期五 23:00
-星期六：11:00 - 星期六 23:00",2.0,https://maps.google.com/?cid=5232806997765852295,"速食, 披薩, 外送, 服務不佳",1
+星期六：11:00 - 星期六 23:00",2.0,https://maps.google.com/?cid=5232806997765852295,"速食, 披薩, 外送",1
 143,主廚黛薇的印尼小廚/娜聖印尼商行 Chef Dewi Makanan Indonesia/Nasem Toko Indo,"No. 2號, Alley 2, Lane 74, Wenzhou Street, Da’an District",4.8,6,25.019825,121.532668,ChIJbRtIBIwDaDQRogDa22keuCo,google,meal_takeaway,新月台,"星期日：09:00 - 星期日 20:00
 星期二：09:00 - 星期二 20:00
 星期三：09:00 - 星期三 20:00
