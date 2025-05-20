@@ -14,11 +14,11 @@ st.markdown(
         <div style="font-size: 2rem; font-weight: bold; color: #9D3327; margin-bottom: 0.3rem;">
             NTU Food Hunter
         </div>
-        <div style="font-size: 0.95rem; color: #888; margin-bottom: 0.8rem;">
+        <div style="font-size: 0.95rem; color: #676B18; margin-bottom: 0.8rem;">
             📂 點選左上角「＞」挑選餐廳
         </div>
-        <div style="font-size: 1.3rem; font-weight: bold; color: #676B18; margin-bottom: 0.3rem;">
-            最懂你的台大美食導航🍜
+        <div style="font-size: 1.3rem; font-weight: bold; color: #555; margin-bottom: 0.3rem;">
+            最懂你的台大美食導航 🍜
         </div>
         <div style="font-size: 1rem; color: #444; margin-top: 0.2rem;">
             根據地區、類型和心情推薦餐廳！
