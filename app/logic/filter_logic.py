@@ -140,6 +140,14 @@ class RestaurantFilter:
     def sort_by_popularity(self, df, ascending=False):
         """根據評分數量和評分綜合排序"""
         df = df.copy()
+        # 將欄位轉為數字型別，若無法轉換則變為 NaN
+        df['rating'] = pd.to_numeric(df['rating'], errors='coerce')
+        df['user_ratings_total'] = pd.to_numeric(df['user_ratings_total'], errors='coerce')
+        
+        # 填補缺漏資料，或將 NaN 改為 0 或其他預設值
+        df['rating'] = df['rating'].fillna(0)
+        df['user_ratings_total'] = df['user_ratings_total'].fillna(0)
+
         df['popularity_score'] = df['rating'] * np.log1p(df['user_ratings_total'])
         return df.sort_values('popularity_score', ascending=ascending)
     
