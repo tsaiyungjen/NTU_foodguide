@@ -54,17 +54,24 @@ available_prices = sorted(set(p for p in df["price_level"] if p in price_map))
 price_display = [price_map[p] for p in available_prices]
 price_lookup = {price_map[k]: k for k in price_map if k in available_prices}
 
+# 下拉選單樣式
+dropdown_style = "style='background-color:white; border:1px solid #ccc; border-radius:4px;'"
+
 # 一般條件
-price_level = st.sidebar.multiselect("價位", options=price_display)
+st.markdown("<div style='margin-bottom:0.2rem;'>價位</div>", unsafe_allow_html=True)
+price_level = st.sidebar.multiselect("", options=price_display, label_visibility="collapsed")
+st.markdown("<div style='margin-bottom:0.2rem;'>地區</div>", unsafe_allow_html=True)
 location_tags = extract_tags(df["location_label"])
-location = st.sidebar.multiselect("地區", options=location_tags)
+location = st.sidebar.multiselect("", options=location_tags, label_visibility="collapsed")
+st.markdown("<div style='margin-bottom:0.2rem;'>餐廳類型</div>", unsafe_allow_html=True)
 category_tags = extract_tags(df["predicted_tags"])
-category = st.sidebar.multiselect("餐廳類型", options=category_tags)
+category = st.sidebar.multiselect("", options=category_tags, label_visibility="collapsed")
 only_open_general = st.sidebar.checkbox("只顯示營業中", key="open_general")
 sort_general = st.sidebar.selectbox("排序方式", ["熱門度", "評分"], key="sort_general")
-search_general = st.sidebar.button("🔍 搜尋一般條件")
+search_general = st.sidebar.button("🔍 搜尋一般條件", type="primary")
 
 # 心情條件區塊
+st.sidebar.markdown("<hr>", unsafe_allow_html=True)
 st.sidebar.title("心情篩選器")
 moods = [
     ("🍔吃點罪惡的"),
@@ -87,7 +94,7 @@ for mood_option in moods:
 
 only_open_mood = st.sidebar.checkbox("只顯示營業中", key="open_mood")
 sort_mood = st.sidebar.selectbox("排序方式", ["熱門度", "評分"], key="sort_mood")
-search_mood = st.sidebar.button("🔍 搜尋心情推薦")
+search_mood = st.sidebar.button("🔍 搜尋心情推薦", type="primary")
 
 # 資料處理邏輯
 if search_general:
@@ -115,4 +122,7 @@ elif search_mood and st.session_state.selected_mood:
         render_card(row)
 
 else:
-    st.markdown("<p style='color:#888;'>📂 點選左上角「＞」挑選餐廳</p>", unsafe_allow_html=True)
+    st.markdown("""
+    <div style='color:#888;'>📂 點選左上角「＞」挑選餐廳</div>
+    <div style='color:#888;'>可以選擇使用「一般篩選器」或「心情篩選器」🔍</div>
+    """, unsafe_allow_html=True)
