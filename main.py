@@ -54,18 +54,18 @@ available_prices = sorted(set(p for p in df["price_level"] if p in price_map))
 price_display = [price_map[p] for p in available_prices]
 price_lookup = {price_map[k]: k for k in price_map if k in available_prices}
 
-# 下拉選單樣式
-dropdown_style = "style='background-color:white; border:1px solid #ccc; border-radius:4px;'"
-
-# 一般條件
-st.markdown("<div style='margin-bottom:0.2rem;'>價位</div>", unsafe_allow_html=True)
+# 一般條件選單區
+st.sidebar.markdown("<div style='margin-bottom:0.2rem;'>價位</div>", unsafe_allow_html=True)
 price_level = st.sidebar.multiselect("", options=price_display, label_visibility="collapsed")
-st.markdown("<div style='margin-bottom:0.2rem;'>地區</div>", unsafe_allow_html=True)
+
+st.sidebar.markdown("<div style='margin-bottom:0.2rem;'>地區</div>", unsafe_allow_html=True)
 location_tags = extract_tags(df["location_label"])
 location = st.sidebar.multiselect("", options=location_tags, label_visibility="collapsed")
-st.markdown("<div style='margin-bottom:0.2rem;'>餐廳類型</div>", unsafe_allow_html=True)
+
+st.sidebar.markdown("<div style='margin-bottom:0.2rem;'>餐廳類型</div>", unsafe_allow_html=True)
 category_tags = extract_tags(df["predicted_tags"])
 category = st.sidebar.multiselect("", options=category_tags, label_visibility="collapsed")
+
 only_open_general = st.sidebar.checkbox("只顯示營業中", key="open_general")
 sort_general = st.sidebar.selectbox("排序方式", ["熱門度", "評分"], key="sort_general")
 search_general = st.sidebar.button("🔍 搜尋一般條件", type="primary")
