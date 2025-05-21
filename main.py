@@ -64,12 +64,17 @@ location = st.sidebar.multiselect("地區", options=location_tags)
 category_tags = extract_tags(df["predicted_tags"])
 category = st.sidebar.multiselect("餐廳類型", options=category_tags)
 
-# 😊 心情推薦下拉選單
-mood = st.sidebar.selectbox("心情推薦", ["", "吃點罪惡的", "低熱量清爽健康", "趕時間吃快點", "天氣很熱", "天氣很冷",
-                                     "半夜肚子餓", "聚餐", "讀書辦公", "異國料理探險", "下午茶時光"])
-
 # 🕒 勾選是否只顯示營業中的餐廳
 only_open = st.sidebar.checkbox("只顯示營業中")
+
+# 💡 心情推薦按鈕區塊
+st.sidebar.markdown("#### 💡 心情推薦")
+moods = ["吃點罪惡的", "低熱量清爽健康", "趕時間吃快點", "天氣很熱", "天氣很冷",
+         "半夜肚子餓", "聚餐", "讀書辦公", "異國料理探險", "下午茶時光"]
+selected_mood = None
+for mood_option in moods:
+    if st.sidebar.button(mood_option):
+        selected_mood = mood_option
 
 # ⭐ 排序方式選單（熱門度 or 評分）
 sort_option = st.sidebar.selectbox("排序方式", ["熱門度", "評分"])
@@ -80,8 +85,8 @@ search = st.sidebar.button("🔎搜尋")
 # ✅ 若有按下搜尋按鈕，則根據篩選條件過濾資料
 if search:
     # 若有選心情推薦，優先套用
-    if mood:
-        df = filter_obj.filter_by_mood(mood)
+    if selected_mood:
+        df = filter_obj.filter_by_mood(selected_mood)
     else:
         # 一般篩選條件
         if price_level:
