@@ -1,11 +1,11 @@
-id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_type,location_label,opening_hours,price_level,map_url,predicted_tags,is_food
+id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_type,location_label,opening_hours,price_level,map_url,predicted_tags
 1,Mala Hot Pot Taipei Gongguan,"No. 94號, Section 3, Tingzhou Road, Zhongzheng District",4.2,6733,25.014498,121.532819,ChIJycu5coupQjQRl9dmANfpHuw,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期一 02:00
 星期一：11:30 - 星期二 02:00
 星期二：11:30 - 星期三 02:00
 星期三：11:30 - 星期四 02:00
 星期四：11:30 - 星期五 02:00
 星期五：11:30 - 星期六 02:00
-星期六：11:30 - 星期日 02:00",2.0,https://maps.google.com/?cid=17014293551886292887,"火鍋, 精緻聚餐, 打卡店, 宵夜",1
+星期六：11:30 - 星期日 02:00",2.0,https://maps.google.com/?cid=17014293551886292887,"鍋物, 台式"
 2,Post Restaurant Cafe,"No. 8, Lane 60, Section 3, Xinsheng South Road, Da’an District",4.2,1568,25.020028,121.533469,ChIJNfAt5MSrQjQR-Z8NpMSCkjk,google,food,新月台,"星期日：11:00 - 星期日 21:00
 星期一：11:00 - 星期一 14:30
 星期一：17:00 - 星期一 21:00
@@ -15,14 +15,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：17:00 - 星期四 21:00
 星期五：11:00 - 星期五 14:30
 星期五：17:00 - 星期五 21:00
-星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=4148521987839205369,"義式, 甜點, 精緻聚餐, 咖啡廳, 早午餐",1
-3,Taiyi Milk King,"No. 82號, Section 3, Xinsheng South Road, Da’an District",4.1,7793,25.018984,121.533514,ChIJNfnNcompQjQR3DicBdfTkMs,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 23:00
-星期一：11:00 - 星期一 23:00
-星期二：11:00 - 星期二 23:00
-星期三：11:00 - 星期三 23:00
-星期四：11:00 - 星期四 23:00
-星期五：11:00 - 星期五 23:00
-星期六：11:00 - 星期六 23:00",1.0,https://maps.google.com/?cid=14668456906811259100,"甜點, 台式, 冰店",1
+星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=4148521987839205369,"義式, 麵食, 早午餐, 平價快食"
 4,SoHo Pasta,"No. 3號, Lane 60, Section 3, Xinsheng South Road, Da’an District",4.3,906,25.02013,121.533526,ChIJtde7A4mpQjQR3cag3SFcF7c,google,food,新月台,"星期日：11:30 - 星期日 14:30
 星期日：17:00 - 星期日 21:30
 星期一：11:30 - 星期一 14:30
@@ -36,7 +29,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:30
 星期五：17:00 - 星期五 21:30
 星期六：11:30 - 星期六 14:30
-星期六：17:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=13193114933927134941,"義式, 麵食, 冰店",1
+星期六：17:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=13193114933927134941,"義式, 麵食"
 5,愛樂廚房,"2樓, No. 282號, Section 3, Roosevelt Road, Zhongzheng District",3.8,1339,25.016499,121.532105,ChIJDcdGkoupQjQR63Jx4nLDFRE,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 22:00
 星期二：11:30 - 星期二 14:00
 星期二：17:00 - 星期二 22:00
@@ -46,19 +39,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：17:00 - 星期四 22:00
 星期五：11:30 - 星期五 14:00
 星期五：17:00 - 星期五 22:00
-星期六：11:30 - 星期六 22:00",1.0,https://maps.google.com/?cid=1231104971348472555,"韓式, 燒烤, 美式, 精緻聚餐, 平價快食",1
-6,Witch House,"No. 7號, Lane 56, Section 3, Xinsheng South Road, Da’an District",4.8,4239,25.020572,121.533642,ChIJXWgb_4ipQjQR5zaBg-r3ryU,google,food,新月台,"星期日：11:00 - 星期日 22:00
-星期三：11:00 - 星期三 22:00
-星期四：11:00 - 星期四 22:00
-星期五：11:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=2715661686928389863,"咖啡廳, 打卡店",1
-7,SECOND FLOOR CAFE Gongguan,"No. 5號, Alley 9, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",4.2,5229,25.015715,121.531579,ChIJ0bB2nIupQjQRQMX2--vUgOE,google,food,"公館捷運站1號出口,新月台","星期日：09:00 - 星期日 21:00
-星期一：10:00 - 星期一 21:00
-星期二：10:00 - 星期二 20:30
-星期三：10:00 - 星期三 21:00
-星期四：10:00 - 星期四 21:00
-星期五：10:00 - 星期五 21:30
-星期六：09:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=16249221565562406208,"精緻聚餐, 早午餐, 甜點, 咖啡廳",1
+星期六：11:30 - 星期六 22:00",1.0,https://maps.google.com/?cid=1231104971348472555,"韓式, 燒烤, 精緻聚餐"
 8,Russian Castle Restaurant,"No. 14號, Lane 333, Section 3, Luosifu Road, Da’an District",4.2,1899,25.017511,121.532541,ChIJf-iLZ4mpQjQRC7E9ab8LIDU,google,food,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 15:00
 星期日：17:00 - 星期日 21:30
 星期二：12:00 - 星期二 15:00
@@ -70,14 +51,14 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：12:00 - 星期五 15:00
 星期五：17:00 - 星期五 21:30
 星期六：12:00 - 星期六 15:00
-星期六：17:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=3828072599997231371,"義式, 甜點, 飲料, 精緻聚餐, 早餐, 學生愛店, 打卡店, 冰店, 燒烤",1
+星期六：17:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=3828072599997231371,精緻聚餐
 9,Just Eat,"二樓, No. 44號, Section 4, Roosevelt Road, Zhongzheng District",4.5,4285,25.015164,121.533624,ChIJsaicfMSrQjQRfej4iNb5sJY,google,food,"公館捷運站1號出口,新月台","星期日：12:00 - 星期一 00:00
 星期一：12:00 - 星期二 00:00
 星期二：12:00 - 星期三 00:00
 星期三：12:00 - 星期四 00:00
 星期四：12:00 - 星期五 00:00
 星期五：12:00 - 星期六 00:00
-星期六：12:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=10858453401406597245,"燒烤, 火鍋, 自助, 甜點, 飲料",1
+星期六：12:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=10858453401406597245,燒烤
 10,母女的店,"No. 10號, Alley 4, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",4.1,920,25.01589,121.531974,ChIJqRrRhIupQjQRqqEjglBbPZA,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 14:00
 星期日：17:00 - 星期日 20:00
 星期一：11:00 - 星期一 14:00
@@ -89,7 +70,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：17:00 - 星期五 20:00
 星期六：11:00 - 星期六 14:00
-星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=10393563916379857322,"泰式, 美式, 健康, 便當, 麵食, 飯食, 精緻聚餐, 平價快食, 學生愛店, 打卡店, 冰店",1
+星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=10393563916379857322,泰式
 11,Meijiang Korean barbecue copper coil (head office),"No. 10號, Siyuan Street, Zhongzheng District",3.5,1051,25.014908,121.531817,ChIJbSzOfYypQjQRiJOohRMW2pc,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 15:00
 星期日：17:00 - 星期日 22:00
 星期二：11:00 - 星期二 15:00
@@ -101,28 +82,42 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 15:00
 星期五：17:00 - 星期五 22:00
 星期六：11:00 - 星期六 15:00
-星期六：17:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=10942082517752648584,"韓式, 燒烤, 自助, 平價快食, 甜點, 飲料, 便當",1
+星期六：17:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=10942082517752648584,"鍋物, 韓式, 平價快食"
 12,Oma's German Delicacies,"No. 30號, Section 1, Xinhai Road, Da’an District",4.4,1947,25.019769,121.529918,ChIJYbE3TImpQjQRwm5Ok39Ck9M,google,food,新月台,"星期日：10:00 - 星期日 20:00
 星期一：10:00 - 星期一 20:00
 星期二：10:00 - 星期二 20:00
 星期三：10:00 - 星期三 20:00
 星期四：10:00 - 星期四 20:00
 星期五：10:00 - 星期五 20:00
-星期六：10:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=15245602279278931650,"日式,甜點,早午餐,咖啡廳",1
+星期六：10:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=15245602279278931650,"美式, 精緻聚餐, 平價快食"
 13,Shine Mood NTU,"No. 1號, Section 4, Roosevelt Road, Da’an District",4.2,2948,25.015567,121.537553,ChIJcebczoupQjQR-muTM2ENPwo,google,food,"公館捷運站1號出口,新月台","星期日：09:30 - 星期日 18:30
 星期一：09:30 - 星期一 19:00
 星期二：09:30 - 星期二 19:00
 星期三：09:30 - 星期三 19:00
 星期四：09:30 - 星期四 19:00
 星期五：09:30 - 星期五 19:00
-星期六：09:30 - 星期六 18:30",1.0,https://maps.google.com/?cid=738323575040338938,"甜點, 早午餐, 學生愛店, 打卡店",1
+星期六：09:30 - 星期六 18:30",1.0,https://maps.google.com/?cid=738323575040338938,"甜點, 早午餐"
 14,南城泰式料理(公館店),"No. 171號, Section 3, Tingzhou Road, Zhongzheng District",3.2,913,25.015081,121.532369,ChIJYQe0dYupQjQRmcw_n5dhpzQ,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 21:30
 星期一：11:30 - 星期一 21:30
 星期二：11:30 - 星期二 21:30
 星期三：11:30 - 星期三 21:30
 星期四：11:30 - 星期四 21:30
 星期五：11:30 - 星期五 21:30
-星期六：11:30 - 星期六 21:30",2.0,https://maps.google.com/?cid=3794108514922646681,"泰式, 甜點, 學生愛店",1
+星期六：11:30 - 星期六 21:30",2.0,https://maps.google.com/?cid=3794108514922646681,"泰式, 鍋物, 飯食, 炸物"
+15,莫宰羊-大安台大店,"No. 28, Section 3, Xinsheng South Road, Da’an District",4.2,3232,25.023889,121.534444,ChIJ3xl5zIepQjQRGNQknIunDIs,google,food,新月台,"星期日：11:00 - 星期日 14:00
+星期日：16:00 - 星期日 23:00
+星期一：11:00 - 星期一 14:00
+星期一：16:00 - 星期二 00:00
+星期二：11:00 - 星期二 14:00
+星期二：16:00 - 星期三 00:00
+星期三：11:00 - 星期三 14:00
+星期三：16:00 - 星期四 00:00
+星期四：11:00 - 星期四 14:00
+星期四：16:00 - 星期五 00:00
+星期五：11:00 - 星期五 14:00
+星期五：16:00 - 星期六 00:00
+星期六：11:00 - 星期六 14:00
+星期六：16:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=10019567489054463000,"鍋物, 便當, 燒烤"
 16,Korea State Court Restaurant,"No. 87號, Wenzhou Street, Da’an District",3.7,1494,25.019137,121.53294,ChIJB5Ima4mpQjQRB3RV3z1H820,google,food,"公館捷運站1號出口,新月台","星期日：11:10 - 星期日 14:30
 星期日：17:00 - 星期日 21:00
 星期一：11:00 - 星期一 14:30
@@ -136,27 +131,27 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:30
 星期五：17:00 - 星期五 21:00
 星期六：11:00 - 星期六 14:30
-星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=7922754500540331015,"韓式, 火鍋, 燒烤, 美式, 義式",1
+星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=7922754500540331015,"鍋物, 韓式, 精緻聚餐"
 17,MOS BURGER Roosevelt Road Shop,"No. 233, Section 3, Roosevelt Road, Da’an District",4.0,2283,25.019468,121.529766,ChIJR4y1_YapQjQRBvTjPhu3iJs,google,food,新月台,"星期日：06:00 - 星期一 00:00
 星期一：06:00 - 星期二 00:00
 星期二：06:00 - 星期三 00:00
 星期三：06:00 - 星期四 00:00
 星期四：06:00 - 星期五 00:00
 星期五：06:00 - 星期六 00:00
-星期六：06:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=11207409000358605830,"日式, 便當, 飯食, 火鍋, 炸物, 甜點, 健康, 平價快食, 宵夜",1
+星期六：06:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=11207409000358605830,"美式, 咖啡廳"
 19,CoCo Ichibanya Gongguan National Taiwan University,"No. 1號, Section 4, Roosevelt Road, Da’an District",3.7,1530,25.014581,121.535085,ChIJ1wIizoupQjQRsWmRigUpO38,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 22:00
 星期一：11:00 - 星期一 22:00
 星期二：11:00 - 星期二 22:00
 星期三：11:00 - 星期三 22:00
 星期四：11:00 - 星期四 22:00
 星期五：11:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=9167966570219137457,"日式, 學生愛店",1
+星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=9167966570219137457,"日式, 鍋物"
 20,Two peck,"No. 4號, Lane 316, Roosevelt Road, Section 3, Zhongzheng District",3.7,311,25.015918,121.532688,ChIJ295pmIupQjQR2jhzFXX4nMw,google,food,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 22:20
 星期一：12:00 - 星期一 22:30
 星期三：12:00 - 星期三 22:30
 星期四：12:00 - 星期四 22:30
 星期五：12:00 - 星期五 22:30
-星期六：12:00 - 星期六 22:30",1.0,https://maps.google.com/?cid=14743932461858896090,"平價快食, 宵夜",1
+星期六：12:00 - 星期六 22:30",1.0,https://maps.google.com/?cid=14743932461858896090,"炸物, 咖啡廳, 宵夜"
 21,Free Style 義大利麵,"No. 14號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",3.9,625,25.015214,121.532601,ChIJV4ORn4upQjQRDDNNdhhMaNs,google,food,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 14:30
 星期日：17:00 - 星期日 21:00
 星期一：12:00 - 星期一 14:30
@@ -170,7 +165,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：12:00 - 星期五 14:30
 星期五：17:00 - 星期五 21:00
 星期六：12:00 - 星期六 14:30
-星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=15809970159831823116,"義式, 便當",1
+星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=15809970159831823116,"義式, 麵食, 平價快食"
 22,Kasha new vegetarian restaurant,"1樓, No. 1號, Lane 52, Section 4, Roosevelt Road, Zhongzheng District",4.3,656,25.014765,121.533432,ChIJ8wtUD4upQjQRAvHhb-IbO3E,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 21:00
 星期一：11:30 - 星期一 14:30
 星期一：17:00 - 星期一 21:00
@@ -180,7 +175,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：17:00 - 星期四 21:00
 星期五：11:30 - 星期五 14:30
 星期五：17:00 - 星期五 21:00
-星期六：11:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=8159145809265422594,"素食, 健康",1
+星期六：11:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=8159145809265422594,"美式, 平價快食, 燒烤"
 23,銀座河粉蛋麵 SlNCE 1976(公館台大),"No. 6號, Alley 4, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",4.1,1613,25.015972,121.532066,ChIJn_43m4upQjQR7NWYb9rn7CY,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 14:30
 星期日：17:00 - 星期日 20:30
 星期一：11:00 - 星期一 14:00
@@ -194,14 +189,31 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：17:00 - 星期五 20:30
 星期六：11:00 - 星期六 14:30
-星期六：17:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=2804871593306150380,"越式料理, 麵食, 健康, 平價快食",1
+星期六：17:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=2804871593306150380,"越式料理, 麵食, 精緻聚餐"
+24,七里亭,"No. 8, Lane 333, Section 3, Luosifu Road, Da’an District",3.9,1051,25.017334,121.532586,ChIJuajw54upQjQRooAYaIEzAIs,google,food,"公館捷運站1號出口,新月台","星期一：11:00 - 星期一 15:30
+星期一：17:00 - 星期一 21:30
+星期二：11:00 - 星期二 15:30
+星期二：17:00 - 星期二 21:30
+星期三：11:00 - 星期三 15:30
+星期三：17:00 - 星期三 21:30
+星期四：11:00 - 星期四 15:30
+星期四：17:00 - 星期四 21:30
+星期五：11:00 - 星期五 15:30
+星期五：17:00 - 星期五 21:30",1.0,https://maps.google.com/?cid=10016062202162217122,"台式, 便當, 鍋物"
 25,Greek - Go!,"No. 16號, Alley 7, Lane 283, Section 3, Luosifu Road, Da’an District",4.5,3227,25.018818,121.531002,ChIJk9O6fY-pQjQRou8MUthzcgU,google,food,新月台,"星期日：11:00 - 星期日 21:30
 星期一：11:00 - 星期一 21:30
 星期二：11:00 - 星期二 21:30
 星期三：11:00 - 星期三 21:30
 星期四：11:00 - 星期四 21:30
 星期五：11:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=392503490461364130,"甜點, 義式, 早午餐, 打卡店",1
+星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=392503490461364130,
+26,McDonald's Taipei Xinsheng,"No. 88之2號, Section 3, Xinsheng South Road, Da’an District",3.8,3609,25.01821,121.533345,ChIJ5Zls-surQjQRtQ0XFunyOtY,google,food,"公館捷運站1號出口,新月台","星期日：05:00 - 星期一 04:00
+星期一：06:00 - 星期二 01:00
+星期二：06:00 - 星期三 01:00
+星期三：05:00 - 星期四 04:00
+星期四：05:00 - 星期五 04:00
+星期五：05:00 - 星期六 04:00
+星期六：05:00 - 星期日 04:00",1.0,https://maps.google.com/?cid=15436917755677707701,"美式, 便當, 平價快食"
 27,Maryjane Pizza,"No. 89號, Wenzhou Street, Da’an District",4.3,1645,25.019024,121.53294,ChIJXT0da4mpQjQREM-Snt6purU,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 15:00
 星期日：16:30 - 星期日 20:45
 星期一：11:30 - 星期一 15:00
@@ -215,25 +227,25 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 15:00
 星期五：16:30 - 星期五 20:45
 星期六：11:30 - 星期六 15:00
-星期六：16:30 - 星期六 20:45",2.0,https://maps.google.com/?cid=13094965640141393680,"美式, 早午餐",1
+星期六：16:30 - 星期六 20:45",2.0,https://maps.google.com/?cid=13094965640141393680,"美式, 早午餐"
 28,Sara Thai Food,"No. 219號, Section 3, Tingzhou Road, Zhongzheng District",3.9,3035,25.014113,121.533806,ChIJGdF1HIupQjQRTff4eXGhEH4,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 21:30
 星期一：11:30 - 星期一 21:30
 星期三：11:30 - 星期三 21:30
 星期四：11:30 - 星期四 21:30
 星期五：11:30 - 星期五 21:30
-星期六：11:30 - 星期六 21:30",2.0,https://maps.google.com/?cid=9083937957156026189,"泰式, 美式, 港式, 飲料, 早午餐, 平價快食, 打卡店",1
+星期六：11:30 - 星期六 21:30",2.0,https://maps.google.com/?cid=9083937957156026189,"泰式, 精緻聚餐, 平價快食"
 29,Lan Jia Gua Bao Traditional Taiwanese Snack,"No. 3號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",4.0,6536,25.015741,121.532581,ChIJzVr3l4upQjQRHTNqYkEgR40,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 22:00
 星期二：11:00 - 星期二 22:00
 星期三：11:00 - 星期三 22:00
 星期四：11:00 - 星期四 22:00
 星期五：11:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=10180140947890385693,"台式, 便當, 麵食, 冰店, 打卡店",1
+星期六：11:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=10180140947890385693,"台式, 平價快食"
 30,金雞園,"No. 3之1, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",3.9,1579,25.015716,121.532624,ChIJNR1gmIupQjQRHvDHWLrvxFk,google,food,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 22:00
 星期一：10:00 - 星期一 22:00
 星期三：10:00 - 星期三 22:00
 星期四：10:00 - 星期四 22:00
 星期五：10:00 - 星期五 22:00
-星期六：10:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=6468558548443328542,"中式, 美式, 甜點, 燒烤, 精緻聚餐",1
+星期六：10:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=6468558548443328542,中式
 31,恬園餐廳 - 福華國際文教會館,"No. 30, Section 3, Xinsheng South Road, Da’an District",3.9,830,25.023803,121.533791,ChIJpZwvzYepQjQRADDNj6t3dlE,google,food,新月台,"星期日：07:00 - 星期日 10:00
 星期日：11:30 - 星期日 14:00
 星期日：14:30 - 星期日 17:00
@@ -256,13 +268,20 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期六：07:00 - 星期六 10:00
 星期六：11:30 - 星期六 14:00
 星期六：14:30 - 星期六 17:00
-星期六：18:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=5870010743059722240,"自助, 日式, 中式, 美式, 甜點, 冰店, 飲料, 學生愛店",1
+星期六：18:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=5870010743059722240,鍋物
 32,Wu Yun,"No. 7, Roosevelt Road, Section 3, Lane 244, Alley 9, Zhongzheng District",4.3,924,25.017506,121.530133,ChIJVZwwFIypQjQRysDJ_WVX5ZI,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 22:00
 星期二：17:00 - 星期二 22:00
 星期三：17:00 - 星期三 22:00
 星期四：17:00 - 星期四 22:00
 星期五：17:00 - 星期五 22:00
-星期六：11:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=10584962594765390026,"台式, 美式, 便當, 飯食, 精緻聚餐",1
+星期六：11:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=10584962594765390026,台式
+33,大福利排骨大王 公館店,"No. 12號, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",3.8,1232,25.015991,121.53231,ChIJY-PpkIupQjQRNAef9MdsW4k,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 20:30
+星期一：11:00 - 星期一 20:30
+星期二：11:00 - 星期二 20:30
+星期三：11:00 - 星期三 20:30
+星期四：11:00 - 星期四 20:30
+星期五：11:00 - 星期五 20:30
+星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=9897624212135151412,"便當, 炸物, 鍋物"
 34,Sekijin Japanese Pork Chops,"No. 14號, Alley 4, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",4.2,2516,25.015794,121.531811,ChIJ1_cMg4upQjQRNORaeNLcO_8,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 22:00
 星期一：11:30 - 星期一 14:30
 星期一：17:00 - 星期一 21:30
@@ -274,14 +293,14 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：17:00 - 星期四 21:30
 星期五：11:30 - 星期五 14:30
 星期五：17:00 - 星期五 21:30
-星期六：11:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=18391536299818017844,"日式, 火鍋, 炸物, 甜點, 飲料",1
+星期六：11:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=18391536299818017844,"日式, 鍋物, 炸物"
 35,Fengcheng Cantonese Restaurant,"No. 58之3號, Section 3, Xinsheng South Road, Da’an District",4.0,5920,25.020279,121.533818,ChIJcWUPVompQjQRuzEtjc4QoOs,google,food,新月台,"星期日：11:00 - 星期日 20:30
 星期一：11:00 - 星期一 20:30
 星期二：11:00 - 星期二 20:30
 星期三：11:00 - 星期三 20:30
 星期四：11:00 - 星期四 20:30
 星期五：11:00 - 星期五 20:30
-星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=16978589074504626619,"中式, 燒烤, 便當, 麵食, 飯食",1
+星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=16978589074504626619,"中式, 炸物, 便當"
 36,Madame Jill's Vietnamese Cuisine,"No. 11號, Lane 24, Section 4, Roosevelt Road, Zhongzheng District",4.0,2001,25.015159,121.532646,ChIJS6WqDoupQjQRYCUPl3_lVFc,google,food,"公館捷運站1號出口,新月台","星期日：11:20 - 星期日 14:30
 星期日：17:20 - 星期日 21:00
 星期一：11:20 - 星期一 14:30
@@ -293,18 +312,18 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:20 - 星期五 14:30
 星期五：17:20 - 星期五 21:00
 星期六：11:20 - 星期六 14:30
-星期六：17:20 - 星期六 21:00",2.0,https://maps.google.com/?cid=6292906915501385056,"越式料理, 炸物, 飲料, 學生愛店",1
+星期六：17:20 - 星期六 21:00",2.0,https://maps.google.com/?cid=6292906915501385056,"越式料理, 炸物, 麵食"
 37,兄弟蚵仔麵線,"No. 235號, Section 3, Tingzhou Road, Zhongzheng District",4.0,372,25.013909,121.534114,ChIJBxLcHYupQjQRDHeNq-iLOHU,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 20:00
 星期二：11:00 - 星期二 20:00
 星期三：11:00 - 星期三 20:00
 星期四：11:00 - 星期四 20:00
 星期五：11:00 - 星期五 20:00
-星期六：11:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=8446654932560213772,"台式, 麵食, 平價快食, 學生愛店",1
+星期六：11:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=8446654932560213772,"台式, 麵食"
 38,曼谷燒,"1楼, 水源市場 攤位57號, No. 92號, Section 4, Roosevelt Road, Zhongzheng District",4.2,1030,25.013651,121.534973,ChIJSS8omoupQjQRRudmwb0CAn0,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 19:30
 星期二：11:00 - 星期二 19:30
 星期四：11:00 - 星期四 19:30
 星期五：11:00 - 星期五 19:30
-星期六：11:00 - 星期六 19:30",1.0,https://maps.google.com/?cid=9007765218711234374,"泰式, 便當, 炸物, 飯食",1
+星期六：11:00 - 星期六 19:30",1.0,https://maps.google.com/?cid=9007765218711234374,"泰式, 飯食, 炸物"
 39,Chong shunRestaurant,"No. 3-2號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",4.2,1467,25.015632,121.532595,ChIJazSMmIupQjQRKRMV5kOmHi4,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 14:30
 星期日：17:00 - 星期日 20:30
 星期一：11:00 - 星期一 14:00
@@ -318,20 +337,32 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：17:00 - 星期五 20:30
 星期六：11:00 - 星期六 14:30
-星期六：17:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=3323276385599165225,"中式, 麵食, 健康, 平價快食, 學生愛店",1
+星期六：17:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=3323276385599165225,"中式, 鍋物, 平價快食"
+41,Emei Chuancai Restaurant,"No. 10號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",4.1,1447,25.015404,121.532549,ChIJDzOZn4upQjQRj3uewI9Rsks,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 14:00
+星期日：17:00 - 星期日 20:30
+星期二：11:00 - 星期二 14:00
+星期二：17:00 - 星期二 20:30
+星期三：11:00 - 星期三 14:00
+星期三：17:00 - 星期三 20:30
+星期四：11:00 - 星期四 14:00
+星期四：17:00 - 星期四 20:30
+星期五：11:00 - 星期五 14:00
+星期五：17:00 - 星期五 20:30
+星期六：11:00 - 星期六 14:00
+星期六：17:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=5454511776552876943,"中式, 平價快食, 精緻聚餐, 鍋物, 早餐"
 42,小公館咖啡 精釀啤酒,"2樓, No. 3號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",3.9,385,25.015783,121.532582,ChIJr5BemIupQjQRzw4yWb3jvcU,google,cafe,"公館捷運站1號出口,新月台","星期日：13:00 - 星期日 23:00
 星期二：15:30 - 星期二 23:30
 星期三：15:30 - 星期三 23:30
 星期四：15:30 - 星期四 23:30
 星期五：15:30 - 星期六 00:00
-星期六：13:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=14248795198454894287,"精緻聚餐, 咖啡廳, 甜點, 飲料, 美式",1
+星期六：13:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=14248795198454894287,"精緻聚餐, 咖啡廳"
 43,SUBWAY 台電店,"No. 241號, Section 3, Roosevelt Road, Da’an District",3.5,833,25.019403,121.529876,ChIJbdKzl46pQjQRkdmEONSY4jI,google,food,新月台,"星期日：08:00 - 星期日 22:00
 星期一：08:00 - 星期一 22:00
 星期二：08:00 - 星期二 22:00
 星期三：08:00 - 星期三 22:00
 星期四：08:00 - 星期四 22:00
 星期五：08:00 - 星期五 22:00
-星期六：08:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=3666661083881724305,"便當, 便當, 健康, 平價快食, 學生愛店, 早餐",1
+星期六：08:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=3666661083881724305,"美式, 早午餐, 平價快食"
 44,Masala House,"No. 6號, Lane 269, Section 3, Roosevelt Road, Da’an District",4.2,1449,25.01927,121.530544,ChIJqQ7VYoWpQjQR0ddv3mbZ-LY,google,restaurant,新月台,"星期日：11:30 - 星期日 14:00
 星期日：17:30 - 星期日 21:00
 星期二：11:30 - 星期二 14:00
@@ -343,20 +374,20 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:00
 星期五：17:30 - 星期五 21:00
 星期六：11:30 - 星期六 14:00
-星期六：17:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=13184526944968890321,"印度料理, 咖啡廳, 平價快食",1
+星期六：17:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=13184526944968890321,"印度料理, 咖啡廳"
 45,OPIUM FEN-YUAN,"No. 4, Alley 16, Lane 52, Section 4, Roosevelt Road Road, Zhongzheng District",3.7,2341,25.014451,121.533696,ChIJmVrVBoupQjQRbT6PhVBBGNc,google,food,"公館捷運站1號出口,新月台","星期日：12:30 - 星期日 23:30
 星期一：12:30 - 星期一 23:30
 星期二：12:30 - 星期二 23:30
 星期三：12:30 - 星期三 23:30
 星期四：12:30 - 星期四 23:30
 星期五：12:30 - 星期五 23:30
-星期六：12:30 - 星期六 23:30",1.0,https://maps.google.com/?cid=15499209931689508461,"甜點, 打卡店, 冰店",1
+星期六：12:30 - 星期六 23:30",1.0,https://maps.google.com/?cid=15499209931689508461,"甜點, 台式, 冰店"
 46,我家涼麵,"No. 241號, Section 3, Tingzhou Road, Zhongzheng District",2.8,719,25.013896,121.534135,ChIJu7k0HIupQjQREs68hFx6gV0,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 21:30
 星期一：11:00 - 星期一 21:30
 星期三：11:00 - 星期三 21:30
 星期四：11:00 - 星期四 21:30
 星期五：11:00 - 星期五 21:30
-星期六：11:00 - 星期六 21:30",1.0,https://maps.google.com/?cid=6737801055305518610,"台式, 麵食, 便當",1
+星期六：11:00 - 星期六 21:30",1.0,https://maps.google.com/?cid=6737801055305518610,"台式, 麵食, 平價快食"
 47,Donald Duck Hotpot place(Tang-Lao-Ya),"No. 3號, Lane 70, Section 3, Xinsheng South Road, Da’an District",4.4,2154,25.019571,121.533366,ChIJpasEF4mpQjQRozjjfuflpeg,google,restaurant,新月台,"星期日：11:40 - 星期日 15:00
 星期日：17:00 - 星期日 22:00
 星期一：11:40 - 星期一 15:00
@@ -370,14 +401,14 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:40 - 星期五 15:00
 星期五：17:00 - 星期五 22:00
 星期六：11:40 - 星期六 15:00
-星期六：17:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=16764057970385565859,"平價快食, 火鍋, 冰店, 學生愛店",1
+星期六：17:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=16764057970385565859,"鍋物, 平價快食"
 48,Mr Tendonya,"No. 2號, Alley 9, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",3.7,2619,25.015599,121.532058,ChIJPcmlg4upQjQRk6lTJ-goJ5w,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 21:00
 星期一：11:30 - 星期一 21:00
 星期二：11:30 - 星期二 21:00
 星期三：11:30 - 星期三 21:00
 星期四：11:30 - 星期四 21:00
 星期五：11:30 - 星期五 21:00
-星期六：11:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=11252007171565791635,"日式, 麵食, 平價快食, 打卡店",1
+星期六：11:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=11252007171565791635,"日式, 便當"
 49,Feng Cheng Siu Mei Lily Branch,"1樓, No. 6號, Lane 283,Section 3.Roosevelt Road, Da’an District",3.8,1842,25.018187,121.531678,ChIJcWUPVompQjQRNZdMhTI2ve4,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 14:30
 星期日：17:00 - 星期日 20:30
 星期一：11:00 - 星期一 14:30
@@ -391,28 +422,28 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:30
 星期五：17:00 - 星期五 20:30
 星期六：11:00 - 星期六 14:30
-星期六：17:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=17202965742237816629,"台式, 平價快食, 麵食, 炸物, 燒烤",1
+星期六：17:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=17202965742237816629,"台式, 鍋物, 燒烤"
 50,劉家水煎包,"No. 189, Section 3, Tingzhou Road, Zhongzheng District",3.4,932,25.014573,121.533118,ChIJje6ADoupQjQRib6Ar3t0GRw,google,restaurant,"公館捷運站1號出口,新月台","星期日：05:30 - 星期日 21:30
 星期一：05:30 - 星期一 21:30
 星期二：05:30 - 星期二 21:30
 星期三：05:30 - 星期三 21:30
 星期四：05:30 - 星期四 21:30
 星期五：05:30 - 星期五 21:30
-星期六：05:30 - 星期六 21:30",1.0,https://maps.google.com/?cid=2024777582053998217,"台式, 早餐, 燒烤",1
+星期六：05:30 - 星期六 21:30",1.0,https://maps.google.com/?cid=2024777582053998217,"麵食, 平價快食"
 51,阿剛泰式主題餐廳,"No. 150號, Section 3, Tingzhou Road, Zhongzheng District",3.1,428,25.013645,121.534099,ChIJ8wrkH4upQjQReXRqJt1VCEg,google,food,"公館捷運站1號出口,新月台","星期日：10:30 - 星期日 22:00
 星期一：10:30 - 星期一 22:00
 星期二：10:30 - 星期二 22:00
 星期三：10:30 - 星期三 22:00
 星期四：10:30 - 星期四 22:00
 星期五：10:30 - 星期五 22:00
-星期六：10:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=5190492978865140857,"泰式, 宵夜, 燒烤",1
+星期六：10:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=5190492978865140857,"泰式, 鍋物, 平價快食"
 52,Liujichuan Wei Beef Noodle Restaurant,"No. 6號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",4.1,712,25.015495,121.532532,ChIJb287n4upQjQR40e-bdThZAI,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:45 - 星期日 20:00
 星期一：11:45 - 星期一 20:00
 星期二：11:45 - 星期二 20:00
 星期三：11:45 - 星期三 20:00
 星期四：11:45 - 星期四 20:00
 星期五：11:45 - 星期五 20:00
-星期六：11:45 - 星期六 20:00",1.0,https://maps.google.com/?cid=172510988237424611,"中式, 麵食, 平價快食, 宵夜, 打卡店",1
+星期六：11:45 - 星期六 20:00",1.0,https://maps.google.com/?cid=172510988237424611,"中式, 麵食, 平價快食"
 53,平山家日式料理,"樓之1, No. 106號 3, Section 3, Xinsheng South Road, Da’an District",4.0,198,25.016792,121.532835,ChIJfYm9wYupQjQR0EZq7Pq77n8,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 14:00
 星期日：17:30 - 星期日 21:00
 星期二：11:00 - 星期二 14:00
@@ -424,14 +455,14 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：17:30 - 星期五 21:00
 星期六：11:00 - 星期六 14:00
-星期六：17:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=9218512173656590032,"日式, 台式, 學生愛店, 打卡店",1
+星期六：17:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=9218512173656590032,"日式, 平價快食"
 54,House Zorba House,"No. 2號, Alley 1, Lane 74, Wenzhou Street, Da’an District",4.6,3540,25.019574,121.532682,ChIJ2wpBPompQjQRnNdkOhvOaS8,google,restaurant,新月台,"星期日：11:00 - 星期日 21:30
 星期一：11:00 - 星期一 21:30
 星期二：11:00 - 星期二 21:30
 星期三：11:00 - 星期三 21:30
 星期四：11:00 - 星期四 21:30
 星期五：11:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=3416488408676358044,"甜點, 咖啡廳, 早午餐, 學生愛店",1
+星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=3416488408676358044,甜點
 55,韓天閣,"No. 11號, Alley 1, Lane 78, Section 4, Roosevelt Road, Zhongzheng District",4.0,1615,25.014298,121.534229,ChIJFzzD4oqpQjQRQhKQwn4ydLM,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 14:30
 星期日：17:00 - 星期日 21:30
 星期一：11:30 - 星期一 14:30
@@ -445,14 +476,14 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:30
 星期五：17:00 - 星期五 21:30
 星期六：11:30 - 星期六 14:30
-星期六：17:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=12931015950099026498,"韓式, 火鍋, 健康, 平價快食, 學生愛店",1
+星期六：17:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=12931015950099026498,"韓式, 鍋物"
 56,風尚咖啡廳,"No. 30, Section 3, Xinsheng South Road, Da’an District",4.1,199,25.023364,121.534293,ChIJs5Z904epQjQRn0VaAJORFKw,google,restaurant,新月台,"星期日：11:30 - 星期日 21:00
 星期一：11:30 - 星期一 21:00
 星期二：11:30 - 星期二 21:00
 星期三：11:30 - 星期三 21:00
 星期四：11:30 - 星期四 21:00
 星期五：11:30 - 星期五 21:00
-星期六：11:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=12399695734609954207,"中式, 火鍋, 燒烤, 宵夜, 打卡店",1
+星期六：11:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=12399695734609954207,"中式, 鍋物, 平價快食"
 57,祥記炒燴,"樓62號攤, No. 92號1, Section 4, Roosevelt Road, Zhongzheng District",3.9,956,25.013651,121.534973,ChIJ_fgu74qpQjQRup_fjb1ntWE,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 15:00
 星期日：17:00 - 星期日 20:00
 星期二：11:00 - 星期二 15:00
@@ -464,7 +495,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 15:00
 星期五：17:00 - 星期五 20:00
 星期六：11:00 - 星期六 15:00
-星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=7040647656290361274,"台式, 中式, 美式, 火鍋, 便當, 麵食, 精緻聚餐",1
+星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=7040647656290361274,"中式, 鍋物, 精緻聚餐"
 58,泰味鮮,"3之4號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",4.0,330,25.015606,121.532613,ChIJL3J5n4upQjQReLg9VE0Vapg,google,restaurant,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 14:30
 星期日：16:30 - 星期日 21:30
 星期一：11:30 - 星期一 14:00
@@ -478,458 +509,337 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:00
 星期五：17:00 - 星期五 21:00
 星期六：11:30 - 星期六 14:30
-星期六：16:30 - 星期六 21:30",,https://maps.google.com/?cid=10982614063166371960,"泰式, 打卡店, 飯食, 咖啡廳, 宵夜",1
+星期六：16:30 - 星期六 21:30",,https://maps.google.com/?cid=10982614063166371960,"泰式, 炸物, 飯食"
 59,公館-咖哩先生,"No. 21-1號, Lane 283,Section 3.Roosevelt Road, Da’an District",4.4,417,25.01987,121.531511,ChIJpcsW-IipQjQR7Fv0jfqck_E,google,restaurant,新月台,"星期日：11:00 - 星期日 21:00
 星期二：11:00 - 星期二 21:00
 星期三：11:00 - 星期三 21:00
 星期四：11:00 - 星期四 21:00
 星期五：11:00 - 星期五 21:00
-星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=17407429584654457836,"台式, 平價快食, 學生愛店, 打卡店",1
+星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=17407429584654457836,"台式, 鍋物, 平價快食"
 60,Sushi Express NTU Branch,"No. 88-4, Section 3, Xinsheng South Road, Da’an District",3.8,1073,25.018011,121.533314,ChIJgQNISIKpQjQRAuTJzvecoQc,google,restaurant,新月台,"星期日：10:30 - 星期日 21:30
 星期一：11:00 - 星期一 21:30
 星期二：11:00 - 星期二 21:30
 星期三：11:00 - 星期三 21:30
 星期四：11:00 - 星期四 21:30
 星期五：11:00 - 星期五 21:30
-星期六：10:30 - 星期六 21:30",2.0,https://maps.google.com/?cid=549893217656103938,"日式, 咖啡廳, 學生愛店",1
+星期六：10:30 - 星期六 21:30",2.0,https://maps.google.com/?cid=549893217656103938,日式
 61,picnic cafe,"No. 75號, Wenzhou Street, Da’an District",4.4,1204,25.020355,121.533066,ChIJ9RWM4YipQjQRjgvTW4V2-o0,google,food,新月台,"星期日：12:00 - 星期日 22:20
 星期一：13:00 - 星期一 22:20
 星期二：13:00 - 星期二 22:20
 星期三：13:00 - 星期三 22:20
 星期四：13:00 - 星期四 22:20
 星期五：13:00 - 星期五 22:20
-星期六：12:00 - 星期六 22:20",2.0,https://maps.google.com/?cid=10230619818668788622,"早午餐, 咖啡廳, 甜點",1
+星期六：12:00 - 星期六 22:20",2.0,https://maps.google.com/?cid=10230619818668788622,"咖啡廳, 早午餐"
 62,靈感咖啡 Vegan Coffee Shop,"3樓, adidas 右手邊的小樓梯上來, No. 84-6號, Section 3, Xinsheng South Road, Da’an District",4.6,432,25.018878,121.533419,ChIJiYZJcompQjQRoI4OnWDl3zk,google,food,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 19:00
 星期三：11:00 - 星期三 19:00
 星期四：11:00 - 星期四 19:00
 星期五：11:00 - 星期五 19:00
-星期六：11:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=4170303983082966688,"咖啡廳, 素食, 甜點, 早午餐",1
+星期六：11:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=4170303983082966688,"咖啡廳, 早午餐, 精緻聚餐"
 63,Pica Pica Café,"No. 74號, Lane 269, Section 3, Roosevelt Road, Da’an District",4.3,1175,25.02092,121.53169,ChIJMwZf1oipQjQR_9-RGzwUtBE,google,food,新月台,"星期日：13:00 - 星期日 22:45
 星期一：13:00 - 星期一 22:45
 星期二：13:00 - 星期二 22:45
 星期三：13:00 - 星期三 22:45
 星期四：13:00 - 星期四 22:45
 星期五：13:00 - 星期五 22:45
-星期六：13:00 - 星期六 22:45",2.0,https://maps.google.com/?cid=1275666842845831167,"甜點, 咖啡廳, 早午餐, 學生愛店, 打卡店",1
-64,雪可屋,"1樓, No. 2號, Alley 3, Lane 74, Wenzhou Street, Da’an District",4.2,525,25.019601,121.532394,ChIJ54r5aYmpQjQRSPx1fqonWXc,google,food,新月台,"星期日：11:00 - 星期一 00:00
-星期一：12:00 - 星期二 00:00
-星期二：12:00 - 星期三 00:00
-星期三：12:00 - 星期四 00:00
-星期五：12:00 - 星期六 00:00
-星期六：11:00 - 星期日 00:00",2.0,https://maps.google.com/?cid=8599948576660257864,"咖啡廳, 早午餐, 打卡店, 甜點",1
-65,MT Coffee Shop,"No. 108號, Section 3, Tingzhou Road, Zhongzheng District",3.8,933,25.014296,121.533226,ChIJDyerEYupQjQReGjvnQM4fiY,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期一 02:00
-星期一：11:30 - 星期二 02:00
-星期二：11:30 - 星期三 02:00
-星期三：11:30 - 星期四 02:00
-星期四：11:30 - 星期五 02:00
-星期五：11:30 - 星期六 02:00
-星期六：11:30 - 星期日 02:00",2.0,https://maps.google.com/?cid=2773716008692574328,"咖啡廳, 甜點, 義式, 精緻聚餐",1
-66,Cafe Bastille,"No. 91號, Wenzhou Street, Da’an District",4.1,498,25.018898,121.532964,ChIJRfDt-IapQjQRUOPVFCgMI_0,google,cafe,"公館捷運站1號出口,新月台",,2.0,https://maps.google.com/?cid=18240436282068427600,"咖啡廳, 學生愛店, 便當, 麵食, 炸物, 甜點, 飲料, 精緻聚餐",1
-68,Aura微光咖啡,"No. 9號, Lane 269, Section 3, Roosevelt Road, Da’an District",4.4,536,25.019457,121.530587,ChIJRYICuo6pQjQRi3-mhJpm_AU,google,cafe,新月台,"星期日：13:30 - 星期日 22:00
-星期一：13:30 - 星期一 22:00
-星期二：13:30 - 星期二 22:00
-星期三：13:30 - 星期三 22:00
-星期四：13:30 - 星期四 22:00
-星期五：13:30 - 星期五 22:00
-星期六：13:30 - 星期六 22:00",2.0,https://maps.google.com/?cid=431332478157225867,"甜點, 咖啡廳",1
+星期六：13:00 - 星期六 22:45",2.0,https://maps.google.com/?cid=1275666842845831167,"咖啡廳, 早午餐, 甜點, 燒烤"
+66,Cafe Bastille,"No. 91號, Wenzhou Street, Da’an District",4.1,498,25.018898,121.532964,ChIJRfDt-IapQjQRUOPVFCgMI_0,google,cafe,"公館捷運站1號出口,新月台",,2.0,https://maps.google.com/?cid=18240436282068427600,"美式, 炸物, 精緻聚餐"
 69,CafePrague,"No. 20號, Wenzhou Street, Da’an District",4.7,303,25.023926,121.533218,ChIJL2Fa84WpQjQRE6YF4v4s7XQ,google,cafe,新月台,"星期日：14:00 - 星期日 23:30
 星期一：14:00 - 星期一 23:30
 星期三：14:00 - 星期三 23:30
 星期四：14:00 - 星期四 23:30
 星期五：14:00 - 星期五 23:30
-星期六：14:00 - 星期六 23:30",2.0,https://maps.google.com/?cid=8425439951105402387,"精緻聚餐, 咖啡廳, 甜點, 打卡店, 冰店",1
+星期六：14:00 - 星期六 23:30",2.0,https://maps.google.com/?cid=8425439951105402387,"咖啡廳, 精緻聚餐"
 70,Barista Coffee Shop at National Taiwan University,"No. 88, Section 3, Xinsheng South Road, Da’an District",3.9,860,25.018256,121.533368,ChIJ4yq9ZImpQjQRRJQu4sJSdwY,google,cafe,"公館捷運站1號出口,新月台","星期日：07:00 - 星期日 21:30
 星期一：07:00 - 星期一 21:30
 星期二：07:00 - 星期二 21:30
 星期三：07:00 - 星期三 21:30
 星期四：07:00 - 星期四 21:30
 星期五：07:00 - 星期五 21:30
-星期六：07:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=465932083427972164,"咖啡廳, 早午餐, 甜點, 健康, 學生愛店, 宵夜",1
+星期六：07:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=465932083427972164,"咖啡廳, 早午餐"
 71,Zhanlu Coffee,"No. 2號, Lane 284, Section 3, Roosevelt Road, Zhongzheng District",4.3,1218,25.016111,121.531944,ChIJtStsZH-pQjQRTf9LGcurRyE,google,cafe,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 20:00
 星期一：10:00 - 星期一 20:00
 星期二：10:00 - 星期二 20:00
 星期三：10:00 - 星期三 20:00
 星期四：10:00 - 星期四 20:00
 星期五：10:00 - 星期五 20:00
-星期六：10:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=2398074215389200205,"咖啡廳, 甜點, 冰店",1
-72,Poodle café,"No. 66號, Wenzhou Street, Da’an District",4.8,400,25.020339,121.532893,ChIJ4_d-232pQjQRGA-_-UFWS6E,google,cafe,新月台,"星期日：12:00 - 星期日 20:00
-星期二：12:00 - 星期二 20:00
-星期三：12:00 - 星期三 20:00
-星期四：12:00 - 星期四 20:00
-星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=11622478104722607896,"咖啡廳, 甜點, 早午餐, 飲料",1
+星期六：10:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=2398074215389200205,"咖啡廳, 早午餐"
 73,Melbourne Press Cafe,"No. 11號, Lane 56, Section 3, Xinsheng South Road, Da’an District",4.4,539,25.020478,121.533518,ChIJN1y6RacCaDQRElenCbyeN2w,google,cafe,新月台,"星期日：10:00 - 星期日 19:00
 星期一：10:00 - 星期一 19:00
 星期二：10:00 - 星期二 19:00
 星期三：10:00 - 星期三 19:00
 星期四：10:00 - 星期四 19:00
 星期五：10:00 - 星期五 19:00
-星期六：10:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=7797875810268305170,"咖啡廳, 甜點, 精緻聚餐, 打卡店",1
-75,SUKIYA Gongguan Branch,"No. 309號, Section 3, Roosevelt Road, Da’an District",4.0,2620,25.017403,121.53196,ChIJPSsG8IupQjQR6O6iXekaFRM,google,meal_takeaway,"公館捷運站1號出口,新月台",,1.0,https://maps.google.com/?cid=1375034850832215784,"日式, 火鍋, 便當, 宵夜",1
-76,山田珈琲店(內用至18:00),"No. 3號, Alley 21, Lane 283, Section 3, Luosifu Road, Da’an District",4.7,339,25.019866,121.531533,ChIJmY41x92pQjQRll55bJRpKbc,google,cafe,新月台,"星期日：11:30 - 星期日 20:00
-星期一：11:30 - 星期一 20:00
-星期四：11:30 - 星期四 20:00
-星期五：11:30 - 星期五 20:00
-星期六：11:30 - 星期六 20:00",,https://maps.google.com/?cid=13198196269181918870,"日式, 咖啡廳",1
-77,Halfway Coffee,"No. 9, Alley 51, Lane 269, Section 3, Luosifu Road, Da’an District",4.3,553,25.020134,121.53161,ChIJn4IIMompQjQRvDRpCo4YLLw,google,cafe,新月台,"星期日：14:00 - 星期一 00:00
-星期一：14:00 - 星期二 00:00
-星期三：12:00 - 星期四 00:00
-星期四：12:00 - 星期五 00:00
-星期五：12:00 - 星期六 00:00
-星期六：14:00 - 星期日 00:00",1.0,https://maps.google.com/?cid=13559239576444810428,"咖啡廳, 宵夜, 學生愛店, 打卡店, 冰店",1
+星期六：10:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=7797875810268305170,"精緻聚餐, 早午餐, 咖啡廳"
+75,SUKIYA Gongguan Branch,"No. 309號, Section 3, Roosevelt Road, Da’an District",4.0,2620,25.017403,121.53196,ChIJPSsG8IupQjQR6O6iXekaFRM,google,meal_takeaway,"公館捷運站1號出口,新月台",,1.0,https://maps.google.com/?cid=1375034850832215784,"日式, 鍋物, 學生愛店, 平價快食"
 78,Backstage Café,"2樓206室, 台大綜合體育館, No. 1號, Section 4, Roosevelt Road, Da’an District",4.5,475,25.022177,121.534738,ChIJAS5-ZYipQjQRu-UeMiawBr4,google,cafe,新月台,"星期日：12:00 - 星期日 20:00
 星期二：12:00 - 星期二 20:00
 星期三：12:00 - 星期三 20:00
 星期四：12:00 - 星期四 20:00
 星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=13692825395162703291,"泰式, 咖啡廳, 甜點, 飲料",1
+星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=13692825395162703291,美式
 79,Editor Books & Cafe,"No. 24, Wenzhou Street, Da’an District",4.6,824,25.023319,121.533193,ChIJIZ_uJoapQjQR7EJScib4GcE,google,cafe,新月台,"星期日：10:30 - 星期日 21:00
 星期一：10:30 - 星期一 21:00
 星期二：10:30 - 星期二 22:30
 星期三：10:30 - 星期三 22:30
 星期四：10:30 - 星期四 22:30
 星期五：10:30 - 星期五 22:30
-星期六：10:30 - 星期六 22:30",2.0,https://maps.google.com/?cid=13914425367748297452,"咖啡廳, 精緻聚餐, 早午餐, 打卡店",1
+星期六：10:30 - 星期六 22:30",2.0,https://maps.google.com/?cid=13914425367748297452,"咖啡廳, 精緻聚餐, 早午餐"
 81,Flügel studio,"一樓, No. 3號, Lane 34, Section 1, Xinhai Road, Da’an District",4.4,1819,25.019834,121.530288,ChIJMQW2uI6pQjQRxXYsEQnUs0M,google,cafe,新月台,"星期日：13:00 - 星期日 19:00
 星期一：14:00 - 星期一 19:00
 星期二：14:00 - 星期二 19:00
 星期三：14:00 - 星期三 19:00
 星期四：14:00 - 星期四 19:00
 星期五：14:00 - 星期五 19:00
-星期六：13:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=4878475956780299973,"甜點, 咖啡廳",1
+星期六：13:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=4878475956780299973,"甜點, 咖啡廳"
 82,臺大新月台,"新生南路側門, No. 1號, Section 4, Roosevelt Road, Da’an District",4.4,15,25.018504,121.533955,ChIJ_XjlGV-pQjQRlfVwkaOQamQ,google,cafe,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 18:00
 星期二：10:00 - 星期二 18:00
 星期三：10:00 - 星期三 18:00
 星期四：10:00 - 星期四 18:00
 星期五：10:00 - 星期五 18:00
-星期六：10:00 - 星期六 18:00",,https://maps.google.com/?cid=7235754783518291349,"咖啡廳, 早午餐, 學生愛店, 打卡店",1
-83,cama café NTU Xinsheng S. Shop,"No. 1號, Lane 76, Section 3, Xinsheng South Road, Da’an District",4.1,306,25.019126,121.533547,ChIJTaDOTMOpQjQR8IadBk4E2kI,google,cafe,"公館捷運站1號出口,新月台","星期一：08:00 - 星期一 19:00
-星期二：08:00 - 星期二 19:00
-星期三：08:00 - 星期三 19:00
-星期四：08:00 - 星期四 19:00
-星期五：08:00 - 星期五 19:00
-星期六：08:00 - 星期六 14:00",1.0,https://maps.google.com/?cid=4817167484591113968,"咖啡廳, 學生愛店, 冰店",1
-84,McCafé 咖啡-台北新生店,"No. 88-2號, Section 3, Xinsheng South Road, Da’an District",4.8,16,25.01821,121.533345,ChIJ84WOVsapQjQRC9_44HqRPvc,google,cafe,"公館捷運站1號出口,新月台",,,https://maps.google.com/?cid=17815837132870704907,"咖啡廳, 甜點",1
+星期六：10:00 - 星期六 18:00",,https://maps.google.com/?cid=7235754783518291349,"咖啡廳, 早午餐, 便當, 學生愛店"
 85,葉子咖啡,"葉子咖啡, No. 16-1號, Alley 14, Lane 283, Section 3, Luosifu Road, Da’an District",4.1,325,25.017855,121.532658,ChIJEw7EXYmpQjQRJ10FgqE40zQ,google,cafe,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 22:00
 星期一：12:00 - 星期一 23:30
 星期二：12:00 - 星期二 23:30
 星期三：12:00 - 星期三 23:30
 星期四：12:00 - 星期四 23:30
 星期五：12:00 - 星期五 23:30
-星期六：12:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=3806448376380480807,"咖啡廳, 甜點, 飲料, 打卡店, 宵夜, 學生愛店",1
-86,亞舍咖啡,"No. 1號, Lane 60, Section 3, Xinsheng South Road, Da’an District",4.5,269,25.020137,121.533584,ChIJuU6WPt2pQjQRaAYSmvcZm1U,google,cafe,新月台,"星期日：12:00 - 星期日 22:00
-星期一：12:00 - 星期一 22:00
-星期二：12:00 - 星期二 22:00
-星期三：12:00 - 星期三 22:00
-星期四：12:00 - 星期四 22:00
-星期五：12:00 - 星期五 22:00
-星期六：12:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=6168552665846515304,"甜點, 咖啡廳, 早午餐, 學生愛店, 打卡店",1
+星期六：12:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=3806448376380480807,咖啡廳
 87,Leaf café,"No. 36, Lane 333, Section 3, Luosifu Road, Da’an District",3.9,13,25.017752,121.532649,ChIJ7wF1LwCpQjQRebbv5x9zcLM,google,cafe,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 22:00
 星期一：12:00 - 星期一 23:30
 星期二：12:00 - 星期二 23:30
 星期三：12:00 - 星期三 23:30
 星期四：12:00 - 星期四 23:30
 星期五：12:00 - 星期五 23:30
-星期六：12:00 - 星期六 22:00",,https://maps.google.com/?cid=12929961111053121145,"咖啡廳, 早餐, 宵夜, 甜點, 飲料",1
+星期六：12:00 - 星期六 22:00",,https://maps.google.com/?cid=12929961111053121145,"咖啡廳, 早午餐, 甜點"
 88,天使ハート女僕咖啡廳,"2樓, No. 96之5號, Section 3, Xinsheng South Road, Da’an District",4.6,108,25.017257,121.533152,ChIJdZHa0vSpQjQRPhCBTrr5T9s,google,cafe,"公館捷運站1號出口,新月台","星期日：13:00 - 星期日 22:00
 星期一：13:00 - 星期一 22:00
 星期二：13:00 - 星期二 22:00
 星期三：13:00 - 星期三 22:00
 星期四：13:00 - 星期四 22:00
 星期五：13:00 - 星期五 22:00
-星期六：13:00 - 星期六 22:00",,https://maps.google.com/?cid=15803124196042674238,"甜點, 打卡店, 咖啡廳",1
+星期六：13:00 - 星期六 22:00",,https://maps.google.com/?cid=15803124196042674238,"咖啡廳, 精緻聚餐"
 89,炭波波·喫茶（公休詳情請見IG精選動態）,"No. 11號, Alley 3, Lane 74, Wenzhou Street, Da’an District",4.2,479,25.01894,121.532101,ChIJ37E9d1OpQjQRtvm3D-AI-xU,google,cafe,"公館捷運站1號出口,新月台","星期日：10:30 - 星期日 21:00
 星期一：10:30 - 星期一 21:00
 星期二：10:30 - 星期二 21:00
 星期三：10:30 - 星期三 21:00
 星期四：10:30 - 星期四 21:00
 星期五：10:30 - 星期五 21:00
-星期六：10:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=1583869452380273078,"日式, 甜點, 咖啡廳, 打卡店",1
-90,聞山咖啡台大店,"No. 11-1號, Lane 56, Section 3, Xinsheng South Road, Da’an District",4.7,615,25.02048,121.533504,ChIJsygw_YipQjQR9OQ2KKEFI5Y,google,cafe,新月台,"星期日：12:00 - 星期日 20:00
-星期一：12:00 - 星期一 20:00
-星期二：12:00 - 星期二 20:00
-星期三：12:00 - 星期三 20:00
-星期四：12:00 - 星期四 20:00
-星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=10818496919596623092,"咖啡廳, 早午餐, 甜點",1
+星期六：10:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=1583869452380273078,"日式, 咖啡廳"
 91,書屋花甲Ｘ而立書店（台大店）,"一樓, No. 20號, Lane 283,Section 3.Roosevelt Road, Da’an District",4.6,266,25.018608,121.531716,ChIJ81rlJm-pQjQR2NONrBybGY4,google,cafe,"公館捷運站1號出口,新月台","星期日：10:30 - 星期日 21:00
 星期一：11:30 - 星期一 18:00
 星期三：11:30 - 星期三 21:00
 星期四：11:30 - 星期四 21:00
 星期五：11:30 - 星期五 21:00
-星期六：10:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=10239385775259898840,"早午餐, 咖啡廳, 甜點, 飲料, 便當",1
+星期六：10:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=10239385775259898840,"健康, 早午餐, 咖啡廳"
 92,Coffee Boy Hop Man,"No. 36號, Lane 283,Section 3.Roosevelt Road, Da’an District",4.6,247,25.019427,121.53184,ChIJy0__oaWpQjQRHbVbJQFxPyc,google,cafe,新月台,"星期日：12:30 - 星期日 19:00
 星期二：12:30 - 星期三 00:00
 星期三：12:30 - 星期四 00:00
 星期四：12:30 - 星期五 00:00
 星期五：12:30 - 星期六 00:00
-星期六：12:30 - 星期日 00:00",,https://maps.google.com/?cid=2828103340747633949,"咖啡廳, 早午餐, 甜點, 飲料",1
-93,奇瓦咖啡,"之8 1樓, No. 12號, Lane 283,Section 3.Roosevelt Road, Da’an District",4.3,6,25.018393,121.531663,ChIJWdyFVQCpQjQRuJN_0d-xAD4,google,cafe,"公館捷運站1號出口,新月台","星期日：14:00 - 星期日 20:00
-星期二：14:00 - 星期二 20:00
-星期三：14:00 - 星期三 20:00
-星期四：14:00 - 星期四 20:00
-星期五：14:00 - 星期五 20:00
-星期六：14:00 - 星期六 20:00",,https://maps.google.com/?cid=4467766405202154424,"咖啡廳, 甜點, 早午餐, 打卡店",1
+星期六：12:30 - 星期日 00:00",,https://maps.google.com/?cid=2828103340747633949,"咖啡廳, 早午餐, 精緻聚餐"
 94,Da Vinci Coffee Taipei,"1F, No. 2號, Lane 58, Wenzhou Street, Da’an District",4.6,622,25.020629,121.532941,ChIJCRed4JmpQjQRpOEwyWt1wwU,google,cafe,新月台,"星期日：10:00 - 星期日 18:30
 星期一：10:00 - 星期一 18:30
 星期二：10:00 - 星期二 18:30
 星期三：10:00 - 星期三 18:30
 星期四：10:00 - 星期四 18:30
 星期五：10:00 - 星期五 18:30
-星期六：10:00 - 星期六 18:30",2.0,https://maps.google.com/?cid=415304696445591972,"甜點, 咖啡廳, 早午餐",1
+星期六：10:00 - 星期六 18:30",2.0,https://maps.google.com/?cid=415304696445591972,"咖啡廳, 早午餐, 精緻聚餐"
 95,秘徑小食光,"No. 3號, Lane 283,Section 3.Roosevelt Road, Da’an District",4.1,561,25.018208,121.531508,ChIJM3P2ruCpQjQREtSGnl9tftI,google,cafe,"公館捷運站1號出口,新月台","星期日：10:30 - 星期日 21:00
 星期二：10:30 - 星期二 21:00
 星期三：10:30 - 星期三 21:00
 星期四：10:30 - 星期四 21:00
 星期五：10:30 - 星期五 21:00
-星期六：10:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=15167680852479366162,"美式, 早午餐, 甜點, 飲料, 咖啡廳",1
-96,Time with Cats,"1樓, No. 297-1號, Section 3, Roosevelt Road, Da’an District",4.8,785,25.01764,121.531706,ChIJxY1-V12pQjQRbSLA3ZgvqK0,google,cafe,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 19:30
-星期三：12:00 - 星期三 20:00
+星期六：10:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=15167680852479366162,"鍋物, 日式, 便當"
+101,Rebirth Cafe & Restaurant,"No. 2, Lane 48, Wenzhou Street, Da’an District",4.2,820,25.021369,121.532952,ChIJffQZ6YipQjQRAdV3sCg2bcM,google,cafe,新月台,,2.0,https://maps.google.com/?cid=14081971158244644097,咖啡廳
+103,Coffee loopy,"No. 2號, Alley 2, Lane 244, Section 3, Roosevelt Road, Zhongzheng District",4.8,172,25.016936,121.531121,ChIJ15rqHV2pQjQRJg1oStWipKQ,google,cafe,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 17:00
+星期一：07:30 - 星期一 17:00
+星期二：07:30 - 星期二 17:00
+星期三：07:30 - 星期三 17:00
+星期四：07:30 - 星期四 17:00
+星期五：07:30 - 星期五 17:00
+星期六：10:00 - 星期六 17:00",,https://maps.google.com/?cid=11863786355360795942,"早午餐, 咖啡廳, 平價快食"
+104,野橙咖啡,"No. 6-1號, Lane 269, Section 3, Roosevelt Road",4.6,60,25.019264,121.530434,ChIJn-0tDVOrQjQRDcSD7SN8F44,google,cafe,新月台,"星期日：12:00 - 星期日 20:00
+星期一：12:00 - 星期一 20:00
+星期二：12:00 - 星期二 20:00
+星期三：11:30 - 星期三 14:00
 星期四：12:00 - 星期四 20:00
 星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=12513303898250814061,"咖啡廳, 便當, 美式, 甜點, 早午餐",1
-100,山徑拾光 TRAIL COFFEE,"1樓, No. 4號, Lane 48, Wenzhou Street, Da’an District",4.9,161,25.021339,121.532857,ChIJ8QH-FZ2pQjQRjtr1CP5Rmew,google,cafe,新月台,"星期日：13:00 - 星期日 19:00
-星期四：13:00 - 星期四 19:00
-星期五：13:00 - 星期五 19:00
-星期六：13:00 - 星期六 19:00",,https://maps.google.com/?cid=17048748015901596302,"咖啡廳, 甜點",1
-101,Rebirth Cafe & Restaurant,"No. 2, Lane 48, Wenzhou Street, Da’an District",4.2,820,25.021369,121.532952,ChIJffQZ6YipQjQRAdV3sCg2bcM,google,cafe,新月台,,2.0,https://maps.google.com/?cid=14081971158244644097,"日式, 咖啡廳, 宵夜, 甜點, 打卡店",1
+星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=10238788771600647181,台式
 105,Half coffee,"1樓, No. 4號, Alley 4, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",4.8,414,25.015986,121.532084,ChIJ5Z5CjJqpQjQRP9hMKOKix_k,google,cafe,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 18:00
 星期一：10:00 - 星期一 18:00
 星期二：10:00 - 星期二 18:00
 星期三：10:00 - 星期三 18:00
 星期四：10:00 - 星期四 18:00
 星期五：10:00 - 星期五 18:00
-星期六：10:00 - 星期六 18:00",,https://maps.google.com/?cid=17998533528031909951,"咖啡廳, 甜點, 早午餐, 打卡店",1
-106,可唐精品茶旅 台大店,"No. 1號, Section 4, Roosevelt Road",4.8,149,25.018684,121.537437,ChIJ7ag_BxepQjQRj5brwsLDrLI,google,cafe,"公館捷運站1號出口,新月台,社科院圖書館","星期一：09:30 - 星期一 19:00
-星期二：09:30 - 星期二 19:00
-星期三：09:30 - 星期三 19:00
-星期四：09:30 - 星期四 19:00
-星期五：09:30 - 星期五 19:00
-星期六：10:00 - 星期六 17:30",,https://maps.google.com/?cid=12874880676006696591,"甜點, 咖啡廳, 日式, 台式",1
-107,Flovie,"No. 19號, Alley 10, Lane 244, Section 3, Roosevelt Road, Zhongzheng District",4.5,659,25.016115,121.531526,ChIJuUnPP0KpQjQRguNrS_dGJ7c,google,cafe,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 20:30
-星期二：11:00 - 星期二 20:30
-星期三：11:00 - 星期三 20:30
-星期四：11:00 - 星期四 20:30
-星期五：11:00 - 星期五 20:30
-星期六：11:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=13197595260968756098,"甜點, 早午餐, 咖啡廳",1
+星期六：10:00 - 星期六 18:00",,https://maps.google.com/?cid=17998533528031909951,"咖啡廳, 早午餐"
 109,MiMi's Cafe,"No. 15號, Lane 284, Section 3, Roosevelt Road, Zhongzheng District",4.3,767,25.015997,121.531485,ChIJ9VvPhoupQjQRO3l3GebY64I,google,cafe,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 22:00
 星期一：12:00 - 星期一 22:00
 星期二：12:00 - 星期二 22:00
 星期三：12:00 - 星期三 22:00
 星期四：12:00 - 星期四 22:00
 星期五：12:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=9433872327238973755,"法式, 甜點, 早午餐, 咖啡廳, 美式",1
-112,曲珍坊,"No. 6, Lane 24, Section 4, Roosevelt Road, Zhongzheng District",5.0,1,25.015181,121.533002,ChIJW0iwCYupQjQRvBBaRIqHEZk,google,cafe,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 21:30
-星期一：11:30 - 星期一 21:30
-星期二：11:30 - 星期二 21:30
-星期三：11:30 - 星期三 21:30
-星期四：11:30 - 星期四 21:30
-星期五：11:30 - 星期五 21:30
-星期六：11:30 - 星期六 21:30",,https://maps.google.com/?cid=11029745990329045180,"甜點, 咖啡廳",1
+星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=9433872327238973755,"美式, 精緻聚餐, 早午餐, 咖啡廳"
+111,別處咖啡 Away cafe,"No. 2-1號, Roosevelt Road, Section 3, Lane 244, Alley 9, Zhongzheng District",4.5,438,25.016936,121.530442,ChIJr52_JZ2pQjQRQ_UeWocNMTE,google,cafe,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 22:00
+星期一：13:00 - 星期一 21:00
+星期二：13:00 - 星期二 21:00
+星期三：13:00 - 星期三 21:00
+星期四：13:00 - 星期四 21:00
+星期五：13:00 - 星期五 21:00
+星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=3544629256701015363,"咖啡廳, 平價快食"
 113,JODO 飯糰咖啡手作專門店 台北汀州店,"No. 131號, Section 3, Tingzhou Road, Zhongzheng District",4.1,417,25.016305,121.530724,ChIJGb41NLupQjQRIfpcZcaILGs,google,cafe,"公館捷運站1號出口,新月台","星期日：09:00 - 星期日 20:00
 星期一：11:00 - 星期一 20:00
 星期二：11:00 - 星期二 20:00
 星期三：11:00 - 星期三 20:00
 星期四：11:00 - 星期四 20:00
 星期五：11:00 - 星期五 20:00
-星期六：09:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=7722697846719052321,"日式, 健康, 早午餐, 甜點, 飲料, 咖啡廳, 學生愛店, 打卡店",1
-114,貳拾肆街磨豆咖啡廳 24st. Cafe （僅提供外帶服務）,"2樓, No. 10號, Lane 24, Section 4, Roosevelt Road, Zhongzheng District",4.5,22,25.015049,121.53287,ChIJQwMz-hapQjQRZnn212R5p2c,google,cafe,"公館捷運站1號出口,新月台","星期日：13:30 - 星期日 21:00
-星期二：13:30 - 星期二 21:00
-星期三：13:30 - 星期三 21:00
-星期四：13:30 - 星期四 21:00
-星期五：13:30 - 星期五 21:00
-星期六：13:30 - 星期六 21:00",,https://maps.google.com/?cid=7469071981044201830,"咖啡廳, 學生愛店, 甜點, 打卡店",1
+星期六：09:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=7722697846719052321,"日式, 飯食, 健康"
 116,Komeda‘s Coffee,"No. 62號, Section 3, Tingzhou Road, Zhongzheng District",4.4,175,25.015612,121.531355,ChIJPZi6gXmpQjQRxSZ4Q6DE4pk,google,cafe,"公館捷運站1號出口,新月台","星期日：07:30 - 星期日 21:00
 星期一：07:30 - 星期一 21:00
 星期二：07:30 - 星期二 21:00
 星期三：07:30 - 星期三 21:00
 星期四：07:30 - 星期四 21:00
 星期五：07:30 - 星期五 21:00
-星期六：07:30 - 星期六 21:00",,https://maps.google.com/?cid=11088641425145341637,"早午餐, 日式, 咖啡廳, 甜點",1
-118,Ijysheng Gongguan Store,"No. 291號, Section 3, Roosevelt Road, Da’an District",4.6,811,25.017806,121.531492,ChIJP9Qzfo-pQjQRqWpFEsxzGS8,google,food,"公館捷運站1號出口,新月台","星期日：08:30 - 星期日 20:30
-星期一：07:00 - 星期一 21:30
-星期二：07:00 - 星期二 21:30
-星期三：07:00 - 星期三 21:30
-星期四：07:00 - 星期四 21:30
-星期五：07:00 - 星期五 21:30
-星期六：08:30 - 星期六 20:30",2.0,https://maps.google.com/?cid=3393871114517441193,"甜點, 麵食, 便當, 精緻聚餐",1
-119,好想吃冰 かき氷 日式蔬食 台大公館店 ( Vegetarian / Vegan meal ),"No. 80號, Wenzhou Street, Da’an District",4.3,3935,25.019116,121.532751,ChIJnX29aompQjQR1Mz4z-ccjh4,google,bakery,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 20:00
-星期三：12:00 - 星期三 20:00
-星期四：12:00 - 星期四 20:00
-星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=2201729049782963412,"日式, 素食, 冰店, 炸物, 甜點, 飲料",1
-123,Pain de Kai,"一樓, No. 84號, Section 3, Xinsheng South Road, Da’an District",4.5,372,25.018893,121.533486,ChIJr_lolWmpQjQRecVqY5EyWGs,google,bakery,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 19:30
-星期一：11:30 - 星期一 19:30
-星期二：11:30 - 星期二 19:30
-星期三：11:30 - 星期三 19:30
-星期四：11:30 - 星期四 19:30
-星期五：11:30 - 星期五 19:30
-星期六：11:30 - 星期六 19:30",,https://maps.google.com/?cid=7734987960028415353,"甜點",1
+星期六：07:30 - 星期六 21:00",,https://maps.google.com/?cid=11088641425145341637,"早午餐, 咖啡廳"
+120,coco.Brownies 可可布朗 - 布朗尼專賣店/義式咖啡/下午茶 公館外帶專門店/cafe/coffee,"No. 16-1號, Alley 14, Lane 283, Section 3, Luosifu Road, Da’an District",4.5,1761,25.017863,121.532597,ChIJ0ZuPXYmpQjQR-8lEINirTHk,google,bakery,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 20:30
+星期一：12:00 - 星期一 20:30
+星期二：12:00 - 星期二 20:30
+星期三：12:00 - 星期三 20:30
+星期四：12:00 - 星期四 20:30
+星期五：12:00 - 星期五 20:30
+星期六：12:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=8740549921561954811,"甜點, 咖啡廳"
 124,貝琪比利時鬆餅,"No. 72-5號, Section 3, Xinsheng South Road, Da’an District",5.0,6,25.019487,121.533526,ChIJjYE1PwCpQjQRHQo9yHrEAiY,google,bakery,"公館捷運站1號出口,新月台","星期日：15:00 - 星期日 19:00
 星期二：15:00 - 星期二 19:00
 星期三：15:00 - 星期三 19:00
 星期四：15:00 - 星期四 19:00
 星期五：15:00 - 星期五 19:00
-星期六：15:00 - 星期六 19:00",,https://maps.google.com/?cid=2738967555019180573,"甜點, 早午餐, 咖啡廳, 打卡店",1
-125,Quichez派出所,"No. 14號, Lane 74, Wenzhou Street, Da’an District",4.4,180,25.019836,121.531829,ChIJ-UUoMYmpQjQR4bGGyRqWt-o,google,bakery,新月台,"星期日：10:00 - 星期日 15:30
-星期日：16:30 - 星期日 20:30
-星期一：10:00 - 星期一 15:30
-星期一：16:30 - 星期一 20:30
-星期二：10:00 - 星期二 15:30
-星期二：16:30 - 星期二 20:30
-星期三：10:00 - 星期三 15:30
-星期三：16:30 - 星期三 20:30
-星期四：10:00 - 星期四 15:30
-星期四：16:30 - 星期四 20:30
-星期五：10:00 - 星期五 15:30
-星期五：16:30 - 星期五 20:30
-星期六：10:00 - 星期六 15:30
-星期六：16:30 - 星期六 20:30",,https://maps.google.com/?cid=16913151967407550945,"甜點, 早餐, 咖啡廳",1
+星期六：15:00 - 星期六 19:00",,https://maps.google.com/?cid=2738967555019180573,"甜點, 早午餐, 學生愛店"
 126,一覺吐司Ichisatori Bakery-台北台大店,"101室, No. 325號, Section 3, Roosevelt Road, Da’an District",4.7,6,25.017152,121.532209,ChIJP5qudh-pQjQR4vj1GZR046Q,google,bakery,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 20:00
 星期一：12:00 - 星期一 20:00
 星期二：12:00 - 星期二 20:00
 星期三：12:00 - 星期三 20:00
 星期四：12:00 - 星期四 20:00
 星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=11881468421373032674,"甜點, 早餐, 咖啡廳, 學生愛店",1
-127,Lazy Pâtisserie (Gongguan),"No. 345號, Section 3, Roosevelt Road, Da’an District",4.2,53,25.016834,121.532618,ChIJ41DJ_E2pQjQRIj9cRuRuXqE,google,bakery,"公館捷運站1號出口,新月台","星期一：12:00 - 星期一 20:00
-星期二：12:00 - 星期二 20:00
-星期三：12:00 - 星期三 20:00
-星期四：12:00 - 星期四 20:00
-星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=11627853214629248802,"甜點, 咖啡廳, 打卡店",1
-128,Gelateria de Lisa,"No. 281號, Section 3, Roosevelt Road, Da’an District",4.8,101,25.017947,121.531252,ChIJVfBPkyuqQjQRM0cvCXVhYYg,google,bakery,"公館捷運站1號出口,新月台","星期日：10:00 - 星期日 20:00
-星期一：10:00 - 星期一 20:00
-星期二：10:00 - 星期二 20:00
-星期三：10:00 - 星期三 20:00
-星期四：10:00 - 星期四 20:00
-星期五：10:00 - 星期五 20:00
-星期六：10:00 - 星期六 20:00",,https://maps.google.com/?cid=9827243017192294195,"甜點, 冰店, 健康",1
+星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=11881468421373032674,"早午餐, 甜點"
 129,TARTINE,"No. 6號, Section 4, Roosevelt Road, Zhongzheng District",4.3,75,25.01587,121.53285,ChIJsY0WagCpQjQRDagXjBZzpn8,google,bakery,"公館捷運站1號出口,新月台","星期日：09:30 - 星期日 21:30
 星期一：09:30 - 星期一 21:30
 星期二：09:30 - 星期二 21:30
 星期三：09:30 - 星期三 21:30
 星期四：09:30 - 星期四 21:30
 星期五：09:30 - 星期五 21:30
-星期六：09:30 - 星期六 21:30",,https://maps.google.com/?cid=9198165829627652109,"甜點, 咖啡廳",1
-130,Grandma Millie's Cookies,"No. 12, Alley 10, Lane 244, Section 3, Roosevelt Road, Zhongzheng District",3.8,53,25.016067,121.531358,ChIJCU9_h4upQjQRbagkRcFjmdg,google,bakery,"公館捷運站1號出口,新月台","星期日：14:00 - 星期日 22:30
-星期一：14:00 - 星期一 22:30
-星期二：14:00 - 星期二 22:30
-星期三：14:00 - 星期三 22:30
-星期四：14:00 - 星期四 22:30
-星期五：14:00 - 星期五 22:30
-星期六：14:00 - 星期六 22:30",,https://maps.google.com/?cid=15607615665369032813,"甜點, 學生愛店, 甜點",1
-131,Oma's German Bakery,"No. 46號, Section 1, Xinhai Road, Da’an District",4.4,939,25.020117,121.530326,ChIJ_-UgxI6pQjQRWsjHLA-HokQ,google,bakery,新月台,"星期日：08:00 - 星期日 20:30
-星期一：08:00 - 星期一 20:30
-星期二：08:00 - 星期二 20:30
-星期三：08:00 - 星期三 20:30
-星期四：08:00 - 星期四 20:30
-星期五：08:00 - 星期五 20:30
-星期六：08:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=4945663840051775578,"甜點, 健康, 早午餐, 精緻聚餐, 咖啡廳, 早餐",1
+星期六：09:30 - 星期六 21:30",,https://maps.google.com/?cid=9198165829627652109,甜點
 134,Mr.BRUNO,"No. 93號, Section 3, Tingzhou Road, Zhongzheng District",4.7,478,25.017502,121.528992,ChIJsxtbGImpQjQRbnRqYakow_M,google,bakery,新月台,"星期日：11:00 - 星期日 18:30
 星期二：11:00 - 星期二 19:00
 星期三：11:00 - 星期三 19:00
 星期四：11:00 - 星期四 19:00
 星期五：11:00 - 星期五 19:00
-星期六：11:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=17564927679624017006,"甜點, 打卡店, 精緻聚餐, 法式, 早午餐",1
+星期六：11:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=17564927679624017006,"甜點, 早午餐"
 135,Taishun Street Red Bean Waffle,"No. 52號, Taishun Street, Da’an District",4.6,88,25.022778,121.531124,ChIJLx8PKTGpQjQRGlf52oQJikE,google,bakery,新月台,"星期日：13:30 - 星期日 21:00
 星期二：13:30 - 星期二 21:00
 星期三：13:30 - 星期三 21:00
 星期四：13:30 - 星期四 21:00
 星期五：13:30 - 星期五 21:00
-星期六：13:30 - 星期六 21:00",,https://maps.google.com/?cid=4722597625465493274,"甜點, 台式, 學生愛店, 打卡店, 冰店",1
-137,Cool Cheese Cake 酷起司,"1樓, 水源市場35號店舖, No. 92號, Section 4, Roosevelt Road, Zhongzheng District",4.5,34,25.013651,121.534973,ChIJV-K8qIsBaDQR4LIZnPLbOzg,google,bakery,"公館捷運站1號出口,新月台","星期二：10:00 - 星期二 18:00
-星期三：10:00 - 星期三 18:00
-星期四：10:00 - 星期四 18:00
-星期五：10:00 - 星期五 18:00
-星期六：10:00 - 星期六 18:00",,https://maps.google.com/?cid=4052074124797391584,"甜點, 打卡店, 早餐",1
+星期六：13:30 - 星期六 21:00",,https://maps.google.com/?cid=4722597625465493274,"甜點, 台式"
+136,Martabak Gongguan,"No. 2號, Lane 90, Section 4, Roosevelt Road, Zhongzheng District",3.8,167,25.01395,121.534985,ChIJc9V074qpQjQRRJNQAz5x9FA,google,bakery,"公館捷運站1號出口,新月台",,,https://maps.google.com/?cid=5833411928509158212,炸物
 138,野果小點,"1樓, Shuiyuan Market, 8號, No. 92號, Section 4, Roosevelt Road, Zhongzheng District",4.9,102,25.013537,121.534648,ChIJHcC2xnmpQjQRjRTrwErmYWA,google,bakery,"公館捷運站1號出口,新月台","星期二：10:00 - 星期二 19:00
 星期三：10:00 - 星期三 19:00
 星期四：10:00 - 星期四 19:00
 星期五：10:00 - 星期五 19:00
-星期六：10:00 - 星期六 19:00",,https://maps.google.com/?cid=6945085309120615565,"甜點, 早午餐, 咖啡廳, 打卡店",1
+星期六：10:00 - 星期六 19:00",,https://maps.google.com/?cid=6945085309120615565,"甜點, 早午餐, 精緻聚餐"
+139,祥滿速食餐坊-清蒸鮮魚(海鮮火鍋),"樓(53, 56攤位, No. 92號1, Section 4, Roosevelt Road, Zhongzheng District",4.3,324,25.013651,121.534973,ChIJ_fgu74qpQjQRV5eybiCdT-I,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：10:30 - 星期日 20:00
+星期二：10:30 - 星期二 20:00
+星期三：10:30 - 星期三 20:00
+星期四：10:30 - 星期四 20:00
+星期五：10:30 - 星期五 20:00
+星期六：10:30 - 星期六 20:00",,https://maps.google.com/?cid=16307425538353567575,"鍋物, 便當, 台式"
 140,Domino's Pizza,"1樓, No. 56號, Section 1, Xinhai Road, Da’an District",3.8,192,25.020341,121.5306,ChIJhVS-ITKqQjQRhwwDaD2qnkg,google,meal_takeaway,新月台,"星期日：11:00 - 星期日 22:00
 星期一：11:00 - 星期一 22:00
 星期二：11:00 - 星期二 22:00
 星期三：11:00 - 星期三 22:00
 星期四：11:00 - 星期四 22:00
 星期五：11:00 - 星期五 23:00
-星期六：11:00 - 星期六 23:00",2.0,https://maps.google.com/?cid=5232806997765852295,"美式",1
-143,主廚黛薇的印尼小廚/娜聖印尼商行 Chef Dewi Makanan Indonesia/Nasem Toko Indo,"No. 2號, Alley 2, Lane 74, Wenzhou Street, Da’an District",4.8,6,25.019825,121.532668,ChIJbRtIBIwDaDQRogDa22keuCo,google,meal_takeaway,新月台,"星期日：09:00 - 星期日 20:00
-星期二：09:00 - 星期二 20:00
-星期三：09:00 - 星期三 20:00
-星期四：09:00 - 星期四 20:00
-星期五：09:00 - 星期五 20:00
-星期六：09:00 - 星期六 20:00",,https://maps.google.com/?cid=3078243785316630690,"印度料理, 便當, 麵食, 火鍋",1
-145,食壹餐盒小吃店,"No. 333號, Section 3, Roosevelt Road, Da’an District",5.0,11,25.017003,121.532349,ChIJf1zWRACpQjQRTJxfsRNeE8Q,google,meal_takeaway,"公館捷運站1號出口,新月台",,,https://maps.google.com/?cid=14128739894664600652,"日式, 台式, 便當, 健康, 早午餐, 學生愛店",1
+星期六：11:00 - 星期六 23:00",2.0,https://maps.google.com/?cid=5232806997765852295,美式
+142,龍記炒燴,"No. 92號, Section 4, Roosevelt Road, Zhongzheng District",4.4,751,25.013556,121.534769,ChIJ_fgu74qpQjQRSOvT-G7mkdI,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 15:00
+星期日：17:00 - 星期日 20:00
+星期二：12:00 - 星期二 15:00
+星期二：17:00 - 星期二 20:00
+星期三：12:00 - 星期三 15:00
+星期三：17:00 - 星期三 20:00
+星期四：12:00 - 星期四 15:00
+星期四：17:00 - 星期四 20:00
+星期五：12:00 - 星期五 15:00
+星期五：17:00 - 星期五 20:00
+星期六：12:00 - 星期六 15:00
+星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=15173161983883340616,"中式, 精緻聚餐"
+145,食壹餐盒小吃店,"No. 333號, Section 3, Roosevelt Road, Da’an District",5.0,11,25.017003,121.532349,ChIJf1zWRACpQjQRTJxfsRNeE8Q,google,meal_takeaway,"公館捷運站1號出口,新月台",,,https://maps.google.com/?cid=14128739894664600652,"台式, 便當, 健康"
+146,大雄麵線,"No. 2號, Lane 316, Roosevelt Road, Section 3, Zhongzheng District",4.9,12,25.01599,121.532761,ChIJZ874dzGpQjQRg-eZwrCum-8,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：11:00 - 星期日 22:00
+星期一：11:00 - 星期一 22:00
+星期二：11:00 - 星期二 22:00
+星期三：11:00 - 星期三 22:00
+星期四：11:00 - 星期四 22:00
+星期五：11:00 - 星期五 22:00
+星期六：11:00 - 星期六 22:00",,https://maps.google.com/?cid=17265585670657271683,"台式, 麵食"
 147,巷子口麵攤,"No. 口, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",5.0,19,25.016064,121.532296,ChIJbQk-U42pQjQRgNUOvUNugbk,google,meal_takeaway,"公館捷運站1號出口,新月台","星期一：11:00 - 星期一 20:00
 星期二：11:00 - 星期二 20:00
 星期三：11:00 - 星期三 20:00
 星期四：11:00 - 星期四 20:00
-星期五：11:00 - 星期五 20:00",,https://maps.google.com/?cid=13367086406226072960,"台式, 麵食, 打卡店",1
+星期五：11:00 - 星期五 20:00",,https://maps.google.com/?cid=13367086406226072960,"麵食, 便當"
 148,梅小月知高飯（公館店）,"No. 18號, Lane 286, Section 3, Roosevelt Road, Zhongzheng District",4.9,97,25.015861,121.53236,ChIJOfDoMMqpQjQRYp-7BmBBfRo,google,meal_takeaway,"公館捷運站1號出口,新月台","星期一：12:00 - 星期一 20:00
 星期二：12:00 - 星期二 20:00
 星期三：12:00 - 星期三 20:00
 星期四：12:00 - 星期四 20:00
-星期五：12:00 - 星期五 20:00",,https://maps.google.com/?cid=1908753697760583522,"台式, 便當, 麵食, 平價快食, 學生愛店",1
+星期五：12:00 - 星期五 20:00",,https://maps.google.com/?cid=1908753697760583522,"台式, 飯食, 便當"
+150,胖老爹美式炸雞 公館台大店,"1樓, No. 167號, Section 3, Tingzhou Road, Zhongzheng District",3.6,420,25.015215,121.532235,ChIJNRcMdoupQjQRAYT5kFVHru4,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：11:30 - 星期一 02:00
+星期一：11:30 - 星期二 02:00
+星期二：11:30 - 星期三 02:00
+星期三：11:30 - 星期四 02:00
+星期四：11:30 - 星期五 02:00
+星期五：11:30 - 星期六 02:00
+星期六：11:30 - 星期日 02:00",2.0,https://maps.google.com/?cid=17198762459804566529,"美式, 炸物, 宵夜"
 151,金生炸鷄排公館店-公館商圈,"No. 213號, Section 3, Tingzhou Road, Zhongzheng District",4.2,85,25.014189,121.533704,ChIJP1JvbXGpQjQRF2DsANqTU90,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：13:00 - 星期日 22:00
 星期一：13:00 - 星期一 22:00
 星期二：13:00 - 星期二 22:00
 星期三：13:00 - 星期三 22:00
 星期四：13:00 - 星期四 22:00
 星期五：13:00 - 星期五 22:00
-星期六：13:00 - 星期六 22:00",,https://maps.google.com/?cid=15948253269976702999,"炸物, 台式, 日式, 甜點, 健康, 飲料, 打卡店",1
+星期六：13:00 - 星期六 22:00",,https://maps.google.com/?cid=15948253269976702999,"炸物, 便當, 學生愛店"
 152,莊家班麻油雞-公館店,"No. 221號, Section 3, Tingzhou Road, Zhongzheng District",4.9,7,25.01411,121.533858,ChIJB5wE8BipQjQRsfxus8EOkIc,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：11:00 - 星期一 00:30
 星期一：11:00 - 星期二 00:30
 星期二：11:00 - 星期三 00:30
 星期三：11:00 - 星期四 00:30
 星期四：11:00 - 星期五 00:30
 星期五：11:00 - 星期六 00:30
-星期六：11:00 - 星期日 00:30",,https://maps.google.com/?cid=9768323816868478129,"台式, 宵夜, 早餐, 燒烤",1
-153,美鳳美食 白糖粿 (31號),"No. 88-7號, Section 4, Roosevelt Road, Zhongzheng District",4.6,22,25.0139,121.534786,ChIJe5VUPLWpQjQRFBrTCTn2gY8,google,meal_takeaway,"公館捷運站1號出口,新月台","星期日：17:30 - 星期日 22:30
-星期二：17:30 - 星期二 22:30
-星期三：17:30 - 星期三 22:30
-星期四：17:30 - 星期四 22:30
-星期五：17:30 - 星期五 22:30
-星期六：17:30 - 星期六 22:30",,https://maps.google.com/?cid=10340816944257767956,"炸物, 台式, 甜點, 宵夜",1
+星期六：11:00 - 星期日 00:30",,https://maps.google.com/?cid=9768323816868478129,"鍋物, 台式, 學生愛店, 宵夜"
 154,胖老爹美式炸雞 師大店,"No. 21號, Section 1, Xinhai Road, Zhongzheng District",3.3,213,25.019257,121.528158,ChIJ_____46pQjQRH-xkhA0Vrr4,google,meal_takeaway,新月台,"星期日：12:00 - 星期一 05:30
 星期一：15:00 - 星期二 05:30
 星期二：15:00 - 星期三 05:30
 星期三：15:00 - 星期四 05:30
 星期四：15:00 - 星期四 23:30
 星期五：15:00 - 星期六 05:30
-星期六：12:00 - 星期日 05:30",,https://maps.google.com/?cid=13739942660953926687,"美式, 炸物, 平價快食",1
-157,Kenting Egg ㄉ ㄨ ㄞ milk,"No. 165, Section 3, Tingzhou Road, Zhongzheng District",4.2,1235,25.0153,121.532129,ChIJmdQQdoupQjQRXbuKj3Ywky0,google,food,"公館捷運站1號出口,新月台","星期日：11:30 - 星期日 22:30
-星期一：11:30 - 星期一 22:30
-星期二：11:30 - 星期二 22:30
-星期三：11:30 - 星期三 22:30
-星期四：11:30 - 星期四 22:30
-星期五：11:30 - 星期五 22:30
-星期六：11:30 - 星期六 22:30",,https://maps.google.com/?cid=3284021839055731549,"飲料, 台式, 甜點, 學生愛店",1
+星期六：12:00 - 星期日 05:30",,https://maps.google.com/?cid=13739942660953926687,"美式, 炸物, 平價快食"
 160,柏德小路義式咖啡小館,"3樓, No. 3之1號, Alley 8, Lane 316, Section 3, Roosevelt Road, Zhongzheng District",3.5,2,25.015764,121.532632,ChIJNR1gmIupQjQRtZTJqhgfToc,google,food,"公館捷運站1號出口,新月台","星期日：12:00 - 星期日 21:00
 星期一：12:00 - 星期一 21:00
 星期二：12:00 - 星期二 21:00
 星期三：12:00 - 星期三 21:00
 星期四：12:00 - 星期四 21:00
 星期五：12:00 - 星期五 21:00
-星期六：12:00 - 星期六 21:00",,https://maps.google.com/?cid=9749764434108716213,"義式, 咖啡廳, 打卡店",1
-161,幸福村潤餅,"No. 4號, Lane 316, Roosevelt Road, Section 3, Zhongzheng District",3.5,138,25.015926,121.532798,ChIJ295pmIupQjQRM_kmwBjisJU,google,food,"公館捷運站1號出口,新月台",,1.0,https://maps.google.com/?cid=10786369703483210035,"台式, 便當, 火鍋, 平價快食",1
+星期六：12:00 - 星期六 21:00",,https://maps.google.com/?cid=9749764434108716213,"義式, 咖啡廳"
+161,幸福村潤餅,"No. 4號, Lane 316, Roosevelt Road, Section 3, Zhongzheng District",3.5,138,25.015926,121.532798,ChIJ295pmIupQjQRM_kmwBjisJU,google,food,"公館捷運站1號出口,新月台",,1.0,https://maps.google.com/?cid=10786369703483210035,"台式, 麵食"
 162,Cotton Field Health Store,"No. 273號, Section 3, Roosevelt Road, Da’an District",4.0,135,25.018413,121.53086,ChIJPxALqY6pQjQRc3zcMn1hx5U,google,food,新月台,"星期日：07:30 - 星期日 18:00
 星期一：07:30 - 星期一 21:00
 星期二：07:30 - 星期二 21:00
 星期三：07:30 - 星期三 21:00
 星期四：07:30 - 星期四 21:00
 星期五：07:30 - 星期五 21:00
-星期六：07:30 - 星期六 21:00",,https://maps.google.com/?cid=10792702222368799859,"健康, 早午餐, 甜點, 早餐",1
+星期六：07:30 - 星期六 21:00",,https://maps.google.com/?cid=10792702222368799859,"健康, 早午餐, 便當"
 163,公館酒釀湯圓,"No. 2號, Lane 12, Section 4, Luosifu Road, Zhongzheng District",3.9,287,25.015802,121.532876,ChIJbSJbo4upQjQRH8KWE1dUiTY,google,food,"公館捷運站1號出口,新月台","星期一：15:00 - 星期一 20:00
 星期二：15:00 - 星期二 20:00
 星期三：15:00 - 星期三 20:00
 星期四：15:00 - 星期四 20:00
 星期五：15:00 - 星期五 20:00
-星期六：15:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=3929764882825003551,"甜點, 台式, 學生愛店, 打卡店",1
+星期六：15:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=3929764882825003551,"台式, 甜點, 學生愛店"
 164,公館廖家食記宜蘭蔥餅,"No. 14-6, Lane 90, Section 4, Roosevelt Road, Zhongzheng District",3.4,141,25.013564,121.534621,ChIJF1rk3YqpQjQRvCShR3IIVxk,google,food,"公館捷運站1號出口,新月台","星期二：16:00 - 星期二 19:00
 星期五：16:00 - 星期五 19:00
-星期六：16:00 - 星期六 19:00",,https://maps.google.com/?cid=1825937460843062460,"台式, 便當, 宵夜, 學生愛店, 打卡店",1
+星期六：16:00 - 星期六 19:00",,https://maps.google.com/?cid=1825937460843062460,"台式, 鍋物, 平價快食, 學生愛店"
 167,狗一下居酒食堂-公館店,"No. 271號, Section 3, Tingzhou Road, Zhongzheng District",4.4,4657,25.0125,121.535445,ChIJJQBpS_WpQjQR1QUnsPcIhwY,google,food,公館捷運站1號出口,"星期日：11:30 - 星期日 14:30
 星期日：17:00 - 星期一 02:00
 星期一：11:30 - 星期一 14:30
@@ -943,21 +853,21 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:30
 星期五：17:00 - 星期六 02:00
 星期六：11:30 - 星期六 14:30
-星期六：17:00 - 星期日 02:00",3.0,https://maps.google.com/?cid=470354545988797909,"日式, 平價快食, 宵夜, 打卡店, 燒烤",1
+星期六：17:00 - 星期日 02:00",3.0,https://maps.google.com/?cid=470354545988797909,日式
 168,Mala Hot Pot,"No. 295號, Section 3, Tingzhou Road, Zhongzheng District",4.6,9401,25.011975,121.535785,ChIJp4DmtIqpQjQRMc1gEd_aAS4,google,food,公館捷運站1號出口,"星期日：11:30 - 星期一 00:00
 星期一：11:30 - 星期二 00:00
 星期二：11:30 - 星期三 00:00
 星期三：11:30 - 星期四 00:00
 星期四：11:30 - 星期五 00:00
 星期五：11:30 - 星期六 00:00
-星期六：11:30 - 星期日 00:00",3.0,https://maps.google.com/?cid=3315171452325514545,"日式, 火鍋, 飲料, 精緻聚餐, 宵夜, 打卡店",1
+星期六：11:30 - 星期日 00:00",3.0,https://maps.google.com/?cid=3315171452325514545,"鍋物, 便當, 燒烤"
 169,Ponderosa,"二樓, 台大管理學院第二活動中心, No. 85號, Section 4, Roosevelt Road, Da’an District",3.9,2548,25.013051,121.536774,ChIJldrqooqpQjQRl4bCVhVRvuI,google,food,公館捷運站1號出口,"星期日：11:00 - 星期日 21:30
 星期一：11:30 - 星期一 21:00
 星期二：11:30 - 星期二 21:00
 星期三：11:30 - 星期三 21:00
 星期四：11:30 - 星期四 21:00
 星期五：11:30 - 星期五 21:00
-星期六：11:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=16338585650238490263,"學生愛店, 平價快食, 燒烤",1
+星期六：11:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=16338585650238490263,"美式, 平價快食"
 171,Shun Yuan Restaurant,"No. 281號, Section 3, Tingzhou Road, Zhongzheng District",4.0,2453,25.012306,121.535557,ChIJoRPjyYqpQjQRLileViO9FZw,google,food,公館捷運站1號出口,"星期日：11:00 - 星期日 14:20
 星期日：17:00 - 星期日 20:50
 星期一：11:00 - 星期一 13:50
@@ -971,7 +881,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 13:50
 星期五：17:00 - 星期五 20:50
 星期六：11:00 - 星期六 14:20
-星期六：17:00 - 星期六 20:50",2.0,https://maps.google.com/?cid=11247103603898198318,"中式, 火鍋, 炸物, 甜點, 飲料, 平價快食, 宵夜",1
+星期六：17:00 - 星期六 20:50",2.0,https://maps.google.com/?cid=11247103603898198318,"中式, 鍋物, 炸物"
 172,La Marée,"No. 16號, Siyuan Street, Zhongzheng District",4.4,2696,25.013824,121.530318,ChIJr-cBn4ypQjQRRvzifzdp8qA,google,food,公館捷運站1號出口,"星期日：11:00 - 星期日 14:30
 星期日：17:00 - 星期日 21:00
 星期一：11:10 - 星期一 14:00
@@ -985,19 +895,19 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:10 - 星期五 14:00
 星期五：17:00 - 星期五 21:00
 星期六：11:00 - 星期六 14:30
-星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=11597447677522148422,"精緻聚餐, 台式, 中式, 港式",1
+星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=11597447677522148422,"精緻聚餐, 鍋物, 飯食"
 173,魯山人和風壽喜鍋物-台大店 和牛/海鮮/壽喜燒/火鍋/吃到飽/宵夜,"No. 85號, Section 4, Roosevelt Road, Da’an District",4.6,3696,25.012971,121.536381,ChIJj018mIqpQjQRhAwv9eqGsNA,google,food,公館捷運站1號出口,"星期日：11:00 - 星期一 02:00
 星期一：11:00 - 星期二 02:00
 星期二：11:00 - 星期三 02:00
 星期三：11:00 - 星期四 02:00
 星期四：11:00 - 星期五 02:00
 星期五：11:00 - 星期六 02:00
-星期六：11:00 - 星期日 02:00",2.0,https://maps.google.com/?cid=15037667499484056708,"日式, 火鍋, 宵夜",1
+星期六：11:00 - 星期日 02:00",2.0,https://maps.google.com/?cid=15037667499484056708,"鍋物, 台式"
 174,龍哥無骨雞腿排,"No. 10號, Lane 108, Roosevelt Road, Section 4, Zhongzheng District",4.3,414,25.013093,121.535049,ChIJ8TABxpfWDRQRGTCAT6m5Tqc,google,restaurant,公館捷運站1號出口,"星期日：17:00 - 星期日 22:30
 星期三：17:00 - 星期三 22:30
 星期四：17:00 - 星期四 22:30
 星期五：17:00 - 星期五 22:30
-星期六：17:00 - 星期六 22:30",1.0,https://maps.google.com/?cid=12055777389351809049,"美式, 打卡店, 平價快食",1
+星期六：17:00 - 星期六 22:30",1.0,https://maps.google.com/?cid=12055777389351809049,"台式, 炸物, 平價快食"
 175,Just Italian,"2樓, No. 83號, Section 4, Roosevelt Road, Da’an District",4.3,3194,25.013381,121.536352,ChIJuyk2l4qpQjQRILRCQId5ZZA,google,restaurant,公館捷運站1號出口,"星期日：11:30 - 星期日 14:00
 星期日：17:30 - 星期日 20:00
 星期一：11:30 - 星期一 14:00
@@ -1011,7 +921,19 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:00
 星期五：17:30 - 星期五 20:00
 星期六：11:30 - 星期六 14:00
-星期六：17:30 - 星期六 20:00",2.0,https://maps.google.com/?cid=10404856135915058208,"義式, 自助",1
+星期六：17:30 - 星期六 20:00",2.0,https://maps.google.com/?cid=10404856135915058208,義式
+176,維綸麵食館,"No. 279號, Section 3, Tingzhou Road, Zhongzheng District",3.7,1184,25.012366,121.535523,ChIJ41IbtYqpQjQR248Gimdy8vs,google,restaurant,公館捷運站1號出口,"星期日：11:00 - 星期日 14:00
+星期日：17:00 - 星期日 20:45
+星期一：11:00 - 星期一 14:00
+星期一：17:00 - 星期一 20:45
+星期二：11:00 - 星期二 14:00
+星期二：17:00 - 星期二 20:45
+星期四：11:00 - 星期四 14:00
+星期四：17:00 - 星期四 20:45
+星期五：11:00 - 星期五 14:00
+星期五：17:00 - 星期五 20:45
+星期六：11:00 - 星期六 14:00
+星期六：17:00 - 星期六 20:45",1.0,https://maps.google.com/?cid=18154698836906774491,"麵食, 鍋物, 平價快食"
 177,京阪豚骨拉麵,"No. 6號, Alley 6, Lane 136, Section 4, Roosevelt Road, Zhongzheng District",4.2,711,25.01264,121.535701,ChIJWaUkuIqpQjQRNaRGUQb_K6I,google,restaurant,公館捷運站1號出口,"星期日：11:30 - 星期日 13:30
 星期日：17:00 - 星期日 20:20
 星期一：11:30 - 星期一 13:30
@@ -1025,19 +947,33 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 13:30
 星期五：17:00 - 星期五 20:20
 星期六：11:30 - 星期六 13:30
-星期六：17:00 - 星期六 20:20",1.0,https://maps.google.com/?cid=11685714060741354549,"日式, 台式, 便當, 麵食, 飯食, 宵夜",1
+星期六：17:00 - 星期六 20:20",1.0,https://maps.google.com/?cid=11685714060741354549,"麵食, 日式, 燒烤"
 178,泰風味小吃店,"No. 2號, Lane 108, Roosevelt Road, Section 4, Zhongzheng District",4.0,301,25.013266,121.535231,ChIJ1bPhwYqpQjQR70q_ZNQB_0Y,google,restaurant,公館捷運站1號出口,"星期日：11:30 - 星期日 21:30
 星期一：11:30 - 星期一 21:30
 星期二：11:30 - 星期二 21:30
 星期四：11:30 - 星期四 21:30
 星期五：11:30 - 星期五 21:30
-星期六：11:30 - 星期六 21:30",1.0,https://maps.google.com/?cid=5115809713451125487,"泰式, 便當, 港式, 甜點, 咖啡廳, 學生愛店, 打卡店",1
+星期六：11:30 - 星期六 21:30",1.0,https://maps.google.com/?cid=5115809713451125487,"泰式, 便當, 中式"
+179,T.K.K. Fried Chicken,"No. 134號, Section 4, Roosevelt Road, Zhongzheng District",3.7,692,25.012954,121.535857,ChIJY6x2PnqpQjQRVnnCCNQyKgU,google,restaurant,公館捷運站1號出口,"星期日：11:00 - 星期日 21:00
+星期一：11:00 - 星期一 21:00
+星期二：11:00 - 星期二 21:00
+星期三：11:00 - 星期三 21:00
+星期四：11:00 - 星期四 21:00
+星期五：11:00 - 星期五 21:00
+星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=372165805472905558,"台式, 炸物, 平價快食"
 180,瑪德蓮書店咖啡 Cafe Madeleine,"B1, No. 192號, Section 3, Tingzhou Road, Zhongzheng District",4.3,727,25.012612,121.535116,ChIJy39nzoqpQjQRYGnFhVnk9qs,google,cafe,公館捷運站1號出口,"星期日：12:00 - 星期日 22:00
 星期二：12:00 - 星期二 22:00
 星期三：12:00 - 星期三 22:00
 星期四：12:00 - 星期四 22:00
 星期五：12:00 - 星期五 22:00
-星期六：12:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=12391342497904028000,"精緻聚餐, 咖啡廳, 健康, 早午餐, 打卡店",1
+星期六：12:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=12391342497904028000,"精緻聚餐, 早午餐"
+181,公館小吃店,"No. 4-1, Lane 136, Roosevelt Road, Section 4, Zhongzheng District",3.7,122,25.012653,121.535696,ChIJYfsXxYqpQjQRZPA4G0w3M0Y,google,restaurant,公館捷運站1號出口,"星期日：11:00 - 星期日 23:00
+星期一：11:00 - 星期一 23:00
+星期二：11:00 - 星期二 23:00
+星期三：11:00 - 星期三 23:00
+星期四：11:00 - 星期四 23:00
+星期五：11:00 - 星期五 23:00
+星期六：11:00 - 星期六 23:00",,https://maps.google.com/?cid=5058447606480957540,"台式, 便當"
 182,35 Curry House,"1 樓, No. 92號, Section 4, Roosevelt Road, Zhongzheng District",4.4,554,25.013742,121.535029,ChIJ_fgu74qpQjQRVxMsgm1RIRs,google,restaurant,公館捷運站1號出口,"星期二：11:00 - 星期二 14:00
 星期二：16:00 - 星期二 18:00
 星期三：11:00 - 星期三 14:00
@@ -1047,37 +983,31 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：16:00 - 星期五 18:00
 星期六：11:00 - 星期六 14:00
-星期六：16:00 - 星期六 18:00",1.0,https://maps.google.com/?cid=1954933244032717655,"台式, 炸物, 便當, 麵食, 飯食, 打卡店, 學生愛店",1
+星期六：16:00 - 星期六 18:00",1.0,https://maps.google.com/?cid=1954933244032717655,"日式, 炸物"
 183,Tadpole Point Cafe,"No. 57, Lane 230, Section 3, Tingzhou Road, Zhongzheng District",4.5,448,25.010461,121.531894,ChIJZYTYhfSpQjQRTGl8F8IRE7Q,google,food,公館捷運站1號出口,"星期日：11:00 - 星期日 20:00
 星期三：11:00 - 星期三 18:00
 星期四：11:00 - 星期四 18:00
 星期五：11:00 - 星期五 18:00
-星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=12975734476699887948,"甜點, 早午餐, 咖啡廳, 學生愛店, 打卡店",1
-185,STARBUCKS Gongguan Shuiyuan Shop,"No. 16, Siyuan Street, Zhongzheng District",3.9,414,25.013826,121.530312,ChIJlyAJn4ypQjQRSBKzn33ex3U,google,cafe,公館捷運站1號出口,"星期日：08:00 - 星期日 19:00
-星期一：08:00 - 星期一 19:00
-星期二：08:00 - 星期二 19:00
-星期三：08:00 - 星期三 19:00
-星期四：08:00 - 星期四 19:00
-星期五：08:00 - 星期五 19:00
-星期六：08:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=8486996653934580296,"咖啡廳, 學生愛店",1
-186,心咖啡 Fe Cafe,"水源里羅斯福路四段70號, No. 70號, Section 4, Roosevelt Road",4.9,184,25.01452,121.534272,ChIJc-weXwypQjQRLVDrdK5hHOc,google,cafe,公館捷運站1號出口,"星期一：07:30 - 星期一 18:00
-星期二：07:30 - 星期二 18:00
-星期三：07:30 - 星期三 18:00
-星期四：07:30 - 星期四 18:00
-星期五：07:30 - 星期五 18:00
-星期六：11:00 - 星期六 18:00",1.0,https://maps.google.com/?cid=16653292924023033901,"咖啡廳, 早餐, 飲料, 甜點",1
+星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=12975734476699887948,"咖啡廳, 早午餐, 平價快食"
+184,Mövenpick Café-莫凡彼台北臺大店,"No. 85號, Section 4, Roosevelt Road, Da’an District",4.3,1365,25.012994,121.536598,ChIJpb_qooqpQjQRDRiOLS8laDA,google,food,公館捷運站1號出口,"星期日：11:00 - 星期日 21:30
+星期一：11:00 - 星期一 21:30
+星期二：11:00 - 星期二 21:30
+星期三：11:00 - 星期三 21:30
+星期四：11:00 - 星期四 21:30
+星期五：11:00 - 星期五 21:30
+星期六：11:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=3488078795956426765,義式
 187,McCafé 咖啡-台北公館店,"No. 76號, Section 4, Roosevelt Road, Da’an District",3.1,10,25.014186,121.53458,ChIJM7vfYxepQjQR50r9IiLtN2o,google,cafe,公館捷運站1號出口,"星期日：06:00 - 星期一 00:00
 星期一：06:00 - 星期二 00:00
 星期二：06:00 - 星期三 00:00
 星期三：06:00 - 星期四 00:00
 星期四：06:00 - 星期五 00:00
 星期五：06:00 - 星期六 00:00
-星期六：06:00 - 星期日 00:00",,https://maps.google.com/?cid=7653846822611143399,"咖啡廳, 便當, 甜點, 飲料",1
+星期六：06:00 - 星期日 00:00",,https://maps.google.com/?cid=7653846822611143399,"咖啡廳, 早餐"
 188,一弄 The Alley One（本店餐點都是當天新鮮製造，如營業時間內售完會提早打烊，謝謝）,"1樓, No. 5號, Alley 1, Lane 78, Section 4, Roosevelt Road, Zhongzheng District",4.7,248,25.014086,121.534305,ChIJGxrYTv6pQjQRo1cLl0tSQ_4,google,cafe,公館捷運站1號出口,"星期二：11:30 - 星期二 19:30
 星期三：11:30 - 星期三 19:30
 星期四：11:30 - 星期四 19:30
 星期五：11:30 - 星期五 15:00
-星期六：11:30 - 星期六 19:30",,https://maps.google.com/?cid=18321578193683437475,"精緻聚餐, 日式, 美式, 飯食",1
+星期六：11:30 - 星期六 19:30",,https://maps.google.com/?cid=18321578193683437475,"港式, 精緻聚餐"
 189,澗面小酒館 Bar & Cafe,"2樓之1, No. 251號, Section 3, Tingzhou Road, Zhongzheng District",4.9,201,25.013689,121.534379,ChIJ5xQKaQCpQjQRkEhydjPOxGk,google,cafe,公館捷運站1號出口,"星期日：12:00 - 星期日 18:00
 星期日：19:00 - 星期一 00:30
 星期一：19:00 - 星期二 00:30
@@ -1087,74 +1017,79 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：12:00 - 星期五 18:00
 星期五：19:00 - 星期六 02:00
 星期六：12:00 - 星期六 18:00
-星期六：19:00 - 星期日 02:00",,https://maps.google.com/?cid=7621443189843576976,"咖啡廳, 美式, 精緻聚餐, 飲料, 甜點, 宵夜, 打卡店",1
-190,水源市場1-12莊園咖啡,"No. 92, Section 4, Roosevelt Road, Zhongzheng District",4.8,55,25.013651,121.534973,ChIJ98wb74qpQjQRS3YSCNODqbs,google,cafe,公館捷運站1號出口,"星期日：12:30 - 星期日 19:00
-星期二：12:30 - 星期二 19:00
-星期三：12:30 - 星期三 19:00
-星期四：12:30 - 星期四 19:00
-星期五：12:30 - 星期五 19:00
-星期六：12:30 - 星期六 19:00",,https://maps.google.com/?cid=13522484298553390667,"咖啡廳, 甜點",1
-192,Rock N Roll (Halal),"No. 8-1, Lane 108, Roosevelt Road, Section 4, Zhongzheng District",4.1,7,25.013094,121.535048,ChIJN_iaUMapQjQRBr_hTC0WfIs,google,cafe,公館捷運站1號出口,"星期日：16:30 - 星期日 23:30
-星期一：16:30 - 星期一 23:30
-星期四：16:30 - 星期四 23:30
-星期五：16:30 - 星期五 23:30
-星期六：16:30 - 星期六 23:30",,https://maps.google.com/?cid=10050932852203306758,"甜點, 麵食, 飲料, 早餐",1
-193,可蕾仙朵女僕咖啡館,"B1, No. 196號, Section 3, Tingzhou Road, Zhongzheng District",4.3,396,25.012368,121.535305,ChIJMdXYiY6pQjQROm4jK00Es7I,google,cafe,公館捷運站1號出口,"星期日：12:00 - 星期日 21:30
-星期一：14:00 - 星期一 21:30
-星期二：14:00 - 星期二 21:30
-星期三：14:00 - 星期三 21:30
-星期四：14:00 - 星期四 21:30
-星期五：14:00 - 星期五 21:30
-星期六：12:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=12876640489065115194,"甜點, 日式, 咖啡廳, 打卡店",1
-194,咖啡休日 Day off. - 手沖咖啡專門店,"No. 23號, Alley 6, Lane 136, Section 4, Roosevelt Road, Zhongzheng District",4.8,215,25.012264,121.535845,ChIJw1Fjk_GpQjQRwezp7ogCV8M,google,bakery,公館捷運站1號出口,"星期日：10:00 - 星期日 18:00
-星期二：10:00 - 星期二 18:00
-星期三：10:00 - 星期三 18:00
-星期四：10:00 - 星期四 18:00
-星期五：10:00 - 星期五 18:00
-星期六：10:00 - 星期六 18:00",,https://maps.google.com/?cid=14075721947516890305,"咖啡廳, 打卡店, 早午餐, 甜點",1
+星期六：19:00 - 星期日 02:00",,https://maps.google.com/?cid=7621443189843576976,"鍋物, 甜點"
+195,丹堤咖啡 Dante Coffee (台大卓越店),"台大卓越聯合中心, No. 1號, Section 4, Roosevelt Road, Da’an District",3.8,161,25.01446,121.537467,ChIJj8pIsKOrQjQRB7WbrtP6pd8,google,cafe,公館捷運站1號出口,"星期日：08:00 - 星期日 17:00
+星期一：08:00 - 星期一 17:00
+星期二：08:00 - 星期二 17:00
+星期三：08:00 - 星期三 17:00
+星期四：08:00 - 星期四 17:00
+星期五：08:00 - 星期五 17:00
+星期六：08:00 - 星期六 17:00",2.0,https://maps.google.com/?cid=16115562628689671431,"早午餐, 咖啡廳, 甜點, 精緻聚餐"
 196,Louisa Coffee 路易莎咖啡(台大卓越門市),"No. 1號, Section 4, Roosevelt Road, Da’an District",3.9,296,25.014558,121.537915,ChIJOS80MG-rQjQRI_9F1LJEIoM,google,cafe,公館捷運站1號出口,"星期日：08:00 - 星期日 18:00
 星期一：08:00 - 星期一 18:00
 星期二：08:00 - 星期二 18:00
 星期三：08:00 - 星期三 18:00
 星期四：08:00 - 星期四 18:00
 星期五：08:00 - 星期五 18:00
-星期六：08:00 - 星期六 18:00",1.0,https://maps.google.com/?cid=9449190503032946467,"早餐, 咖啡廳, 學生愛店, 便當, 飲料",1
+星期六：08:00 - 星期六 18:00",1.0,https://maps.google.com/?cid=9449190503032946467,"早午餐, 咖啡廳, 便當"
+199,楊記全麥營養潤餅捲,"攤位號, No. 52號, Lane 108, Roosevelt Road, Section 4, Zhongzheng District",4.2,147,25.013228,121.535172,ChIJ1ckJ6oqpQjQRBRCDbfYmq20,google,bakery,公館捷運站1號出口,"星期日：15:30 - 星期日 22:00
+星期一：15:30 - 星期一 22:00
+星期二：16:30 - 星期二 22:00
+星期四：15:30 - 星期四 22:00
+星期五：15:30 - 星期五 22:00
+星期六：15:30 - 星期六 22:00",,https://maps.google.com/?cid=7902452810992783365,"麵食, 健康, 平價快食"
 200,FADEN FASAï,"1樓, No. 210號, Section 3, Tingzhou Road, Zhongzheng District",4.6,631,25.01205,121.535528,ChIJ2ZFWtYqpQjQRabMmGYBBe7s,google,bakery,公館捷運站1號出口,"星期日：12:00 - 星期日 19:00
 星期一：12:00 - 星期一 19:00
 星期三：12:00 - 星期三 19:00
 星期四：12:00 - 星期四 19:00
 星期五：12:00 - 星期五 19:00
-星期六：12:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=13509463525661520745,"甜點, 咖啡廳",1
-203,囍相逢-愛吃麵包,"1 樓, No. 295號, Section 3, Tingzhou Road, Zhongzheng District",5.0,1,25.011975,121.535785,ChIJJ2PyWwCpQjQRXUG6sHMQWaw,google,bakery,公館捷運站1號出口,,,https://maps.google.com/?cid=12418975536523133277,"甜點, 早餐",1
+星期六：12:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=13509463525661520745,"甜點, 咖啡廳"
 204,爆漿雞腿卷&大腸包小腸,"公館夜市, 63號 汀州路三段253號旁邊, No. 底號, Lane 108, Roosevelt Road, Section 4, Zhongzheng District",5.0,2,25.013069,121.535048,ChIJt2FVSwCpQjQRUadYZ1Nb2ww,google,meal_takeaway,公館捷運站1號出口,"星期日：17:00 - 星期日 22:30
 星期一：17:00 - 星期一 22:30
 星期二：17:00 - 星期二 22:30
 星期三：17:00 - 星期三 22:30
 星期四：17:00 - 星期四 22:30
 星期五：17:00 - 星期五 22:30
-星期六：17:00 - 星期六 22:30",,https://maps.google.com/?cid=926434562129045329,"台式, 炸物, 打卡店",1
-210,7-ELEVEN 博源門市,"No. 16號, Siyuan Street, Zhongzheng District",3.4,462,25.014375,121.530894,ChIJ7SAJn4ypQjQRMjHcyfBAU1U,google,food,公館捷運站1號出口,,,https://maps.google.com/?cid=6148329319213838642,"便當, 甜點, 飲料, 宵夜, 冰店",1
-212,Xiaolizi Rice Porridge,"No. 326號, Section 2, Fuxing South Road, Da’an District",3.8,6323,25.02313,121.543243,ChIJ4yt0hyyqQjQRA905QCvA3O4,google,food,社科院圖書館,,2.0,https://maps.google.com/?cid=17211843167896853763,"中式, 燒烤, 美式, 便當, 咖啡廳, 宵夜",1
+星期六：17:00 - 星期六 22:30",,https://maps.google.com/?cid=926434562129045329,"台式, 炸物"
+205,uMeal 優善糧｜食物樂高領導品牌｜台大水源店,"1樓, No. 16號, Siyuan Street, Zhongzheng District",4.4,1129,25.013962,121.530119,ChIJhQuh3l2pQjQRUqi9n8z_NJ4,google,meal_takeaway,公館捷運站1號出口,"星期日：11:00 - 星期日 20:00
+星期一：11:00 - 星期一 20:00
+星期二：11:00 - 星期二 20:00
+星期三：11:00 - 星期三 20:00
+星期四：11:00 - 星期四 20:00
+星期五：11:00 - 星期五 20:00
+星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=11400017811099986002,"便當, 健康"
+212,Xiaolizi Rice Porridge,"No. 326號, Section 2, Fuxing South Road, Da’an District",3.8,6323,25.02313,121.543243,ChIJ4yt0hyyqQjQRA905QCvA3O4,google,food,社科院圖書館,,2.0,https://maps.google.com/?cid=17211843167896853763,"台式, 鍋物"
 213,A-Yu dumpling,"No. 217, Section 2, Xinhai Road, Da’an District",4.3,2241,25.021695,121.542693,ChIJXzNlTS-qQjQRCvn2xhSfPAk,google,food,社科院圖書館,"星期日：08:00 - 星期日 20:00
 星期一：08:00 - 星期一 20:00
 星期二：08:00 - 星期二 20:00
 星期三：08:00 - 星期三 20:00
 星期四：08:00 - 星期四 20:00
 星期五：08:00 - 星期五 20:00
-星期六：08:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=665581756530227466,"台式, 便當, 麵食, 平價快食",1
+星期六：08:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=665581756530227466,"中式, 鍋物"
 214,Kapok Vegetarian Coffee And Restaurant,"No. 5, Lane 308, Section 2, Fuxing South Road, Da’an District",4.3,1300,25.023661,121.542976,ChIJuWw81C6qQjQRD7lOTyFReqs,google,food,社科院圖書館,"星期日：08:00 - 星期日 21:30
 星期一：08:00 - 星期一 21:30
 星期二：08:00 - 星期二 21:30
 星期三：08:00 - 星期三 21:30
 星期四：08:00 - 星期四 21:30
 星期五：08:00 - 星期五 21:30
-星期六：08:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=12356277731150706959,"素食, 咖啡廳",1
+星期六：08:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=12356277731150706959,"港式, 健康, 便當"
+215,靚咖哩,"No. 2號, Lane 118, Section 2, Heping East Road, Da’an District",3.7,406,25.02465,121.542767,ChIJIeDdzC6qQjQRNSWr3s9zET0,google,food,社科院圖書館,,1.0,https://maps.google.com/?cid=4400425647548867893,"台式, 便當, 平價快食"
+216,AYin Seafood Porridge,"No. 268號, Section 2, Fuxing South Road, Da’an District",4.2,741,25.024624,121.543254,ChIJX5zNTi-qQjQR6M7TD6_5Q_o,google,food,社科院圖書館,"星期一：11:00 - 星期一 14:00
+星期一：17:00 - 星期一 21:00
+星期二：11:00 - 星期二 14:00
+星期二：17:00 - 星期二 21:00
+星期三：11:00 - 星期三 14:00
+星期三：17:00 - 星期三 21:00
+星期四：11:00 - 星期四 14:00
+星期四：17:00 - 星期四 21:00
+星期五：11:00 - 星期五 14:00
+星期五：17:00 - 星期五 21:00",1.0,https://maps.google.com/?cid=18033531863201730280,"台式, 精緻聚餐, 便當"
 217,忠誠山東蔥油餅,"No. 44號, Lane 118, Section 2, Heping East Road, Da’an District",4.0,522,25.022936,121.542786,ChIJ_d8nLS-qQjQRJLb-DpgSI8k,google,food,社科院圖書館,"星期日：11:00 - 星期日 20:30
 星期一：11:00 - 星期一 20:30
 星期二：11:00 - 星期二 20:30
 星期三：11:00 - 星期三 20:30
 星期四：11:00 - 星期四 20:30
-星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=14493448470104290852,"台式, 麵食, 平價快食, 宵夜",1
+星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=14493448470104290852,"麵食, 便當, 平價快食"
 218,Nationwide Healthy Vegetarian (Daan Fuxing Branch),"No. 314號, Section 2, Fuxing South Road, Da’an District",3.9,746,25.023492,121.543218,ChIJdaNQ1i6qQjQR4T-k53U6V2Y,google,food,社科院圖書館,"星期日：10:30 - 星期日 14:00
 星期日：16:30 - 星期日 20:00
 星期一：10:30 - 星期一 14:00
@@ -1168,19 +1103,36 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：10:30 - 星期五 14:00
 星期五：16:30 - 星期五 20:00
 星期六：10:30 - 星期六 14:00
-星期六：16:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=7374427192914362337,"素食, 中式, 健康, 平價快食",1
+星期六：16:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=7374427192914362337,"台式, 健康, 便當"
+219,小辣椒魷魚羹,"No. 267之1號, Section 2, Heping East Road, Da’an District",3.7,784,25.024945,121.544076,ChIJB0R4vS6qQjQR849Fg86FsKk,google,food,社科院圖書館,"星期一：10:30 - 星期一 21:00
+星期二：10:30 - 星期二 21:00
+星期三：10:30 - 星期三 21:00
+星期四：10:30 - 星期四 21:00
+星期五：10:30 - 星期五 21:00
+星期六：10:30 - 星期六 21:00",1.0,https://maps.google.com/?cid=12227420110323027955,"台式, 麵食"
+220,香料廚房,"No. 1, Alley 10, Lane 96, Section 2, Heping East Road, Da’an District",4.2,382,25.023282,121.54097,ChIJPe__5SiqQjQRmt7LUfN2434,google,food,社科院圖書館,"星期一：07:00 - 星期一 14:00
+星期一：16:30 - 星期一 20:00
+星期二：07:00 - 星期二 14:00
+星期二：16:30 - 星期二 20:00
+星期三：07:00 - 星期三 14:00
+星期三：16:30 - 星期三 20:00
+星期四：07:00 - 星期四 14:00
+星期四：16:30 - 星期四 20:00
+星期五：07:00 - 星期五 14:00
+星期五：16:30 - 星期五 20:00
+星期六：07:00 - 星期六 14:00",2.0,https://maps.google.com/?cid=9143282455913684634,"中式, 健康"
 221,Discover Pasta,"No. 2之2號, Lane 118, Section 2, Heping East Road, Da’an District",3.8,1348,25.024301,121.542803,ChIJ7bzsvIWpQjQR_7znp7ehwPQ,google,food,社科院圖書館,"星期日：11:00 - 星期日 21:00
 星期一：11:00 - 星期一 21:00
 星期三：11:00 - 星期三 21:00
 星期四：11:00 - 星期四 21:00
 星期五：11:00 - 星期五 21:00
-星期六：11:00 - 星期六 21:00",1.0,https://maps.google.com/?cid=17636273950950931711,"義式, 日式, 學生愛店, 平價快食, 飲料, 早午餐",1
+星期六：11:00 - 星期六 21:00",1.0,https://maps.google.com/?cid=17636273950950931711,"義式, 便當, 學生愛店"
 222,Ba Fang Yun Ji Dumpling,"帝國建設大安高尚大廈, No. 2號, Lane 311, Section 2, Heping East Road, Da’an District",2.6,429,25.024965,121.545013,ChIJTUKchS6qQjQRSCFKS6Z_VSI,google,food,社科院圖書館,"星期日：10:30 - 星期日 21:00
 星期一：10:30 - 星期一 21:00
 星期二：10:30 - 星期二 21:00
 星期三：10:30 - 星期三 21:00
 星期四：10:30 - 星期四 21:00
-星期五：10:30 - 星期五 21:00",1.0,https://maps.google.com/?cid=2474023922514403656,"中式, 火鍋, 精緻聚餐",1
+星期五：10:30 - 星期五 21:00",1.0,https://maps.google.com/?cid=2474023922514403656,"飯食, 鍋物, 炸物"
 223,Loving Hut 愛家國際餐飲 台北 和平店,"No. 7號, Lane 175, Section 2, Heping East Road, Da’an District",4.4,499,25.02582,121.541862,ChIJq3VBOsarQjQRrk-dDMYCoEw,google,food,社科院圖書館,"星期日：11:30 - 星期日 14:30
 星期日：16:30 - 星期日 20:00
 星期二：11:30 - 星期二 14:30
@@ -1192,20 +1144,20 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:30
 星期五：16:30 - 星期五 20:00
 星期六：11:30 - 星期六 14:30
-星期六：16:30 - 星期六 20:00",2.0,https://maps.google.com/?cid=5521416192794644398,"素食, 台式, 美式, 麵食, 甜點, 咖啡廳, 健康, 早餐",1
+星期六：16:30 - 星期六 20:00",2.0,https://maps.google.com/?cid=5521416192794644398,"麵食, 早餐"
 224,巧房餡餅,"No. 313號, Section 2, Heping East Road, Da’an District",4.2,795,25.024937,121.545173,ChIJQXI8hi6qQjQRgZW2hjSusQg,google,food,社科院圖書館,"星期一：11:00 - 星期一 19:30
 星期二：11:00 - 星期二 19:30
 星期三：11:00 - 星期三 19:30
 星期四：11:00 - 星期四 19:30
 星期五：11:00 - 星期五 19:30
-星期六：11:00 - 星期六 19:30",1.0,https://maps.google.com/?cid=626473363802854785,"台式, 便當, 麵食, 甜點, 學生愛店, 打卡店, 早餐",1
+星期六：11:00 - 星期六 19:30",1.0,https://maps.google.com/?cid=626473363802854785,"鍋物, 麵食, 便當"
 225,McDonald's Fuxing 2nd Branch,"No. 273號, Section 2, Fuxing South Road, Da’an District",3.4,2434,25.025679,121.543633,ChIJ5Zls-surQjQRtT-wtUeIkxo,google,food,社科院圖書館,"星期日：05:00 - 星期一 03:30
 星期一：05:00 - 星期二 03:30
 星期二：05:00 - 星期三 03:30
 星期三：05:00 - 星期四 03:30
 星期四：05:00 - 星期五 03:30
 星期五：05:00 - 星期六 03:30
-星期六：05:00 - 星期日 03:30",1.0,https://maps.google.com/?cid=1915024108134875061,"美式, 平價快食, 早餐",1
+星期六：05:00 - 星期日 03:30",1.0,https://maps.google.com/?cid=1915024108134875061,"美式, 平價快食"
 226,EMA Malaysian Delights,"No. 61號, Lane 118, Section 2, Heping East Road, Da’an District",4.5,1123,25.022337,121.542919,ChIJuRn4NC-qQjQRJqj4LG88wys,google,food,社科院圖書館,"星期日：11:30 - 星期日 14:00
 星期日：17:00 - 星期日 20:00
 星期一：11:30 - 星期一 14:00
@@ -1215,7 +1167,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期三：11:30 - 星期三 14:00
 星期三：17:00 - 星期三 20:00
 星期四：11:30 - 星期四 14:00
-星期四：17:00 - 星期四 20:00",1.0,https://maps.google.com/?cid=3153430612283009062,"台式, 麵食, 飯食, 炸物",1
+星期四：17:00 - 星期四 20:00",1.0,https://maps.google.com/?cid=3153430612283009062,炸物
 227,格芮潘義式創意廚房,"號, No. 5-1, Lane 118, Section 2, Heping East Road, Da’an District",3.7,792,25.02388,121.542953,ChIJzUlT0i6qQjQRxdfM8tM4QJs,google,food,社科院圖書館,"星期日：11:00 - 星期日 14:30
 星期日：16:30 - 星期日 21:00
 星期一：11:00 - 星期一 14:30
@@ -1229,7 +1181,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:30
 星期五：16:30 - 星期五 21:00
 星期六：11:00 - 星期六 14:30
-星期六：16:30 - 星期六 21:00",1.0,https://maps.google.com/?cid=11187003957351077829,"義式, 美式, 咖啡廳",1
+星期六：16:30 - 星期六 21:00",1.0,https://maps.google.com/?cid=11187003957351077829,"義式, 麵食"
 229,貝菈小屋,"No. 159號, Section 2, Xinhai Road, Da’an District",4.5,539,25.021672,121.540694,ChIJD_lknCiqQjQRVGHx1rKAMAQ,google,food,社科院圖書館,"星期日：12:30 - 星期日 14:30
 星期日：17:00 - 星期日 21:00
 星期一：11:40 - 星期一 14:00
@@ -1243,7 +1195,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:40 - 星期五 14:00
 星期五：17:00 - 星期五 21:00
 星期六：12:30 - 星期六 14:30
-星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=301882680632500564,"義式, 甜點, 精緻聚餐, 平價快食, 打卡店",1
+星期六：17:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=301882680632500564,"義式, 麵食, 精緻聚餐"
 230,Taiwanese Home-cooked meals,"No. 14號, Alley 52, Lane 118, Section 2, Heping East Road, Da’an District",4.2,510,25.022239,121.542296,ChIJ7SzjySiqQjQRO5_pDvkRA_c,google,food,社科院圖書館,"星期一：11:30 - 星期一 14:00
 星期一：17:00 - 星期一 19:30
 星期二：11:30 - 星期二 14:00
@@ -1251,12 +1203,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期三：11:30 - 星期三 14:00
 星期三：17:00 - 星期三 19:30
 星期四：11:30 - 星期四 14:00
-星期四：17:00 - 星期四 19:30",1.0,https://maps.google.com/?cid=17799089913693052731,"台式, 便當, 美式, 美式, 平價快食",1
-231,星辰酒窖,"No. 195號, Section 2, Xinhai Road, Da’an District",4.5,21,25.02168,121.541969,ChIJkShUpSiqQjQREaAQh3GtikU,google,food,社科院圖書館,"星期一：10:30 - 星期一 18:00
-星期二：10:30 - 星期二 18:00
-星期三：10:30 - 星期三 18:00
-星期四：10:30 - 星期四 18:00
-星期五：10:30 - 星期五 18:00",,https://maps.google.com/?cid=5011008238512021521,"精緻聚餐, 打卡店",1
+星期四：17:00 - 星期四 19:30",1.0,https://maps.google.com/?cid=17799089913693052731,"便當, 台式, 鍋物"
 232,Vegetarian Meal,"No. 1號, 羅斯福路四段, Da’an District",4.8,177,25.018058,121.540306,ChIJefszjImpQjQRqZJVCqfXrhM,google,food,社科院圖書館,"星期一：11:00 - 星期一 14:00
 星期一：16:30 - 星期一 19:00
 星期二：11:00 - 星期二 14:00
@@ -1266,14 +1213,14 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：11:00 - 星期四 14:00
 星期四：16:30 - 星期四 19:00
 星期五：11:00 - 星期五 14:00
-星期五：16:30 - 星期五 19:00",1.0,https://maps.google.com/?cid=1418308045101175465,"台式, 學生愛店, 便當, 平價快食",1
+星期五：16:30 - 星期五 19:00",1.0,https://maps.google.com/?cid=1418308045101175465,"便當, 學生愛店"
 233,Salvia,"No. 209, Section 2, Xinhai Road, Da’an District",4.5,1163,25.021642,121.54244,ChIJ-VUTsiiqQjQR_LurwJ6RZ88,google,cafe,社科院圖書館,"星期日：10:00 - 星期日 20:30
 星期一：10:00 - 星期一 20:30
 星期二：10:00 - 星期二 20:30
 星期三：10:00 - 星期三 20:30
 星期四：10:00 - 星期四 20:30
 星期五：10:00 - 星期五 20:30
-星期六：10:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=14945073999475620860,"日式, 義式, 美式, 便當, 咖啡廳, 早午餐, 學生愛店, 打卡店",1
+星期六：10:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=14945073999475620860,"義式, 便當, 麵食"
 234,xai xing dé,"No. 21號, Alley 54, Lane 118, Section 2, Heping East Road, Da’an District",4.4,382,25.022152,121.541953,ChIJ-chwuSuqQjQRWteyrd4nbtg,google,restaurant,社科院圖書館,"星期一：12:00 - 星期一 14:00
 星期一：18:00 - 星期一 20:00
 星期二：12:00 - 星期二 14:00
@@ -1283,7 +1230,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：12:00 - 星期四 14:00
 星期四：18:00 - 星期四 20:00
 星期五：12:00 - 星期五 14:00
-星期五：18:00 - 星期五 20:00",2.0,https://maps.google.com/?cid=15595446396981008218,"便當, 台式, 早午餐, 學生愛店, 打卡店, 平價快食",1
+星期五：18:00 - 星期五 20:00",2.0,https://maps.google.com/?cid=15595446396981008218,"便當, 早午餐, 平價快食"
 235,Guo Dong Mala Beef Noodle Restaurant,"No. 59號, Lane 118, Section 2, Heping East Road",3.9,404,25.022423,121.542909,ChIJ1T6mMy-qQjQR6uYQMXlW6q4,google,restaurant,社科院圖書館,"星期日：11:40 - 星期日 14:30
 星期日：17:00 - 星期日 20:00
 星期一：11:30 - 星期一 14:30
@@ -1297,21 +1244,21 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:30
 星期五：17:00 - 星期五 20:00
 星期六：11:40 - 星期六 14:30
-星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=12603981585663977194,"中式, 麵食, 平價快食, 宵夜",1
+星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=12603981585663977194,"麵食, 鍋物, 中式"
 236,Chicago Pizza Factory,"No. 379號, Section 2, Fuxing South Road, Da’an District",4.4,811,25.022267,121.543535,ChIJ-cZ5OS-qQjQRK62dGosfoW8,google,meal_takeaway,社科院圖書館,"星期日：11:00 - 星期日 20:00
 星期一：11:00 - 星期一 20:00
 星期二：11:00 - 星期二 20:00
 星期三：11:00 - 星期三 20:00
 星期四：11:00 - 星期四 20:00
 星期五：11:00 - 星期五 20:00
-星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=8043745091767872811,"美式, 宵夜",1
+星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=8043745091767872811,美式
 237,23 Public | Craft Beer 精釀吧,"No. 332號, Section 2, Fuxing South Road, Da’an District",4.5,869,25.022891,121.543205,ChIJDXs0zoipQjQReZ7caWwoRug,google,restaurant,社科院圖書館,"星期日：12:30 - 星期一 00:00
 星期一：16:30 - 星期二 00:00
 星期二：16:30 - 星期三 00:00
 星期三：12:30 - 星期四 00:00
 星期四：12:30 - 星期五 00:00
 星期五：12:30 - 星期六 01:00
-星期六：12:30 - 星期日 01:00",2.0,https://maps.google.com/?cid=16737109511266672249,"精緻聚餐, 飲料, 宵夜, 咖啡廳, 打卡店",1
+星期六：12:30 - 星期日 01:00",2.0,https://maps.google.com/?cid=16737109511266672249,"美式, 精緻聚餐"
 238,Toh-A'桌藏,"和平東路二段96巷14號隔壁, No. 9號, Alley 23, Lane 76, Section 2, Heping East Road, Da’an District",4.4,1320,25.02243,121.540362,ChIJJfMujCiqQjQRzyGPjaePdDU,google,restaurant,社科院圖書館,"星期日：12:00 - 星期日 15:00
 星期日：18:00 - 星期日 22:30
 星期三：12:00 - 星期三 15:00
@@ -1321,7 +1268,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：12:00 - 星期五 15:00
 星期五：18:00 - 星期五 22:30
 星期六：12:00 - 星期六 15:00
-星期六：18:00 - 星期六 22:30",3.0,https://maps.google.com/?cid=3851861531105894863,"精緻聚餐, 法式, 台式, 甜點, 麵食, 火鍋",1
+星期六：18:00 - 星期六 22:30",3.0,https://maps.google.com/?cid=3851861531105894863,"台式, 精緻聚餐"
 239,唯雞館,"1樓, No. 39號, Lane 118, Section 2, Heping East Road, Da’an District",4.7,336,25.023253,121.542982,ChIJ-f52TIynQjQRuzKkW0Yh3Vo,google,restaurant,社科院圖書館,"星期一：11:30 - 星期一 14:00
 星期一：17:00 - 星期一 20:00
 星期二：11:30 - 星期二 14:00
@@ -1331,20 +1278,40 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：11:30 - 星期四 14:00
 星期四：17:00 - 星期四 20:00
 星期五：11:30 - 星期五 14:00
-星期五：17:00 - 星期五 20:00",,https://maps.google.com/?cid=6547426019335484091,"學生愛店, 飯食, 火鍋, 台式",1
+星期五：17:00 - 星期五 20:00",,https://maps.google.com/?cid=6547426019335484091,"台式, 鍋物, 便當"
 240,北方大陸餅,"No. 12號, Lane 171, Section 2, Xinhai Road, Da’an District",4.3,100,25.022264,121.540975,ChIJr0r3lCiqQjQREPbeYxqGny8,google,restaurant,社科院圖書館,"星期一：06:00 - 星期一 12:00
 星期二：06:00 - 星期二 12:00
 星期三：06:00 - 星期三 12:00
 星期四：06:00 - 星期四 12:00
 星期五：06:00 - 星期五 12:00
-星期六：06:00 - 星期六 12:00",,https://maps.google.com/?cid=3431608888982435344,"中式, 早餐, 打卡店",1
+星期六：06:00 - 星期六 12:00",,https://maps.google.com/?cid=3431608888982435344,"中式, 早餐, 麵食"
 241,Subway,"No. 203號, Section 2, Heping East Road, Da’an District",3.4,392,25.025216,121.542336,ChIJucZXSSmqQjQRdG4BfMQO3uA,google,restaurant,社科院圖書館,"星期日：08:00 - 星期日 22:00
 星期一：08:00 - 星期一 22:00
 星期二：08:00 - 星期二 22:00
 星期三：08:00 - 星期三 22:00
 星期四：08:00 - 星期四 22:00
 星期五：08:00 - 星期五 22:00
-星期六：08:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=16203404746382470772,"便當, 平價快食, 健康, 打卡店",1
+星期六：08:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=16203404746382470772,"美式, 便當, 平價快食"
+243,文哥 巷仔口米粉湯,"No. 48, Lane 118, Section 2, Heping East Road, Da’an District",4.3,931,25.02262,121.542798,ChIJ_SOVogCqQjQRmo1Aq64xL4w,google,restaurant,社科院圖書館,"星期一：10:30 - 星期一 14:00
+星期一：16:00 - 星期一 20:00
+星期二：10:30 - 星期二 14:00
+星期二：16:00 - 星期二 20:00
+星期三：10:30 - 星期三 14:00
+星期三：16:00 - 星期三 20:00
+星期四：10:30 - 星期四 14:00
+星期四：16:00 - 星期四 20:00
+星期五：10:30 - 星期五 14:00
+星期五：16:00 - 星期五 20:00",1.0,https://maps.google.com/?cid=10101347115482516890,"台式, 麵食, 平價快食"
+244,巧味快餐,"No. 43號, Lane 118, Section 2, Heping East Road, Da’an District",4.2,392,25.023055,121.542916,ChIJZ9JoLC-qQjQRJ67HgUK2Lq8,google,restaurant,社科院圖書館,"星期一：11:00 - 星期一 14:00
+星期一：17:00 - 星期一 20:00
+星期二：11:00 - 星期二 14:00
+星期二：17:00 - 星期二 20:00
+星期三：11:00 - 星期三 14:00
+星期三：17:00 - 星期三 20:00
+星期四：11:00 - 星期四 14:00
+星期四：17:00 - 星期四 20:00
+星期五：11:00 - 星期五 14:00
+星期五：17:00 - 星期五 20:00",1.0,https://maps.google.com/?cid=12623227202327522855,"便當, 平價快食, 中式"
 245,Dianwei Yunnan Cuisine,"No. 5號, Lane 340, Section 2, Fuxing South Road, Da’an District",3.9,774,25.022827,121.542809,ChIJvy6tMi-qQjQRuKI2xbJYQAE,google,restaurant,社科院圖書館,"星期日：11:00 - 星期日 14:30
 星期日：17:00 - 星期日 21:00
 星期一：11:00 - 星期一 14:00
@@ -1358,7 +1325,18 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：17:00 - 星期五 21:00
 星期六：11:00 - 星期六 14:30
-星期六：17:00 - 星期六 21:00",1.0,https://maps.google.com/?cid=90169517383525048,"中式, 麵食, 平價快食",1
+星期六：17:00 - 星期六 21:00",1.0,https://maps.google.com/?cid=90169517383525048,"中式, 鍋物, 學生愛店"
+246,松田日式飯糰,"No. 5號, Lane 118, Section 2, Heping East Road, Da’an District",4.7,622,25.023915,121.542929,ChIJx5uY0y6qQjQRR08_3SCKsx0,google,restaurant,社科院圖書館,"星期一：07:00 - 星期一 14:00
+星期一：17:00 - 星期一 19:00
+星期二：07:00 - 星期二 14:00
+星期二：17:00 - 星期二 19:00
+星期三：07:00 - 星期三 14:00
+星期三：17:00 - 星期三 19:00
+星期四：07:00 - 星期四 14:00
+星期四：17:00 - 星期四 19:00
+星期五：07:00 - 星期五 14:00
+星期五：17:00 - 星期五 19:00
+星期六：07:00 - 星期六 11:00",1.0,https://maps.google.com/?cid=2140206121686617927,"飯食, 便當, 平價快食"
 247,Xiaoxixi Cantonese Fried Rice and Noodles,"No. 59, Lane 118, Section 2, Heping East Road, Da’an District",3.7,1394,25.022417,121.542908,ChIJexSiLC-qQjQR0LgDorEWhig,google,restaurant,社科院圖書館,"星期一：11:00 - 星期一 14:00
 星期一：17:00 - 星期一 20:00
 星期二：11:00 - 星期二 14:00
@@ -1370,7 +1348,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:00
 星期五：17:00 - 星期五 20:00
 星期六：11:00 - 星期六 14:00
-星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=2920046360579520720,"港式, 中式, 麵食, 飯食, 火鍋, 炸物, 精緻聚餐, 平價快食, 咖啡廳",1
+星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=2920046360579520720,"精緻聚餐, 麵食, 鍋物, 平價快食"
 248,Barkers,"No. 41, Lane 118, Section 2, Heping East Road, Da’an District",4.4,935,25.023106,121.54294,ChIJd5KIKy-qQjQRFO0JWwyuPEU,google,restaurant,社科院圖書館,"星期一：11:00 - 星期一 14:30
 星期一：16:30 - 星期一 20:30
 星期二：11:00 - 星期二 14:30
@@ -1382,32 +1360,37 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:00 - 星期五 14:30
 星期五：16:30 - 星期五 20:30
 星期六：11:00 - 星期六 14:30
-星期六：16:30 - 星期六 20:30",2.0,https://maps.google.com/?cid=4989053855309884692,"美式, 甜點, 飲料, 健康, 早午餐, 平價快食",1
-249,曾餃子 - 手工水餃專賣店（僅外帶）,"No. 145號, Section 2, Heping East Road, Da’an District",4.3,299,25.025419,121.541022,ChIJYRdWaimqQjQRPYqlGYFBlgU,google,restaurant,社科院圖書館,,,https://maps.google.com/?cid=402581239433103933,"台式, 火鍋, 便當, 麵食, 早餐",1
-251,玉欣珍美食坊｜台灣小吃｜30年老店｜媒體報導｜推薦必吃台灣美食｜24小時營業｜台灣古早味,"No. 291號, Section 2, Fuxing South Road, Da’an District",3.6,2212,25.025072,121.543667,ChIJCVPCuy6qQjQRTMVu6EnZZG0,google,restaurant,社科院圖書館,,1.0,https://maps.google.com/?cid=7882664159260624204,"台式, 便當, 麵食, 燒烤, 宵夜",1
+星期六：16:30 - 星期六 20:30",2.0,https://maps.google.com/?cid=4989053855309884692,美式
+251,玉欣珍美食坊｜台灣小吃｜30年老店｜媒體報導｜推薦必吃台灣美食｜24小時營業｜台灣古早味,"No. 291號, Section 2, Fuxing South Road, Da’an District",3.6,2212,25.025072,121.543667,ChIJCVPCuy6qQjQRTMVu6EnZZG0,google,restaurant,社科院圖書館,,1.0,https://maps.google.com/?cid=7882664159260624204,"台式, 鍋物, 便當"
 252,十里坡,"No. 26號, Wolong Street, Da’an District",3.5,182,25.023007,121.546802,ChIJA4IHSS6qQjQRdb9gghfBV7Y,google,restaurant,社科院圖書館,"星期一：11:00 - 星期一 19:00
 星期二：11:00 - 星期二 19:00
 星期三：11:00 - 星期三 19:00
 星期四：11:00 - 星期四 19:00
-星期五：11:00 - 星期五 14:00",1.0,https://maps.google.com/?cid=13139182744592498549,"麵食, 便當, 平價快食",1
+星期五：11:00 - 星期五 14:00",1.0,https://maps.google.com/?cid=13139182744592498549,"中式, 麵食, 平價快食"
+253,可口手工包子饅頭,"一樓, No. 295號, Section 2, Heping East Road, Da’an District",3.5,98,25.024993,121.544693,ChIJ4ZlgkC6qQjQRv4hV1QxRho4,google,restaurant,社科院圖書館,"星期一：06:00 - 星期一 21:00
+星期二：06:00 - 星期二 21:00
+星期三：06:00 - 星期三 21:00
+星期四：06:00 - 星期四 21:00
+星期五：06:00 - 星期五 21:00
+星期六：06:00 - 星期六 15:30",,https://maps.google.com/?cid=10269985115825604799,"台式, 麵食, 早餐"
 254,MOS Burger,"小福樓2F, National Taiwan University, No. 1號, Section 4, Roosevelt Road, Da’an District",3.3,193,25.018647,121.537453,ChIJZ3dYjCeqQjQR4oYu4Y0hbWI,google,restaurant,社科院圖書館,"星期一：08:00 - 星期一 19:00
 星期二：08:00 - 星期二 19:00
 星期三：08:00 - 星期三 19:00
 星期四：08:00 - 星期四 19:00
 星期五：08:00 - 星期五 19:00
-星期六：08:00 - 星期六 15:00",2.0,https://maps.google.com/?cid=7092361881430427362,"日式, 早餐, 學生愛店, 便當, 早午餐",1
+星期六：08:00 - 星期六 15:00",2.0,https://maps.google.com/?cid=7092361881430427362,"美式, 早午餐, 平價快食"
 255,Vietnamese Pho,"No. 23號, Lane 311, Section 2, Heping East Road, Da’an District",4.2,545,25.025284,121.545153,ChIJ9d0HhC6qQjQR0ZF0fJ--48k,google,restaurant,社科院圖書館,"星期日：11:00 - 星期日 20:30
 星期一：11:00 - 星期一 20:30
 星期二：11:00 - 星期二 20:30
 星期三：11:00 - 星期三 20:30
 星期四：11:00 - 星期四 20:30
 星期五：11:00 - 星期五 20:30
-星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=14547680813533925841,"越式料理, 健康, 打卡店",1
+星期六：11:00 - 星期六 20:30",1.0,https://maps.google.com/?cid=14547680813533925841,越式料理
 256,臺大黑飯糰,"No. 10號, Lane 171, Section 2, Xinhai Road, Da’an District",4.3,235,25.022182,121.54098,ChIJfXbjliiqQjQRsryd8lt9bUU,google,restaurant,社科院圖書館,"星期一：06:00 - 星期一 10:30
 星期二：06:00 - 星期二 10:30
 星期三：06:00 - 星期三 10:30
 星期四：06:00 - 星期四 10:30
-星期五：06:00 - 星期五 10:30",1.0,https://maps.google.com/?cid=5002792594944408754,"早餐, 台式, 飯食, 飲料",1
+星期五：06:00 - 星期五 10:30",1.0,https://maps.google.com/?cid=5002792594944408754,"台式, 早餐, 便當"
 257,湄賽雲泰料理,"No. 39, Lane 118, Section 2, Heping East Road, Da’an District",4.3,433,25.023317,121.542981,ChIJQyy5Ky-qQjQRMasV9k52ShU,google,restaurant,社科院圖書館,"星期日：11:30 - 星期日 14:00
 星期日：17:00 - 星期日 20:00
 星期一：11:30 - 星期一 14:00
@@ -1421,7 +1404,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:00
 星期五：17:30 - 星期五 20:00
 星期六：11:30 - 星期六 14:00
-星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=1534168704581217073,"泰式, 健康, 便當, 飯食, 飲料, 學生愛店",1
+星期六：17:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=1534168704581217073,"泰式, 麵食, 健康"
 258,千松谷日本料理,"No. 13號, Lane 200, Section 2, Dunhua South Road, Da’an District",4.1,290,25.02293,121.547616,ChIJJbpnMC6qQjQReVq6J1vkalM,google,restaurant,社科院圖書館,"星期一：11:30 - 星期一 14:00
 星期一：17:30 - 星期一 21:00
 星期二：11:30 - 星期二 14:00
@@ -1433,7 +1416,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:00
 星期五：17:30 - 星期五 21:00
 星期六：11:30 - 星期六 14:00
-星期六：17:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=6010867732839029369,"日式, 美式, 義式, 精緻聚餐",1
+星期六：17:30 - 星期六 21:00",2.0,https://maps.google.com/?cid=6010867732839029369,"日式, 燒烤"
 259,羅胖子熗鍋麵,"No. 20-3號, Lane 311, Section 2, Heping East Road, Da’an District",3.9,241,25.025268,121.545028,ChIJF52AhC6qQjQRmiRwrHpsBng,google,restaurant,社科院圖書館,"星期一：11:00 - 星期一 14:00
 星期一：17:00 - 星期一 20:00
 星期二：11:00 - 星期二 14:00
@@ -1443,7 +1426,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：11:00 - 星期四 14:00
 星期四：17:00 - 星期四 20:00
 星期五：11:30 - 星期五 14:00
-星期五：17:00 - 星期五 20:00",1.0,https://maps.google.com/?cid=8648719408546456730,"台式, 麵食, 宵夜, 學生愛店",1
+星期五：17:00 - 星期五 20:00",1.0,https://maps.google.com/?cid=8648719408546456730,"麵食, 學生愛店, 便當"
 260,Doki Poke 夏威夷蒸鮮飯 台大社科店,"National Taiwan University, 社會科學院B1, No. 1號, Section 4, Roosevelt Road, Da’an District",4.6,344,25.02088,121.542349,ChIJhwbwah-rQjQRlQVJgGpRbDs,google,restaurant,社科院圖書館,"星期一：11:00 - 星期一 14:00
 星期一：16:30 - 星期一 19:00
 星期二：11:00 - 星期二 14:00
@@ -1452,27 +1435,27 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期三：16:30 - 星期三 19:00
 星期四：11:00 - 星期四 14:00
 星期四：16:30 - 星期四 19:00
-星期五：11:00 - 星期五 14:30",,https://maps.google.com/?cid=4281886863583151509,"日式, 甜點, 冰店",1
+星期五：11:00 - 星期五 14:30",,https://maps.google.com/?cid=4281886863583151509,"美式, 甜點, 冰店"
 261,Zheng Xiang Hainanese Chicken Rice,"No. 203號, Section 2, Xinhai Road, Da’an District",4.1,645,25.021661,121.542258,ChIJZR_csSiqQjQRekmkeQAJf3c,google,restaurant,社科院圖書館,"星期日：11:00 - 星期日 15:00
 星期二：11:00 - 星期二 14:00
 星期三：11:00 - 星期三 14:00
 星期四：12:00 - 星期四 14:00
 星期五：11:00 - 星期五 14:00
-星期六：11:00 - 星期六 15:00",1.0,https://maps.google.com/?cid=8610610910201137530,"咖啡廳, 精緻聚餐, 健康, 打卡店",1
+星期六：11:00 - 星期六 15:00",1.0,https://maps.google.com/?cid=8610610910201137530,"台式, 精緻聚餐, 咖啡廳, 早午餐"
 262,安好食 和平店,"1樓, No. 201號, Section 2, Xinhai Road, Da’an District",4.4,1147,25.021664,121.542135,ChIJA7xCuqirQjQRGwBOltepJQk,google,restaurant,社科院圖書館,"星期日：08:00 - 星期日 14:30
 星期一：07:00 - 星期一 13:50
 星期二：07:00 - 星期二 13:50
 星期三：07:00 - 星期三 13:50
 星期四：07:00 - 星期四 13:50
 星期五：07:00 - 星期五 13:50
-星期六：08:00 - 星期六 14:30",,https://maps.google.com/?cid=659119663884402715,"早餐, 甜點, 港式, 飲料, 美式, 學生愛店, 打卡店",1
+星期六：08:00 - 星期六 14:30",,https://maps.google.com/?cid=659119663884402715,"早午餐, 麵食, 甜點"
 263,JJ's POKE & CAFE 2号店,"No. 199號, Section 2, Xinhai Road, Da’an District",4.1,403,25.021664,121.542064,ChIJd8fF0eGrQjQRqTm_R4_wCwQ,google,restaurant,社科院圖書館,"星期日：11:00 - 星期日 20:00
 星期一：11:00 - 星期一 20:00
 星期二：11:00 - 星期二 20:00
 星期三：11:00 - 星期三 20:00
 星期四：11:00 - 星期四 20:00
 星期五：11:00 - 星期五 20:00
-星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=291591099070233001,"健康, 便當, 日式",1
+星期六：11:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=291591099070233001,"美式, 平價快食"
 264,蔬菓in,"No. 221-1號, Section 2, Xinhai Road, Da’an District",4.6,315,25.021698,121.542919,ChIJbeaI68KrQjQRi8WxfBHQR_g,google,restaurant,社科院圖書館,"星期日：11:00 - 星期日 15:00
 星期日：16:30 - 星期日 20:00
 星期一：11:00 - 星期一 15:00
@@ -1484,15 +1467,15 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：11:00 - 星期四 15:00
 星期四：16:30 - 星期四 20:00
 星期六：11:00 - 星期六 15:00
-星期六：16:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=17890496818277631371,"素食, 麵食, 日式, 台式, 健康, 打卡店",1
-265,紅橘子TOGO台大店,"1樓, No. 368號, Section 2, Fuxing South Road, Da’an District",4.3,22,25.021631,121.54309,ChIJLfGiQ_arQjQRNOWRtaX4mZE,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=10491690197535810868,"甜點, 早餐, 咖啡廳, 打卡店",1
+星期六：16:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=17890496818277631371,麵食
+265,紅橘子TOGO台大店,"1樓, No. 368號, Section 2, Fuxing South Road, Da’an District",4.3,22,25.021631,121.54309,ChIJLfGiQ_arQjQRNOWRtaX4mZE,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=10491690197535810868,"甜點, 早餐, 便當"
 266,伊桑雞腿總店,"No. 73號, Lane 118, Section 2, Heping East Road, Da’an District",3.2,214,25.021786,121.542922,ChIJiTZ_TC-qQjQR4KthI_C_i-w,google,restaurant,社科院圖書館,"星期日：10:00 - 星期日 20:00
 星期一：10:00 - 星期一 20:00
 星期二：10:00 - 星期二 20:00
 星期三：10:00 - 星期三 20:00
 星期四：10:00 - 星期四 20:00
 星期五：10:00 - 星期五 20:00
-星期六：10:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=17044928252820433888,"台式, 便當, 燒烤",1
+星期六：10:00 - 星期六 20:00",1.0,https://maps.google.com/?cid=17044928252820433888,"飯食, 鍋物"
 268,叮叮食堂,"No. 71號, Lane 118, Section 2, Heping East Road, Da’an District",4.2,177,25.021831,121.542916,ChIJeYZeTC-qQjQRIVKvKEs8fPs,google,restaurant,社科院圖書館,"星期日：11:30 - 星期日 14:00
 星期日：17:00 - 星期日 19:30
 星期一：11:30 - 星期一 14:00
@@ -1504,7 +1487,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：11:30 - 星期四 14:00
 星期四：17:00 - 星期四 19:30
 星期五：11:30 - 星期五 14:00
-星期五：17:00 - 星期五 19:30",1.0,https://maps.google.com/?cid=18121425294134825505,"便當, 火鍋, 中式, 平價快食",1
+星期五：17:00 - 星期五 19:30",1.0,https://maps.google.com/?cid=18121425294134825505,"飯食, 便當, 鍋物"
 269,阿孟石碗燒河粉,"No. 69號, Lane 118, Section 2, Heping East Road, Da’an District",4.6,304,25.021859,121.542956,ChIJ_UKLDFqrQjQRA3jjCtPQiEI,google,restaurant,社科院圖書館,"星期日：11:00 - 星期日 14:00
 星期日：17:00 - 星期日 20:00
 星期一：11:00 - 星期一 14:00
@@ -1516,7 +1499,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期四：11:00 - 星期四 14:00
 星期四：17:00 - 星期四 20:00
 星期五：11:00 - 星期五 14:00
-星期五：17:00 - 星期五 20:00",1.0,https://maps.google.com/?cid=4794311408175249411,"麵食, 飯食, 中式, 越式料理, 火鍋",1
+星期五：17:00 - 星期五 20:00",1.0,https://maps.google.com/?cid=4794311408175249411,"麵食, 鍋物, 早餐"
 270,Takawa Japanese Restaurant,"No. 60號, Lane 118, Section 2, Heping East Road, Da’an District",4.2,600,25.021914,121.542804,ChIJS6gFKy-qQjQRb94czFPrhgU,google,restaurant,社科院圖書館,"星期日：11:30 - 星期日 14:00
 星期日：17:00 - 星期日 20:30
 星期一：11:30 - 星期一 14:00
@@ -1530,7 +1513,7 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：11:30 - 星期五 14:00
 星期五：17:00 - 星期五 20:30
 星期六：11:30 - 星期六 14:00
-星期六：17:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=398264362208124527,"日式, 咖啡廳, 平價快食, 學生愛店, 打卡店",1
+星期六：17:00 - 星期六 20:30",2.0,https://maps.google.com/?cid=398264362208124527,"飯食, 鍋物"
 271,師大第一腿-甄品味,"No. 67號, Lane 118, Section 2, Heping East Road, Da’an District",4.0,608,25.021909,121.542907,ChIJB6CnSy-qQjQRlgJc2M8uvAo,google,restaurant,社科院圖書館,"星期一：10:30 - 星期一 14:00
 星期一：16:30 - 星期一 20:00
 星期二：10:30 - 星期二 14:00
@@ -1542,220 +1525,177 @@ id,name,address,rating,user_ratings_total,lat,lng,place_id,source_type,place_typ
 星期五：10:30 - 星期五 14:00
 星期五：16:30 - 星期五 20:00
 星期六：10:30 - 星期六 14:00
-星期六：16:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=773544706223899286,"學生愛店, 便當, 台式, 中式, 飯食, 麵食, 燒烤",1
-272,RUFOUS COFFEE,"No. 339號, Section 2, Fuxing South Road, Da’an District",4.6,1596,25.0235,121.543655,ChIJW03Z2y6qQjQRkIeeuqF3-mU,google,food,社科院圖書館,"星期日：12:00 - 星期日 20:00
-星期一：12:00 - 星期一 20:00
-星期二：12:00 - 星期二 20:00
-星期三：12:00 - 星期三 20:00
-星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",2.0,https://maps.google.com/?cid=7348317278512777104,"咖啡廳, 甜點",1
+星期六：16:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=773544706223899286,"便當, 台式, 學生愛店"
 273,Snowballer Cafe Fuxing,"No. 331號, Section 2, Fuxing South Road, Da’an District",4.5,217,25.023771,121.54357,ChIJhQRD0cKpQjQRniVC7tbGAt0,google,food,社科院圖書館,"星期一：07:00 - 星期一 14:00
 星期二：07:00 - 星期二 14:00
 星期三：07:00 - 星期三 14:00
 星期四：07:00 - 星期四 14:00
 星期五：07:00 - 星期五 14:00
-星期六：07:00 - 星期六 14:00",1.0,https://maps.google.com/?cid=15925509858758108574,"早午餐, 甜點, 咖啡廳, 學生愛店",1
+星期六：07:00 - 星期六 14:00",1.0,https://maps.google.com/?cid=15925509858758108574,"早午餐, 咖啡廳, 平價快食"
 274,STARBUCKS Xinhai Shop,"No. 175, Section 2, Xinhai Road, Da’an District",4.1,1377,25.02173,121.541188,ChIJDUmD13moQjQREo8j1iLK9HY,google,food,社科院圖書館,"星期日：06:30 - 星期日 19:00
 星期一：06:30 - 星期一 20:00
 星期二：06:30 - 星期二 20:00
 星期三：06:30 - 星期三 20:00
 星期四：06:30 - 星期四 20:00
 星期五：06:30 - 星期五 20:00
-星期六：06:30 - 星期六 19:00",2.0,https://maps.google.com/?cid=8571698241763249938,"咖啡廳, 早午餐, 甜點, 飲料, 平價快食, 學生愛店, 打卡店",1
-276,BeansLab Coffee,"No. 6號, Alley 6, Lane 171, Section 2, Xinhai Road, Da’an District",4.7,346,25.021919,121.540851,ChIJWT0SmiiqQjQR1jwoGQdQDD0,google,cafe,社科院圖書館,"星期一：09:00 - 星期一 18:00
-星期二：09:00 - 星期二 18:00
-星期三：09:00 - 星期三 18:00
-星期四：09:00 - 星期四 18:00
-星期五：09:00 - 星期五 18:00
-星期六：09:00 - 星期六 17:00",,https://maps.google.com/?cid=4398978927451192534,"咖啡廳, 甜點, 早午餐, 打卡店",1
-277,L'angolo illy coffee,"No. 53, Lane 96, Section 2, Heping East Road, Da’an District",4.8,205,25.021718,121.540365,ChIJmZq_gyiqQjQRHwDNBtpS3vM,google,cafe,社科院圖書館,"星期日：09:00 - 星期日 19:00
-星期一：09:00 - 星期一 19:00
-星期二：09:00 - 星期二 19:00
-星期三：09:00 - 星期三 19:00
-星期四：09:00 - 星期四 19:00
-星期五：09:00 - 星期五 19:00
-星期六：09:00 - 星期六 19:00",2.0,https://maps.google.com/?cid=17572573892416700447,"甜點, 咖啡廳, 打卡店, 早午餐",1
+星期六：06:30 - 星期六 19:00",2.0,https://maps.google.com/?cid=8571698241763249938,"咖啡廳, 早午餐, 學生愛店"
 278,點亮咖啡,"1樓, No. 6號, Alley 17, Lane 96, Section 2, Heping East Road, Da’an District",4.5,407,25.023021,121.541424,ChIJK2DfN4mpQjQRr3OJ_8Jg-QE,google,cafe,社科院圖書館,"星期日：12:30 - 星期日 18:30
 星期一：13:30 - 星期一 18:30
 星期二：12:30 - 星期二 18:30
 星期三：12:30 - 星期三 18:30
 星期四：12:30 - 星期四 18:30
 星期五：12:30 - 星期五 18:30
-星期六：12:30 - 星期六 18:30",2.0,https://maps.google.com/?cid=142251253866001327,"甜點, 咖啡廳, 早午餐, 打卡店",1
+星期六：12:30 - 星期六 18:30",2.0,https://maps.google.com/?cid=142251253866001327,"咖啡廳, 甜點, 早午餐"
 279,Stoppage Time,"No. 30, Alley 15, Lane 96, Section 2, Heping East Road, Da’an District",4.4,1291,25.023271,121.542277,ChIJb4yk1iiqQjQRmsoLWtZ9nYQ,google,cafe,社科院圖書館,"星期日：11:00 - 星期日 22:00
 星期一：11:00 - 星期一 22:00
 星期二：11:00 - 星期二 22:00
 星期三：11:00 - 星期三 22:00
 星期四：11:00 - 星期四 22:00
 星期五：11:00 - 星期五 22:00
-星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=9555932343937256090,"咖啡廳, 早午餐, 學生愛店, 打卡店, 健康",1
-282,八分目珈琲,"No. 27號, Lane 171, Section 2, Xinhai Road, Da’an District",4.9,288,25.022843,121.541173,ChIJbxtsLE2rQjQRuaCrNE44wXs,google,cafe,社科院圖書館,"星期一：07:30 - 星期一 16:00
-星期二：07:30 - 星期二 16:00
-星期三：07:30 - 星期三 16:00
-星期四：07:30 - 星期四 16:00
-星期五：07:30 - 星期五 16:00
-星期六：08:00 - 星期六 16:00",,https://maps.google.com/?cid=8917470645712560313,"日式, 咖啡廳, 早午餐, 平價快食",1
+星期六：11:00 - 星期六 22:00",2.0,https://maps.google.com/?cid=9555932343937256090,"早午餐, 咖啡廳"
+280,Louisa Coffee,"No. 205號, Section 2, Xinhai Road, Da’an District",3.1,592,25.021679,121.542331,ChIJhaM5Sy-qQjQRma44mnaGM_k,google,cafe,社科院圖書館,"星期日：07:30 - 星期日 18:30
+星期一：07:30 - 星期一 18:30
+星期二：07:30 - 星期二 18:30
+星期三：07:30 - 星期三 18:30
+星期四：07:30 - 星期四 18:30
+星期五：07:30 - 星期五 18:30
+星期六：07:30 - 星期六 18:30",1.0,https://maps.google.com/?cid=17956843983207968409,"甜點, 早餐"
 283,Oneway CAFE玩味咖啡,"No. 38-1號, Lane 118, Section 2, Heping East Road, Da’an District",4.7,804,25.023106,121.542782,ChIJO0Um2CmqQjQR1K5YldZ8Ibw,google,cafe,社科院圖書館,"星期日：12:00 - 星期日 22:00
 星期一：12:00 - 星期一 22:00
 星期二：12:00 - 星期二 22:00
 星期三：12:00 - 星期三 22:00
 星期四：12:00 - 星期四 22:00
 星期五：12:00 - 星期五 22:00
-星期六：12:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=13556253614432366292,"咖啡廳, 學生愛店, 早午餐, 平價快食, 甜點, 飲料",1
+星期六：12:00 - 星期六 22:00",1.0,https://maps.google.com/?cid=13556253614432366292,"咖啡廳, 早午餐, 平價快食"
 284,兜麥咖啡大安店,"一樓, No. 341號, Section 2, Fuxing South Road, Da’an District",4.6,146,25.023459,121.543665,ChIJsTD170irQjQR3GMN6s2BMJY,google,cafe,社科院圖書館,"星期日：10:30 - 星期日 21:30
 星期一：09:30 - 星期一 21:30
 星期二：09:30 - 星期二 21:30
 星期三：09:30 - 星期三 21:30
 星期四：10:10 - 星期四 21:30
 星期五：09:30 - 星期五 21:30
-星期六：09:30 - 星期六 21:30",,https://maps.google.com/?cid=10822292625966326748,"咖啡廳, 甜點, 早午餐, 打卡店",1
-285,I Want It Café (王的咖啡),"No. 4-1號, Lane 118, Section 2, Heping East Road, Da’an District",4.3,16,25.023896,121.542778,ChIJmye4ujKrQjQROAZLsW1RN20,google,cafe,社科院圖書館,,,https://maps.google.com/?cid=7869848405421000248,"甜點, 飲料, 咖啡廳, 早午餐, 冰店",1
+星期六：09:30 - 星期六 21:30",,https://maps.google.com/?cid=10822292625966326748,"咖啡廳, 早午餐, 甜點"
+285,I Want It Café (王的咖啡),"No. 4-1號, Lane 118, Section 2, Heping East Road, Da’an District",4.3,16,25.023896,121.542778,ChIJmye4ujKrQjQROAZLsW1RN20,google,cafe,社科院圖書館,,,https://maps.google.com/?cid=7869848405421000248,"早午餐, 咖啡廳, 甜點"
 286,STARBUCKS Changxing Shop,"No. 85號, Section 3, Keelung Road, Da’an District",4.2,249,25.017346,121.545002,ChIJEzwHJCSrQjQRg7SBxnkc0Y8,google,cafe,社科院圖書館,"星期日：08:30 - 星期日 15:30
 星期一：07:30 - 星期一 19:00
 星期二：07:30 - 星期二 19:00
 星期三：07:30 - 星期三 19:00
 星期四：07:30 - 星期四 19:00
 星期五：07:30 - 星期五 19:00
-星期六：08:30 - 星期六 15:30",2.0,https://maps.google.com/?cid=10363095526903231619,"美式, 咖啡廳, 早餐, 義式",1
+星期六：08:30 - 星期六 15:30",2.0,https://maps.google.com/?cid=10363095526903231619,"美式, 早午餐, 咖啡廳"
 287,Artco De Cafe,"No. 134號, Section 2, Heping East Road, Da’an District",4.2,458,25.024616,121.544537,ChIJ44mEgCmrQjQRgg4k0rxKDZg,google,cafe,社科院圖書館,"星期日：08:00 - 星期日 21:00
 星期一：08:00 - 星期一 21:00
 星期二：08:00 - 星期二 21:00
 星期三：08:00 - 星期三 21:00
 星期四：08:00 - 星期四 21:00
 星期五：08:00 - 星期五 21:00
-星期六：08:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=10956495643302170242,"日式, 台式, 台式, 甜點, 健康, 平價快食, 咖啡廳",1
+星期六：08:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=10956495643302170242,"台式, 健康, 精緻聚餐, 咖啡廳"
 288,85度C咖啡蛋糕飲料麵包 科技大樓店,"No. 98號, Section 2, Heping East Road, Da’an District",4.0,138,25.024971,121.541451,ChIJ5x69H7yrQjQRcu1B77HEw3k,google,cafe,社科院圖書館,"星期日：08:00 - 星期日 17:00
 星期一：07:00 - 星期一 21:00
 星期二：07:00 - 星期二 21:00
 星期三：07:00 - 星期三 21:00
 星期四：07:00 - 星期四 21:00
 星期五：07:00 - 星期五 21:00
-星期六：08:00 - 星期六 21:00",1.0,https://maps.google.com/?cid=8774072767550188914,"甜點, 咖啡廳, 打卡店",1
-289,Life Cafe,"B1, No. 262, 和平東路二段, 大安區",4.8,19,25.024992,121.543993,ChIJHUXpENerQjQRi1IfL4F79So,google,cafe,社科院圖書館,星期日：09:00 - 星期日 13:00,,https://maps.google.com/?cid=3095516113658663563,"甜點, 咖啡廳, 宵夜, 打卡店",1
-290,坵粼咖啡,"2樓, No. 157號, Section 2, Heping East Road, Da’an District",4.6,49,25.025333,121.54143,ChIJr28zAFKrQjQRRCe_CTFyjM0,google,cafe,社科院圖書館,"星期日：14:00 - 星期日 23:30
-星期一：14:00 - 星期一 23:30
-星期二：14:00 - 星期二 23:30
-星期三：14:00 - 星期三 23:30
-星期四：14:00 - 星期四 23:30
-星期五：14:00 - 星期六 02:00
-星期六：14:00 - 星期日 02:00",,https://maps.google.com/?cid=14811338829457205060,"咖啡廳, 甜點, 打卡店",1
+星期六：08:00 - 星期六 21:00",1.0,https://maps.google.com/?cid=8774072767550188914,"咖啡廳, 甜點, 早午餐"
 291,浮生避難所,"No. 5號, Alley 4, Lane 283, Section 2, Heping East Road, Da’an District",4.7,112,25.025373,121.544265,ChIJjZxvPACrQjQR-0pTbvbb_Vo,google,cafe,社科院圖書館,"星期日：11:00 - 星期日 19:00
 星期二：11:00 - 星期二 19:00
 星期三：11:00 - 星期三 19:00
 星期四：11:00 - 星期四 19:00
 星期五：11:00 - 星期五 19:00
-星期六：11:00 - 星期六 19:00",,https://maps.google.com/?cid=6556638483980700411,"日式, 咖啡廳, 打卡店, 甜點",1
+星期六：11:00 - 星期六 19:00",,https://maps.google.com/?cid=6556638483980700411,"甜點, 咖啡廳, 精緻聚餐"
 292,BOOM coffee roasters,"No. 16號, Lane 200, Section 2, Dunhua South Road, Da’an District",4.3,592,25.022788,121.547539,ChIJOYPRMS6qQjQRTi9a5xoTSd4,google,bakery,社科院圖書館,"星期日：10:00 - 星期日 17:30
 星期一：08:30 - 星期一 18:30
 星期二：08:30 - 星期二 18:30
 星期三：08:30 - 星期三 18:30
 星期四：08:30 - 星期四 18:30
-星期五：08:30 - 星期五 18:30",2.0,https://maps.google.com/?cid=16017354555991404366,"早午餐, 咖啡廳, 甜點, 冰店",1
+星期五：08:30 - 星期五 18:30",2.0,https://maps.google.com/?cid=16017354555991404366,"早午餐, 咖啡廳"
+293,McCafé 咖啡-復興二店,"No. 273號, Section 2, Fuxing South Road, Da’an District",3.6,25,25.025679,121.543656,ChIJk4Mi3dKrQjQRxZo_56_LvYY,google,cafe,社科院圖書館,"星期日：07:00 - 星期日 22:00
+星期一：07:00 - 星期一 22:00
+星期二：07:00 - 星期二 22:00
+星期三：07:00 - 星期三 22:00
+星期四：07:00 - 星期四 22:00
+星期五：07:00 - 星期五 22:00
+星期六：07:00 - 星期六 22:00",,https://maps.google.com/?cid=9709140328040078021,"美式, 早午餐, 咖啡廳"
 294,小南通咖啡,"1樓, No. 24號, Lane 175, Section 2, Heping East Road, Da’an District",4.7,414,25.025831,121.541629,ChIJfUtHEkGrQjQREunpdYfV-1o,google,cafe,社科院圖書館,"星期日：12:00 - 星期日 20:00
 星期一：12:00 - 星期一 20:00
 星期二：12:00 - 星期二 20:00
 星期三：12:00 - 星期三 20:00
 星期五：12:00 - 星期五 20:00
-星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=6556068460343453970,"日式, 甜點, 咖啡廳, 早午餐, 早餐",1
+星期六：12:00 - 星期六 20:00",,https://maps.google.com/?cid=6556068460343453970,"日式, 鍋物, 甜點"
 295,The Shed,"No. 32號, Lane 172, Section 2, Dunhua South Road, Da’an District",4.7,511,25.024033,121.546915,ChIJd-rVai6qQjQRU9auVjeHJk0,google,cafe,社科院圖書館,"星期二：11:30 - 星期二 20:00
 星期三：11:30 - 星期三 20:00
 星期四：11:30 - 星期四 20:00
 星期五：11:30 - 星期五 20:00
-星期六：11:30 - 星期六 17:30",2.0,https://maps.google.com/?cid=5559279461782705747,"日式, 甜點, 健康, 咖啡廳, 美式",1
-296,Sun Merry,"No. 287號, Section 2, Fuxing South Road, Da’an District",3.5,126,25.025251,121.543636,ChIJW15g7MWrQjQRnOx2opiRf7I,google,bakery,社科院圖書館,"星期日：08:00 - 星期日 21:30
-星期一：07:30 - 星期一 21:30
-星期二：07:30 - 星期二 21:30
-星期三：07:30 - 星期三 21:30
-星期四：07:30 - 星期四 21:30
-星期五：07:30 - 星期五 21:30
-星期六：08:00 - 星期六 21:30",2.0,https://maps.google.com/?cid=12862159145540185244,"甜點, 麵食, 打卡店",1
+星期六：11:30 - 星期六 17:30",2.0,https://maps.google.com/?cid=5559279461782705747,"台式, 甜點"
 297,Belém Bakery & Eatery,"No. 37, Lane 118, Section 2, Heping East Road, Da’an District",3.7,573,25.023361,121.542937,ChIJq0pcKi-qQjQRtPX3i82bUK0,google,bakery,社科院圖書館,"星期日：11:00 - 星期日 21:00
 星期一：11:00 - 星期一 21:00
 星期二：11:00 - 星期二 21:00
 星期三：11:00 - 星期三 21:00
 星期四：11:00 - 星期四 21:00
 星期五：11:00 - 星期五 21:00
-星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=12488653073817269684,"甜點, 麵食, 早午餐, 打卡店",1
+星期六：11:00 - 星期六 21:00",2.0,https://maps.google.com/?cid=12488653073817269684,"甜點, 早午餐, 精緻聚餐"
 299,Lilliane Bakery NTU Store,"No. 215號, Section 2, Xinhai Road, Da’an District",4.0,145,25.021641,121.542661,ChIJ800CQQCrQjQRjuEHOd6xXvA,google,bakery,社科院圖書館,"星期日：10:30 - 星期日 20:00
 星期二：10:30 - 星期二 21:00
 星期三：10:30 - 星期三 20:00
 星期四：10:30 - 星期四 21:00
 星期五：10:30 - 星期五 21:00
-星期六：10:30 - 星期六 21:00",,https://maps.google.com/?cid=17320476784911180174,"甜點, 咖啡廳, 打卡店",1
+星期六：10:30 - 星期六 21:00",,https://maps.google.com/?cid=17320476784911180174,"甜點, 早餐, 咖啡廳"
 300,郁見紅豆餅,"No. 368-3, Section 2, Fuxing South Road, Da’an District",4.7,33,25.021632,121.543132,ChIJAXc6IwCrQjQRouT8Y7mqwRc,google,bakery,社科院圖書館,"星期日：11:30 - 星期日 20:00
 星期一：11:30 - 星期一 20:00
 星期二：11:30 - 星期二 20:00
 星期三：11:30 - 星期三 20:00
 星期四：11:30 - 星期四 20:00
-星期五：11:30 - 星期五 20:00",,https://maps.google.com/?cid=1711837046600688802,"甜點, 台式, 宵夜, 打卡店",1
+星期五：11:30 - 星期五 20:00",,https://maps.google.com/?cid=1711837046600688802,"甜點, 台式"
 301,大吉先生 BAKEsmith 豆漿蛋糕 | 究．鮮．熟成,"看到7-11 右轉再右轉就到了.ᐟ.ᐟ, No. 381之1號, Section 2, Fuxing South Road, Da’an District",4.9,1805,25.022202,121.543573,ChIJaYaWJDarQjQRygvex4ukeNw,google,bakery,社科院圖書館,"星期一：09:00 - 星期一 18:30
 星期二：09:00 - 星期二 18:30
 星期三：09:00 - 星期三 18:30
 星期四：09:00 - 星期四 18:30
-星期五：09:00 - 星期五 18:30",,https://maps.google.com/?cid=15886628605810052042,"甜點, 健康, 早午餐, 打卡店",1
-302,無尾熊雞蛋糕,"No. 39號, Lane 118, Section 2, Heping East Road, Da’an District",4.5,17,25.023272,121.542959,ChIJ93jIeQCrQjQRq1StdbeDavM,google,bakery,社科院圖書館,"星期一：15:00 - 星期一 19:30
-星期二：15:00 - 星期二 19:30
-星期三：15:00 - 星期三 19:30
-星期四：15:00 - 星期四 19:30
-星期五：15:00 - 星期五 19:30",,https://maps.google.com/?cid=17539976522724365483,"甜點, 早餐",1
+星期五：09:00 - 星期五 18:30",,https://maps.google.com/?cid=15886628605810052042,"甜點, 早午餐"
 303,川雨,"No. 345號, Section 2, Fuxing South Road, Da’an District",4.5,435,25.023319,121.543635,ChIJM4t8eYypQjQRmNY8EBXguY0,google,bakery,社科院圖書館,"星期一：10:30 - 星期一 20:00
 星期二：10:30 - 星期二 20:00
 星期三：10:30 - 星期三 20:00
 星期四：10:30 - 星期四 20:00
 星期五：10:30 - 星期五 20:00
-星期六：10:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=10212440011110667928,"甜點, 早餐, 精緻聚餐, 打卡店",1
-304,里洋烘培坊,"106216）第一學生活動中心活大餐聽, No. 1號, 羅斯福路四段, Da’an District",4.8,53,25.018274,121.540195,ChIJkTYAkvWrQjQROlMEwDxwiUM,google,bakery,社科院圖書館,"星期一：09:00 - 星期一 20:00
-星期二：09:00 - 星期二 20:00
-星期三：09:00 - 星期三 20:00
-星期四：09:00 - 星期四 20:00
-星期五：09:00 - 星期五 20:00
-星期六：10:00 - 星期六 19:00",,https://maps.google.com/?cid=4866544278572389178,"日式, 甜點, 學生愛店",1
-305,良果烘焙坊,"No. 189號, Section 2, Heping East Road, Da’an District",4.3,118,25.025273,121.542075,ChIJJYUzTymqQjQRZEHTLpcOGhM,google,bakery,社科院圖書館,"星期日：07:30 - 星期日 21:00
-星期一：07:30 - 星期一 21:30
-星期二：07:30 - 星期二 21:30
-星期三：07:30 - 星期三 21:30
-星期四：07:30 - 星期四 21:30
-星期五：07:30 - 星期五 21:30
-星期六：07:30 - 星期六 21:00",1.0,https://maps.google.com/?cid=1376428678603555172,"甜點, 便當, 早餐, 冰店",1
-306,La fossette 老法的酒窩 法式甜點,"No. 157號, Section 2, Heping East Road, Da’an District",4.8,858,25.025342,121.541395,ChIJw0fmDzGrQjQRZoDOpRocr8c,google,bakery,社科院圖書館,"星期一：08:00 - 星期一 19:00
-星期二：08:00 - 星期二 19:00
-星期三：08:00 - 星期三 19:00
-星期四：08:00 - 星期四 19:00
-星期五：08:00 - 星期五 19:00
-星期六：08:00 - 星期六 16:30",2.0,https://maps.google.com/?cid=14388750235248525414,"甜點, 早餐, 打卡店",1
+星期六：10:30 - 星期六 20:00",1.0,https://maps.google.com/?cid=10212440011110667928,"麵食, 甜點"
+307,盛味豐炭烤燒餅,"No. 321號, Section 2, Heping East Road, Da’an District",4.5,585,25.024926,121.545333,ChIJeUcnhi6qQjQRZPc14do3CLA,google,bakery,社科院圖書館,"星期一：06:30 - 星期一 18:30
+星期二：06:30 - 星期二 18:30
+星期三：06:30 - 星期三 18:30
+星期四：06:30 - 星期四 18:30
+星期五：06:30 - 星期五 18:30
+星期六：06:30 - 星期六 18:00",1.0,https://maps.google.com/?cid=12684449763709810532,"台式, 早餐, 平價快食"
 308,鑫吉野烤肉飯-大安和平店（外送便當、團體餐盒）,"No. 61-1號, Lane 118, Section 2, Heping East Road, Da’an District",4.1,254,25.022235,121.542926,ChIJAyLT7cCrQjQR9bZzHGPG0qI,google,meal_takeaway,社科院圖書館,"星期一：09:00 - 星期一 20:30
 星期二：09:00 - 星期二 20:30
 星期三：09:00 - 星期三 20:30
 星期四：09:00 - 星期四 20:30
 星期五：09:00 - 星期五 20:30
-星期六：09:00 - 星期六 20:30",,https://maps.google.com/?cid=11732658108234970869,"台式, 便當, 學生愛店, 打卡店, 燒烤",1
-309,Home Slice Pizza TW 2/美國手作披薩 和平店,"1樓, No. 9號, Alley 52, Lane 118, Section 2, Heping East Road, Da’an District",4.9,202,25.022434,121.542355,ChIJVxRcjl-rQjQR6bKzhbtmMaE,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=11615177869553283817,"美式, 宵夜, 平價快食, 打卡店",1
+星期六：09:00 - 星期六 20:30",,https://maps.google.com/?cid=11732658108234970869,"飯食, 便當, 燒烤, 平價快食"
+309,Home Slice Pizza TW 2/美國手作披薩 和平店,"1樓, No. 9號, Alley 52, Lane 118, Section 2, Heping East Road, Da’an District",4.9,202,25.022434,121.542355,ChIJVxRcjl-rQjQR6bKzhbtmMaE,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=11615177869553283817,美式
 310,小姊姊麻辣小屋,"No. 344號, Section 2, Fuxing South Road, Da’an District",3.9,156,25.022407,121.543201,ChIJs673YrSrQjQRA34Gz7F2l04,google,meal_takeaway,社科院圖書館,"星期日：11:00 - 星期日 23:00
 星期一：11:00 - 星期一 21:30
 星期二：11:00 - 星期二 23:00
 星期三：11:00 - 星期三 23:00
 星期四：11:00 - 星期四 23:00
 星期五：11:00 - 星期五 23:00
-星期六：11:00 - 星期六 23:00",,https://maps.google.com/?cid=5663125562496286211,"中式, 便當, 自助, 小吃, 學生愛店",1
+星期六：11:00 - 星期六 23:00",,https://maps.google.com/?cid=5663125562496286211,"鍋物, 便當, 學生愛店"
 311,大安米粉湯,"No. 316號, Section 2, Fuxing South Road, Da’an District",4.8,771,25.02347,121.543218,ChIJszfXBACrQjQROOfczPudE_I,google,meal_takeaway,社科院圖書館,"星期日：10:30 - 星期一 03:00
 星期一：10:30 - 星期二 03:00
 星期二：10:30 - 星期三 03:00
 星期三：10:30 - 星期四 03:00
 星期四：10:30 - 星期五 03:00
 星期五：10:30 - 星期六 03:00
-星期六：10:30 - 星期日 03:00",,https://maps.google.com/?cid=17443459486535444280,"台式, 便當, 麵食, 美式, 平價快食, 宵夜",1
-312,阿弟炒麵,"No. 38號, Dunnan Street, Da’an District",4.4,5,25.023349,121.546472,ChIJQRDMKrqrQjQRkspeYejZaCU,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=2695643969070484114,"中式, 麵食, 便當, 平價快食",1
-317,Freshgreen,"No. 12號, Alley 34, Lane 311, Section 2, Heping East Road, Da’an District",4.8,95,25.025609,121.544426,ChIJX4ldRt-rQjQRF48iEd_xvws,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=846661195336421143,"健康, 便當, 美式, 精緻聚餐, 宵夜, 打卡店",1
+星期六：10:30 - 星期日 03:00",,https://maps.google.com/?cid=17443459486535444280,"台式, 麵食, 便當, 平價快食"
+312,阿弟炒麵,"No. 38號, Dunnan Street, Da’an District",4.4,5,25.023349,121.546472,ChIJQRDMKrqrQjQRkspeYejZaCU,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=2695643969070484114,中式
+314,盒膳房小舖,"之3, No. 12號, Alley 14, Lane 200, Section 2, Dunhua South Road, Da’an District",4.4,5,25.021809,121.547542,ChIJi3oYclarQjQR8-AhUk_LBQs,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=794264450841567475,"台式, 便當, 平價快食"
+315,景美阿郎鹽酥雞,"No. 3, Lane 311, Section 2, Heping East Road, Da’an District",3.8,171,25.025024,121.545167,ChIJMaLuhS6qQjQRwImwU5HwABs,google,meal_takeaway,社科院圖書館,"星期日：18:00 - 星期一 00:00
+星期二：18:00 - 星期三 00:00
+星期三：18:00 - 星期四 00:00
+星期四：18:00 - 星期五 00:00
+星期五：18:00 - 星期六 00:00
+星期六：18:00 - 星期日 00:00",,https://maps.google.com/?cid=1945819545989056960,"炸物, 宵夜, 台式"
+317,Freshgreen,"No. 12號, Alley 34, Lane 311, Section 2, Heping East Road, Da’an District",4.8,95,25.025609,121.544426,ChIJX4ldRt-rQjQRF48iEd_xvws,google,meal_takeaway,社科院圖書館,,,https://maps.google.com/?cid=846661195336421143,"健康, 便當, 精緻聚餐"
 319,吳二麻辣鴨血（台大店）,"No. 1號, Alley 52, Lane 118, Section 2, Heping East Road, Da’an District",0.0,0,25.022433,121.542697,ChIJFeHUg72rQjQRbcPrmjYW9PY,google,meal_takeaway,社科院圖書館,"星期日：11:30 - 星期日 20:30
 星期一：11:30 - 星期一 20:30
 星期二：11:30 - 星期二 20:30
 星期三：11:30 - 星期三 20:30
 星期四：11:30 - 星期四 20:30
 星期五：11:30 - 星期五 20:30
-星期六：11:30 - 星期六 20:30",,https://maps.google.com/?cid=17794872451430859629,"中式, 麵食, 火鍋, 宵夜",1
-326,春山茶水舖,"No. 323, Section 2, Fuxing South Road, Da’an District",4.5,1797,25.023897,121.543567,ChIJhffc2i6qQjQRcEMd2wIyjGc,google,food,社科院圖書館,"星期一：08:00 - 星期一 16:00
-星期二：08:00 - 星期二 16:00
-星期三：08:00 - 星期三 16:00
-星期四：08:00 - 星期四 16:00
-星期五：08:00 - 星期五 16:00
-星期六：08:00 - 星期六 16:00",,https://maps.google.com/?cid=7461393670493520752,"飲料, 學生愛店, 打卡店, 冰店",1
+星期六：11:30 - 星期六 20:30",,https://maps.google.com/?cid=17794872451430859629,"麵食, 港式"
